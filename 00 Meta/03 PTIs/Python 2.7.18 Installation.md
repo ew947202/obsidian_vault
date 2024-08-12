@@ -1,0 +1,32 @@
+---
+pti: ticket
+status: onhold
+---
+pti: ticket 
+status: onhold
+closed: yyyy-mm-dd
+user: [[Cameron Grebe]]
+group: 
+source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82456&PORTALID=1
+relates: 
+id: 2024080609150100
+
+---
+### Description
+- User would like to have Python 2.7.18 installed for specific code that needs to be run for a project. Partner that provided the script does not support using Anaconda, which would be the normal use case.
+-
+
+---
+## Daily Log
+### [[2024-08-06]]
+- Python 2.x is end of life and is no longer supported
+	- [x] Reached out to user to see if Python 3.x is a solution.
+---
+## Daily Log
+### [[2024-08-12]]
+- [ ] Reached out to user to see if Python 3.x was able to run code, waiting on response.
+---
+
+
+
+
