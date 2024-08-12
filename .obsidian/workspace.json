@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
+                "file": "00 Meta/01 Periodics/2024-08-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
+                "file": "00 Meta/01 Periodics/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
+                "file": "00 Meta/01 Periodics/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md"
+                "file": "00 Meta/01 Periodics/2024-08-12.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md"
+                "file": "00 Meta/01 Periodics/2024-08-12.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
+    "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-08-12.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
@@ -206,7 +207,6 @@
     "vault_repo/00 Meta/03 PTIs/Need help with Teams.md",
     "vault_repo/00 Meta/03 PTIs/Printer Setup.md",
     "vault_repo/00 Meta/03 PTIs/Need DUO App on my Phone.md",
-    "vault_repo/00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
     "vault_repo/00 Meta/03 PTIs",
     "Untitled.canvas"
   ]
