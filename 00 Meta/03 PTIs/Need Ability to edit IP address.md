@@ -18,8 +18,8 @@ id: 2024081207372380
 ---
 ## Daily Log
 ### [[2024-08-12]]
-- [ ] The request has been approved by Marcos. Waiting for users device to be connected to the network so I can remotely add the user to the proper group
-	- Computer Management > Connect to another computer > Local Users and Groups > Groups > Network Configuration Operators 
+- [x] The request has been approved by Marcos. Waiting for users device to be connected to the network so I can remotely add the user to the proper group
+- Reference [[Network Configuration Operators]]
 ---
 
 

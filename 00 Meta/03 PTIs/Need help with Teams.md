@@ -1,13 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
-
-
-
 pti: ticket 
-status: open
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-12
 user: [[Ray Ruscitti]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82604&PORTALID=1
@@ -25,7 +22,8 @@ id: 2024080914433442
 ---
 ## Daily Log
 ### [[2024-08-12]]
-- [ ] User would like to schedule time to remove (classic) Teams at 12, already have a meeting so suggested 12:30
+- [x] User would like to schedule time to remove (classic) Teams at 12, already have a meeting so suggested 12:30
+	- [x] Installed on users device
 ---
 
 
