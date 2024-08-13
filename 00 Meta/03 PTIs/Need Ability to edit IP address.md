@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: on hold
+status: onhold
 ---
 pti: ticket 
-status: open
+status: onhold
 closed: yyyy-mm-dd
 user: [[Richard Romo]]
 group: 
@@ -21,6 +21,14 @@ id: 2024081207372380
 - [x] The request has been approved by Marcos. Waiting for users device to be connected to the network so I can remotely add the user to the proper group
 - Reference [[Network Configuration Operators]]
 ---
+## Daily Log
+### [[2024-08-13]]
+- [x] Added user to Network Configuration Operators via remote Computer Management.
+    - [ ] Waiting to confirm user is able to change IP
+---
+
+
+
 
 
 
