@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-13.md",
+                "file": "00 Meta/03 PTIs/Access to Project PILLS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-13.md",
+                "file": "00 Meta/03 PTIs/Access to Project PILLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-13.md",
+                "file": "00 Meta/03 PTIs/Access to Project PILLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-13.md"
+                "file": "00 Meta/03 PTIs/Access to Project PILLS.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-13.md"
+                "file": "00 Meta/03 PTIs/Access to Project PILLS.md"
               }
             }
           }
@@ -172,11 +172,12 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
+    "00 Meta/03 PTIs/Install Software to Compare Text Files.md",
+    "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
     "00 Meta/03 PTIs/Creo failing to retrieve license.md",
     "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/03 PTIs/New Computer still doesn't work.md",
-    "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/03 PTIs/Need help with Teams.md",
     "00 Meta/01 Periodics/2024-08-02.md",
     "00 Meta/03 PTIs/Problem with access to all computer areas.md",
@@ -197,7 +198,6 @@
     "10 Documentation/11 Windows/SHB Configuration.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
-    "00 Meta/03 PTIs/Need ability to Edit IP.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
