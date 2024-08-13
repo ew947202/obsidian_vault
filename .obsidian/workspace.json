@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/03 PTIs/Creo failing to retrieve license.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/03 PTIs/Creo failing to retrieve license.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/03 PTIs/Creo failing to retrieve license.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/03 PTIs/Creo failing to retrieve license.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/03 PTIs/Creo failing to retrieve license.md"
               }
             }
           }
@@ -172,12 +172,22 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "00 Meta/03 PTIs/Install Labview on my computer.md",
-    "Dashboard/Homepage PTIs.md",
+    "00 Meta/01 Periodics/2024-08-12.md",
+    "00 Meta/03 PTIs/New Computer still doesn't work.md",
+    "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/03 PTIs/Creo failing to retrieve license.md",
+    "00 Meta/03 PTIs/Need help with Teams.md",
+    "00 Meta/01 Periodics/2024-08-02.md",
+    "00 Meta/03 PTIs/Problem with access to all computer areas.md",
+    "00 Meta/01 Periodics/2024-08-05.md",
+    "00 Meta/01 Periodics/2024-08-06.md",
+    "00 Meta/01 Periodics/2024-08-07.md",
+    "00 Meta/01 Periodics/2024-08-08.md",
+    "00 Meta/01 Periodics/2024-08-09.md",
+    "Dashboard/Homepage PTIs.md",
+    "00 Meta/03 PTIs/Install Labview on my computer.md",
     "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
     "00 Meta/03 PTIs/FC Server Room Inventory.md",
-    "00 Meta/01 Periodics/2024-08-12.md",
     "20 Projects/Development Path.md",
     "10 Documentation/14 O365/Error Code - 53003.md",
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
@@ -187,26 +197,16 @@
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
     "00 Meta/03 PTIs/Need ability to Edit IP.md",
-    "00 Meta/03 PTIs/Need help with Teams.md",
     "00 Meta/03 PTIs/PAX Installation.md",
-    "vault_repo/00 Meta/01 Periodics/2024-08-09.md",
-    "vault_repo/Untitled/Homepage PTIs.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
     "vault_repo/Canon Secure Print for IT and End User Draft.docx",
-    "vault_repo/20 Projects/Development Path.md",
     "vault_repo/20 Projects",
-    "vault_repo/10 Documentation/11 Windows/Printers/Canon Secure Print.md",
-    "vault_repo/10 Documentation/14 O365/Error Code - 53003.md",
     "vault_repo/10 Documentation/11 Windows/Printers",
-    "vault_repo/10 Documentation/11 Windows/SHB Configuration.md",
-    "vault_repo/10 Documentation/11 Windows/Default Software Script.md",
     "vault_repo/10 Documentation/14 O365",
     "vault_repo/10 Documentation/11 Windows",
     "vault_repo/10 Documentation",
-    "vault_repo/00 Meta/03 PTIs/Software Request.md",
-    "vault_repo/00 Meta/03 PTIs/Python 2.7.18 Installation.md",
     "vault_repo/00 Meta/03 PTIs",
     "Untitled.canvas"
   ]

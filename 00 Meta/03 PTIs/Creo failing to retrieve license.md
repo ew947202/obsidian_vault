@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-13
 user: [[Djibril Ndiaye]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82650&fromListView=true&PORTALID=1
@@ -18,8 +18,15 @@ id: 2024081212545157
 ## Daily Log
 ### [[2024-08-12]]
 - [x] Reached out to Brian to see if we pulled his license
-	- [ ] Worked with Brian and Dario seems to be a ZScaler issue, messaged user to try running software with ZScaler turned off, did that solve?
+	- [x] Worked with Brian and Dario seems to be a ZScaler issue, messaged user to try running software with ZScaler turned off, did that solve?
 ---
+## Daily Log
+### [[2024-08-13]]
+- [x] Turning off ZScaler resolved the users issue
+- [x] Passing ticket to Reyna since ZScaler needs to be investigated more.
+---
+
+
 
 
 
