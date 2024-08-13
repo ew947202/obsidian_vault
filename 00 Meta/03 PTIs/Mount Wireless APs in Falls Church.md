@@ -21,7 +21,7 @@ id: 2024080516444274
 ## Weekly Log
 ### [[2024-08-05]]
 - [x] Replaced AP cables and moving them 10ft from SCIF (horizontally for right now)
-	- [ ] Currently waiting to hear what we are going to do with the other two floors?
+	- [x] Currently waiting to hear what we are going to do with the other two floors?
 ---
 ## Weekly Log
 ### [[2024-08-12]]

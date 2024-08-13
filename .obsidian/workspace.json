@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-12.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-12.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-12.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-12.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-12.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -172,16 +172,23 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
+    "00 Meta/03 PTIs/Install Labview on my computer.md",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/03 PTIs/Creo failing to retrieve license.md",
+    "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
+    "00 Meta/03 PTIs/FC Server Room Inventory.md",
     "00 Meta/01 Periodics/2024-08-12.md",
+    "20 Projects/Development Path.md",
+    "10 Documentation/14 O365/Error Code - 53003.md",
+    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "10 Documentation/11 Windows/Default Software Script.md",
+    "10 Documentation/11 Windows/SHB Configuration.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
-    "00 Meta/03 PTIs/Creo failing to retrieve license.md",
     "00 Meta/03 PTIs/Need ability to Edit IP.md",
     "00 Meta/03 PTIs/Need help with Teams.md",
     "00 Meta/03 PTIs/PAX Installation.md",
-    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "vault_repo/00 Meta/01 Periodics/2024-08-09.md",
     "vault_repo/Untitled/Homepage PTIs.md",
     "vault_repo/Untitled",
@@ -200,13 +207,6 @@
     "vault_repo/10 Documentation",
     "vault_repo/00 Meta/03 PTIs/Software Request.md",
     "vault_repo/00 Meta/03 PTIs/Python 2.7.18 Installation.md",
-    "vault_repo/00 Meta/03 PTIs/Teams video not working.md",
-    "vault_repo/00 Meta/03 PTIs/Problem with access to all computer areas.md",
-    "vault_repo/00 Meta/03 PTIs/Problem logging onto gov site.md",
-    "vault_repo/00 Meta/03 PTIs/PAX Installation.md",
-    "vault_repo/00 Meta/03 PTIs/Need help with Teams.md",
-    "vault_repo/00 Meta/03 PTIs/Printer Setup.md",
-    "vault_repo/00 Meta/03 PTIs/Need DUO App on my Phone.md",
     "vault_repo/00 Meta/03 PTIs",
     "Untitled.canvas"
   ]

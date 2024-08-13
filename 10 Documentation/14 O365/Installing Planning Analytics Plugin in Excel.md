@@ -1,5 +1,4 @@
-### *The installer for PAX is located at: `\\arete\shared\Arlington\Users\ewillingham`*
-
+ *The installer for PAX is located at: `\\arete\shared\Arlington\Users\ewillingham`*
 
 1. Open Excel and navigate to `File > Options > Trust Center > Trusted Locations`
 	1. Click *Add new location* and copy and paste the following path onto the system: `C:\Users\%username%\AppData\Roaming\Microsoft\AddIns\`

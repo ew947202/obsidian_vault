@@ -18,6 +18,7 @@ id: 2024081212545157
 ## Daily Log
 ### [[2024-08-12]]
 - [x] Reached out to Brian to see if we pulled his license
+	- [ ] Worked with Brian and Dario seems to be a ZScaler issue, messaged user to try running software with ZScaler turned off, did that solve?
 ---
 
 

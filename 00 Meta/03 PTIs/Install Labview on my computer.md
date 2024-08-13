@@ -22,7 +22,7 @@ id: 2024080708570887
 ---
 ## Daily Log
 ### [[2024-08-09]]
-- [x] Reached out to user again to find a time that works to install the software
+- [ ] Reached out to user again to find a time that works to install the software, waiting on response.
 ---
 
 
