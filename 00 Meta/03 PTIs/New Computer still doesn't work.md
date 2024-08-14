@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-14
 user: [[Steven Weinreb]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82688&fromListView=true&PORTALID=1
@@ -19,6 +19,13 @@ id: 2024081309171043
 ### [[2024-08-13]]
 - [x] Reached out to Brian to see if he has any more insight as to what is going on
 ---
+## Daily Log
+### [[2024-08-14]]
+- [ ] Created new windows profile for user and O365 apps worked
+---
+
+
+
 
 
 

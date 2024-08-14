@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
+                "file": "00 Meta/03 PTIs/New Computer still doesn't work.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "need abili",
+                "query": "weinre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
+                "file": "00 Meta/03 PTIs/New Computer still doesn't work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
+                "file": "00 Meta/03 PTIs/New Computer still doesn't work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md"
+                "file": "00 Meta/03 PTIs/New Computer still doesn't work.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md"
+                "file": "00 Meta/03 PTIs/New Computer still doesn't work.md"
               }
             }
           }
@@ -170,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "577b35cdc9cfe507",
+  "active": "9953373a497cbf19",
   "lastOpenFiles": [
+    "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-08-14.md",
     "00 Meta/01 Periodics/2024-08-13.md",
@@ -197,7 +198,6 @@
     "10 Documentation/14 O365/Error Code - 53003.md",
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
-    "10 Documentation/11 Windows/Default Software Script.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
