@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md",
+                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md",
+                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md",
+                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md"
+                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md"
+                "file": "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-08-13.md",
+    "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-08-14.md",
+    "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
     "00 Meta/03 PTIs/Access to Project PILLS.md",
     "00 Meta/03 PTIs/Install Software to Compare Text Files.md",
@@ -189,7 +190,6 @@
     "00 Meta/01 Periodics/2024-08-07.md",
     "00 Meta/01 Periodics/2024-08-08.md",
     "00 Meta/01 Periodics/2024-08-09.md",
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/Install Labview on my computer.md",
     "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
     "00 Meta/03 PTIs/FC Server Room Inventory.md",

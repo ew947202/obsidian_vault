@@ -1,11 +1,11 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 
 pti: ticket
-status: on hold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-14
 user: [[Kelly Hillman]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=81885&PORTALID=1
@@ -23,5 +23,12 @@ id: 2024080214271300
 - [x] Reached out to user to install software
     - [ ] Waiting for response from user
 ---
+## Daily Log
+### [[2024-08-14]]
+- [ ] User has not responded within 2 weeks after three attempts to contact closing ticket
+---
+
+
+
 
 
