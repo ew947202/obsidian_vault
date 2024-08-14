@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket
-status: onhold  
-closed: yyyy-mm-dd
+status: closed  
+closed: 2024-08-14
 user: [[Steven Hotaling]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82439&PORTALID=1
@@ -27,6 +27,13 @@ id: 2024080514514910
     - [x] Updated user with response provided by Devon
 - [x] User confirmed that they didn't have 1TB of data. I let them know that OneDrive will auto backup certain folders.
 ---
+## Daily Log
+### [[2024-08-14]]
+- [ ] User was able to get U: drive mapped
+---
+
+
+
 
 
 
