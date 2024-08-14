@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/I can't find my network U Drive.md",
+                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/I can't find my network U Drive.md",
+                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/I can't find my network U Drive.md",
+                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/I can't find my network U Drive.md"
+                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/I can't find my network U Drive.md"
+                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md"
               }
             }
           }
@@ -170,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "10 Documentation/11 Windows/Procurement Training for Requestors.md",
+    "00 Meta/03 PTIs/I can't find my network U Drive.md",
     "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
     "Dashboard/Homepage PTIs.md",
@@ -195,9 +198,6 @@
     "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
     "00 Meta/03 PTIs/FC Server Room Inventory.md",
     "20 Projects/Development Path.md",
-    "10 Documentation/14 O365/Error Code - 53003.md",
-    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
