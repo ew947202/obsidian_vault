@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md",
+                "file": "00 Meta/01 Periodics/2024-08-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md",
+                "file": "00 Meta/01 Periodics/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md",
+                "file": "00 Meta/01 Periodics/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md"
+                "file": "00 Meta/01 Periodics/2024-08-14.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/11 Windows/Procurement Training for Requestors.md"
+                "file": "00 Meta/01 Periodics/2024-08-14.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "10 Documentation/11 Windows/Procurement Training for Requestors.md",
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/03 PTIs/I can't find my network U Drive.md",
     "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
