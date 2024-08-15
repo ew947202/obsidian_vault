@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md",
+                "file": "20 Projects/DC-TESTHOST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md",
+                "file": "20 Projects/DC-TESTHOST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md",
+                "file": "20 Projects/DC-TESTHOST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md"
+                "file": "20 Projects/DC-TESTHOST.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-14.md"
+                "file": "20 Projects/DC-TESTHOST.md"
               }
             }
           }
@@ -172,13 +172,16 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
+    "20 Projects/Development Path.md",
+    "20 Projects/DC-TESTHOST.md",
+    "10 Documentation/11 Windows/SHB Configuration.md",
+    "00 Meta/01 Periodics/2024-08-14.md",
     "10 Documentation/11 Windows/Procurement Training for Requestors.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/03 PTIs/I can't find my network U Drive.md",
     "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
     "Dashboard/Homepage PTIs.md",
-    "00 Meta/01 Periodics/2024-08-14.md",
     "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
     "00 Meta/03 PTIs/Access to Project PILLS.md",
@@ -195,9 +198,6 @@
     "00 Meta/01 Periodics/2024-08-08.md",
     "00 Meta/01 Periodics/2024-08-09.md",
     "00 Meta/03 PTIs/Install Labview on my computer.md",
-    "00 Meta/03 PTIs/Mount Wireless APs in Falls Church.md",
-    "00 Meta/03 PTIs/FC Server Room Inventory.md",
-    "20 Projects/Development Path.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
