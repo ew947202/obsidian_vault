@@ -21,7 +21,7 @@ id: 2024081309171043
 ---
 ## Daily Log
 ### [[2024-08-14]]
-- [ ] Created new windows profile for user and O365 apps worked
+- [x] Created new windows profile for user and O365 apps worked
 ---
 
 
