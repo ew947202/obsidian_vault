@@ -27,7 +27,7 @@ id: 2024080516375654
 | wbrooks-lt     | Brooks     | William    | 1         |
 | cbridgeman-lt3 | Bridgeman  | Carmen     | 0         |
 | shotaling-lt2  | Hotaling   | Steven     | X         |
-| mread-lt3      | Read       | Michael    | 0         |
+| mread-lt3      | Read       | Michael    | 1         |
 | jcochran-lt3   | Cochran    | Jill       | 1         |
 
 ---
@@ -39,6 +39,12 @@ id: 2024080516375654
 - [ ]  Sent out emails to the remaining users to get software list
 	- Heard back?
 ---
+## Daily Log
+### [[2024-08-15]]
+- [x] Completed mread-lt3 laptop
+---
+
+
 
 
 
