@@ -22,5 +22,5 @@ id: 2024081508293223
 ## Daily Log
 ### [[2024-08-15]]
 - [x] Worked with Reyna to figure out that we don't have a username and pw, but we sign in with offline mode
-- [ ] User 
+- [ ] User is now not able to import models for printing
 ---
