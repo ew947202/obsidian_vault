@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "weinr",
+                "query": "grabc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -172,9 +172,13 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
+    "00 Meta/03 PTIs/Can't install Acrobat Standard.md",
+    "Dashboard/Homepage PTIs.md",
+    "00 Meta/03 PTIs/Python 2.7.18 Installation.md",
+    "00 Meta/03 PTIs/Need Ability to edit IP address.md",
     "00 Meta/01 Periodics/2024-08-15.md",
+    "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "20 Projects/DC-TESTHOST.md",
     "20 Projects/Development Path.md",
     "10 Documentation/11 Windows/SHB Configuration.md",
@@ -183,9 +187,7 @@
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/03 PTIs/I can't find my network U Drive.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-08-13.md",
-    "00 Meta/03 PTIs/Need Ability to edit IP address.md",
     "00 Meta/03 PTIs/Access to Project PILLS.md",
     "00 Meta/03 PTIs/Install Software to Compare Text Files.md",
     "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
@@ -196,8 +198,6 @@
     "00 Meta/03 PTIs/Problem with access to all computer areas.md",
     "00 Meta/01 Periodics/2024-08-05.md",
     "00 Meta/01 Periodics/2024-08-06.md",
-    "00 Meta/01 Periodics/2024-08-07.md",
-    "00 Meta/01 Periodics/2024-08-08.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",

@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-15
 user: [[Cameron Grebe]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82456&PORTALID=1
@@ -14,8 +14,6 @@ id: 2024080609150100
 ---
 ### Description
 - User would like to have Python 2.7.18 installed for specific code that needs to be run for a project. Partner that provided the script does not support using Anaconda, which would be the normal use case.
--
-
 ---
 ## Daily Log
 ### [[2024-08-06]]
@@ -26,6 +24,13 @@ id: 2024080609150100
 ### [[2024-08-12]]
 - [ ] Reached out to user to see if Python 3.x was able to run code, waiting on response.
 ---
+## Daily Log
+### [[2024-08-15]]
+- [x] Ticket was moved to Cyber 
+---
+
+
+
 
 
 

@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-15
 user: [[Richard Romo]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82631&fromListView=true&PORTALID=1
@@ -24,7 +24,7 @@ id: 2024081207372380
 ## Daily Log
 ### [[2024-08-13]]
 - [x] Added user to Network Configuration Operators via remote Computer Management.
-    - [ ] Waiting to confirm user is able to change IP
+    - [x] Waiting to confirm user is able to change IP
 ---
 
 
