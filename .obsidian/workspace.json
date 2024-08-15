@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
+                "file": "00 Meta/01 Periodics/2024-08-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
+                "file": "00 Meta/01 Periodics/2024-08-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
+                "file": "00 Meta/01 Periodics/2024-08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/GrabCAD does not work on my computer.md"
+                "file": "00 Meta/01 Periodics/2024-08-15.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/GrabCAD does not work on my computer.md"
+                "file": "00 Meta/01 Periodics/2024-08-15.md"
               }
             }
           }
@@ -170,12 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "20 Projects/DC-TESTHOST.md",
     "Dashboard/Homepage PTIs.md",
-    "00 Meta/03 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
+    "20 Projects/DC-TESTHOST.md",
+    "00 Meta/03 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/03 PTIs/Can't install Acrobat Standard.md",
     "00 Meta/03 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
