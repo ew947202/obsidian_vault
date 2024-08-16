@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
+                "file": "00 Meta/03 PTIs/FC Server Room Inventory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
+                "file": "00 Meta/03 PTIs/FC Server Room Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
+                "file": "00 Meta/03 PTIs/FC Server Room Inventory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md"
+                "file": "00 Meta/03 PTIs/FC Server Room Inventory.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md"
+                "file": "00 Meta/03 PTIs/FC Server Room Inventory.md"
               }
             }
           }
@@ -172,12 +172,16 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-08-16.md",
-    "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
+    "00 Meta/01 Periodics/2024-08-12.md",
+    "00 Meta/03 PTIs/FC Server Room Inventory.md",
+    "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/01 Periodics/2024-08-15.md",
+    "00 Meta/01 Periodics/2024-08-14.md",
+    "20 Projects/DC-TESTHOST.md",
+    "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
+    "00 Meta/01 Periodics/2024-08-16.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
-    "20 Projects/DC-TESTHOST.md",
     "00 Meta/03 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/03 PTIs/Can't install Acrobat Standard.md",
     "00 Meta/03 PTIs/Python 2.7.18 Installation.md",
@@ -185,19 +189,15 @@
     "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "20 Projects/Development Path.md",
     "10 Documentation/11 Windows/SHB Configuration.md",
-    "00 Meta/01 Periodics/2024-08-14.md",
     "10 Documentation/11 Windows/Procurement Training for Requestors.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/03 PTIs/I can't find my network U Drive.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
-    "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/03 PTIs/Access to Project PILLS.md",
     "00 Meta/03 PTIs/Install Software to Compare Text Files.md",
     "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
     "00 Meta/03 PTIs/Creo failing to retrieve license.md",
-    "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/03 PTIs/Need help with Teams.md",
-    "00 Meta/01 Periodics/2024-08-02.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
