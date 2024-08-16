@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md",
+                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md",
+                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md",
+                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md"
+                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-15.md"
+                "file": "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md"
               }
             }
           }
@@ -171,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a731b510a1a35b96",
+  "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-08-16.md",
+    "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
+    "00 Meta/01 Periodics/2024-08-15.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
     "20 Projects/DC-TESTHOST.md",
@@ -180,7 +182,6 @@
     "00 Meta/03 PTIs/Can't install Acrobat Standard.md",
     "00 Meta/03 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
-    "00 Meta/01 Periodics/2024-08-15.md",
     "00 Meta/03 PTIs/New Computer still doesn't work.md",
     "20 Projects/Development Path.md",
     "10 Documentation/11 Windows/SHB Configuration.md",
@@ -197,8 +198,6 @@
     "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/03 PTIs/Need help with Teams.md",
     "00 Meta/01 Periodics/2024-08-02.md",
-    "00 Meta/03 PTIs/Problem with access to all computer areas.md",
-    "00 Meta/01 Periodics/2024-08-05.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
