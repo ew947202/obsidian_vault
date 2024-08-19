@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: open
+status: closed
 ---
 pti: ticket 
-status: open
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-16
 user: [[Kelly Devillier]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82778&PORTALID=1
@@ -17,10 +17,9 @@ id: 2024081608332391
 ---
 ## Daily Log
 ### [[2024-08-16]]
-- [ ] Let the user know that once she has the installer downloaded we can remote in and complete the installation
+- [x] Let the user know that once she has the installer downloaded we can remote in and complete the installation
+- [ ] Installed software on users device 
 ---
-```
-
 
 
 

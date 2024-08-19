@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
+                "file": "00 Meta/03 PTIs/Install Labview on my computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
+                "file": "00 Meta/03 PTIs/Install Labview on my computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
+                "file": "00 Meta/03 PTIs/Install Labview on my computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md"
+                "file": "00 Meta/03 PTIs/Install Labview on my computer.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md"
+                "file": "00 Meta/03 PTIs/Install Labview on my computer.md"
               }
             }
           }
@@ -172,8 +172,10 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-08-19.md",
+    "Dashboard/Homepage PTIs.md",
+    "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
     "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
+    "00 Meta/01 Periodics/2024-08-19.md",
     "00 Meta/01 Periodics/2024-08-16.md",
     "00 Meta/01 Periodics/2024-08-09.md",
     "00 Meta/01 Periodics/2024-08-12.md",
@@ -184,8 +186,6 @@
     "00 Meta/03 PTIs/Can't install Acrobat Standard.md",
     "00 Meta/03 PTIs/FC Server Room Inventory.md",
     "20 Projects/DC-TESTHOST.md",
-    "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/GrabCAD does not work on my computer.md",
     "00 Meta/03 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/03 PTIs/Python 2.7.18 Installation.md",
