@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d533163ae9753c4e",
+        "id": "f737682be8c7ee8c",
         "type": "tabs",
         "children": [
           {
-            "id": "577b35cdc9cfe507",
+            "id": "263bf65a48ff4c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Install Labview on my computer.md",
+                "file": "00 Meta/03 PTIs/Access to MDA241-014.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mill",
+                "query": "FIX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Install Labview on my computer.md",
+                "file": "00 Meta/03 PTIs/Access to MDA241-014.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Install Labview on my computer.md",
+                "file": "00 Meta/03 PTIs/Access to MDA241-014.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Install Labview on my computer.md"
+                "file": "00 Meta/03 PTIs/Access to MDA241-014.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Install Labview on my computer.md"
+                "file": "00 Meta/03 PTIs/Access to MDA241-014.md"
               }
             }
           }
@@ -170,15 +170,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "577b35cdc9cfe507",
+  "active": "263bf65a48ff4c75",
   "lastOpenFiles": [
+    "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
+    "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
+    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
+    "00 Meta/01 Periodics/2024-08-12.md",
+    "00 Meta/03 PTIs/Access to MDA241-014.md",
+    "00 Meta/03 PTIs/Access to Project PILLS.md",
+    "00 Meta/03 PTIs/2024 Computer Refreshes - Arlington.md",
+    "00 Meta/03 PTIs/Problem with access to all computer areas.md",
+    "00 Meta/03 PTIs/Install Labview on my computer.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
     "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
     "00 Meta/01 Periodics/2024-08-19.md",
     "00 Meta/01 Periodics/2024-08-16.md",
     "00 Meta/01 Periodics/2024-08-09.md",
-    "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/01 Periodics/2024-08-14.md",
     "00 Meta/01 Periodics/2024-08-15.md",
@@ -190,14 +198,6 @@
     "00 Meta/03 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/03 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/03 PTIs/Need Ability to edit IP address.md",
-    "00 Meta/03 PTIs/New Computer still doesn't work.md",
-    "20 Projects/Development Path.md",
-    "10 Documentation/11 Windows/SHB Configuration.md",
-    "10 Documentation/11 Windows/Procurement Training for Requestors.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
-    "00 Meta/03 PTIs/I can't find my network U Drive.md",
-    "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
-    "00 Meta/03 PTIs/Access to Project PILLS.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
