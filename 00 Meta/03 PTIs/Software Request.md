@@ -27,3 +27,10 @@ id: 2024080212362450
 ### [[2024-08-12]]
 - [x] User has not been able to download the installer. Putting ticket on hold until end of this week and will check back
 ---
+## Daily Log
+### [[2024-08-19]]
+- [ ] User is able to leave device overnight. Gave him the shared drive where he can pull down the installer and he will reach back out once it has completed.
+---
+
+
+
