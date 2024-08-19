@@ -21,7 +21,7 @@ id: 2024081510443768
 ---
 ## Daily Log
 ### [[2024-08-16]]
-- [ ] Installed software on users device
+- [x] Installed software on users device
 ---
 
 
