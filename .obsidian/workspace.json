@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-09.md",
+                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-09.md",
+                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-09.md",
+                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-09.md"
+                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-09.md"
+                "file": "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md"
               }
             }
           }
@@ -172,11 +172,14 @@
   },
   "active": "577b35cdc9cfe507",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-08-19.md",
+    "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
+    "00 Meta/01 Periodics/2024-08-16.md",
+    "00 Meta/01 Periodics/2024-08-09.md",
     "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/01 Periodics/2024-08-14.md",
     "00 Meta/01 Periodics/2024-08-15.md",
-    "00 Meta/01 Periodics/2024-08-16.md",
     "00 Meta/03 PTIs/Project Folder.md",
     "00 Meta/03 PTIs/Can't install Acrobat Standard.md",
     "00 Meta/03 PTIs/FC Server Room Inventory.md",
@@ -195,9 +198,6 @@
     "00 Meta/03 PTIs/I can't find my network U Drive.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
     "00 Meta/03 PTIs/Access to Project PILLS.md",
-    "00 Meta/03 PTIs/Install Software to Compare Text Files.md",
-    "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
-    "00 Meta/03 PTIs/Creo failing to retrieve license.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
