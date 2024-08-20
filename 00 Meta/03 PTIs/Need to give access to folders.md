@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: open
+status: closed
 ---
 pti: ticket 
-status: open
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-20
 user: [[Zandy Williams]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82894&PORTALID=1
@@ -17,9 +17,9 @@ id: 2024082010313935
 ---
 ## Daily Log
 ### [[2024-08-20]]
-- [ ] 
+- [x] Added users to *SPG-ReadOnly* security group
 ---
-```
+
 
 
 
