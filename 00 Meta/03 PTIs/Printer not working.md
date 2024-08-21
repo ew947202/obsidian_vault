@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-21
 user: [[Garrett Clay]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82895&fromListView=true&PORTALID=1
@@ -19,7 +19,7 @@ id: 2024082011375621
 ---
 ## Daily Log
 ### [[2024-08-20]]
-- [ ] Sent user steps to switch from secure print to normal print that does not require a pin. Located [[Canon Secure Print]]
+- [x] Sent user steps to switch from secure print to normal print that does not require a pin. Located [[Canon Secure Print]]
 ---
 
 
