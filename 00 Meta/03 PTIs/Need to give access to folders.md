@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: closed
+status: onhold
 ---
 pti: ticket 
-status: closed
-closed: 2024-08-20
+status: onhold
+closed: 
 user: [[Zandy Williams]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82894&PORTALID=1
@@ -18,6 +18,7 @@ id: 2024082010313935
 ## Daily Log
 ### [[2024-08-20]]
 - [x] Added users to *SPG-ReadOnly* security group
+- [x] User [[Serena Brown]] is still not able to access folder, reaching out to her to remote into device and continue to look into issue
 ---
 
 
