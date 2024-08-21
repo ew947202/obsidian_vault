@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f737682be8c7ee8c",
+        "id": "c80bcfd6bcd7223f",
         "type": "tabs",
         "children": [
           {
-            "id": "263bf65a48ff4c75",
+            "id": "417431a89fa1b446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-08-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-08-12.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/01 Periodics/2024-08-12.md"
               }
             }
           },
@@ -147,17 +147,15 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/01 Periodics/2024-08-12.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "263bf65a48ff4c75",
+  "active": "417431a89fa1b446",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-08-20.md",
+    "2024-W34.md",
+    "20 Projects/DC-TESTHOST.md",
+    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
+    "Dashboard/Homepage PTIs.md",
     "00 Meta/02 Templates/Daily Log Template.md",
     "00 Meta/03 PTIs/2024 Computer Refreshes - Arlington.md",
-    "Dashboard/Homepage PTIs.md",
-    "00 Meta/01 Periodics/2024-08-20.md",
     "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
     "00 Meta/03 PTIs/Requesting ethernet switch and microUSB.md",
     "00 Meta/03 PTIs/Printer not working.md",
@@ -198,8 +199,6 @@
     "00 Meta/01 Periodics/2024-08-09.md",
     "00 Meta/01 Periodics/2024-08-13.md",
     "00 Meta/01 Periodics/2024-08-14.md",
-    "00 Meta/01 Periodics/2024-08-15.md",
-    "00 Meta/03 PTIs/Project Folder.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
@@ -207,7 +206,6 @@
     "vault_repo/20 Projects",
     "vault_repo/10 Documentation/11 Windows/Printers",
     "vault_repo/10 Documentation/14 O365",
-    "vault_repo/10 Documentation/11 Windows",
     "Untitled.canvas"
   ]
 }
