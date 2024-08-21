@@ -29,8 +29,16 @@ id: 2024080212362450
 ---
 ## Daily Log
 ### [[2024-08-19]]
-- [ ] User is able to leave device overnight. Gave him the shared drive where he can pull down the installer and he will reach back out once it has completed.
+- [x] User is able to leave device overnight. Gave him the shared drive where he can pull down the installer and he will reach back out once it has completed.
 ---
+## Daily Log
+### [[2024-08-21]]
+- [ ] user has finished installer download. I remoted into the device and started the software installation, waiting for confirmation from user before closing ticket
+---
+
+
+
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Printer not working.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Printer not working.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Printer not working.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Printer not working.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Printer not working.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -171,13 +171,16 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
+    "00 Meta/03 PTIs/Software Request.md",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/03 PTIs/Sharepoint access denied.md",
+    "00 Meta/03 PTIs/How to insert staff pictures into Powerpoint.md",
+    "00 Meta/03 PTIs/Creo failing to retrieve license.md",
+    "00 Meta/03 PTIs/Printer not working.md",
     "00 Meta/01 Periodics/2024-08-21.md",
     "00 Meta/02 Templates/Daily Note Template.md",
-    "00 Meta/03 PTIs/How to insert staff pictures into Powerpoint.md",
     "20 Projects/Untitled.md",
     "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
-    "00 Meta/03 PTIs/Sharepoint access denied.md",
     "00 Meta/01 Periodics/2024-08-20.md",
     "00 Meta/03 PTIs/Need to give access to folders.md",
     "00 Meta/01 Periodics/2024-08-12.md",
@@ -188,18 +191,15 @@
     "00 Meta/03 PTIs/2024 Computer Refreshes - Arlington.md",
     "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
     "00 Meta/03 PTIs/Requesting ethernet switch and microUSB.md",
-    "00 Meta/03 PTIs/Printer not working.md",
     "00 Meta/01 Periodics/2024-08-19.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",
-    "00 Meta/03 PTIs/Software Request.md",
     "00 Meta/03 PTIs/Access to MDA241-014.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
     "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "00 Meta/03 PTIs/Access to Project PILLS.md",
-    "00 Meta/03 PTIs/Problem with access to all computer areas.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
