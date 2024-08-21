@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
+                "file": "20 Projects/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
+                "file": "20 Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
+                "file": "20 Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md"
+                "file": "20 Projects/Untitled.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md"
+                "file": "20 Projects/Untitled.md"
               }
             }
           }
@@ -169,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f598b67201dd6cf",
+  "active": "417431a89fa1b446",
   "lastOpenFiles": [
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
+    "20 Projects/Untitled.md",
+    "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/Sharepoint access denied.md",
     "00 Meta/01 Periodics/2024-08-20.md",
     "00 Meta/03 PTIs/Need to give access to folders.md",
@@ -199,7 +200,6 @@
     "00 Meta/03 PTIs/Problem with access to all computer areas.md",
     "00 Meta/03 PTIs/Install Labview on my computer.md",
     "00 Meta/03 PTIs/Need dotnet 2.20 installed on my laptop.md",
-    "00 Meta/01 Periodics/2024-08-16.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
