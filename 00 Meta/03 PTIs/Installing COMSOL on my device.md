@@ -17,7 +17,8 @@ id: 2024082213111813
 ---
 ## Daily Log
 ### [[2024-08-22]]
-- [ ] Reached out to user to see when they are free to install the software
+- [x] Reached out to user to see when they are free to install the software
+- [ ] User does not have installer , looked in on ``\\arete\software\corporate\SCCM`` and was able to find a COMSOL folder. Confirming with user what version they need.
 ---
 
 

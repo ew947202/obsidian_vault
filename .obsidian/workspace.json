@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 PTIs/Password.md",
+                "file": "10 Documentation/11 Windows/Network Configuration Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 PTIs/Password.md",
+                "file": "10 Documentation/11 Windows/Network Configuration Operators.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 PTIs/Password.md",
+                "file": "10 Documentation/11 Windows/Network Configuration Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 PTIs/Password.md"
+                "file": "10 Documentation/11 Windows/Network Configuration Operators.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 PTIs/Password.md"
+                "file": "10 Documentation/11 Windows/Network Configuration Operators.md"
               }
             }
           }
@@ -171,6 +171,19 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
+    "10 Documentation/11 Windows/SHB Configuration.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "10 Documentation/11 Windows/Procurement Training for Requestors.md",
+    "10 Documentation/11 Windows/Default Software Script.md",
+    "20 Projects/DC-TESTHOST.md",
+    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
+    "20 Projects/Untitled.md",
+    "20 Projects/Development Path.md",
+    "10 Documentation/14 O365/Error Code - 53003.md",
+    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
+    "00 Meta/03 PTIs/Installing COMSOL on my device.md",
+    "00 Meta/03 PTIs/Password.md",
+    "00 Meta/03 PTIs/Untitled.md",
     "00 Meta/01 Periodics/2024-08-22.md",
     "00 Meta/03 PTIs/Requesting ethernet switch and microUSB.md",
     "00 Meta/01 Periodics/2024-08-21.md",
@@ -178,26 +191,13 @@
     "2024-W34.md",
     "00 Meta/01 Periodics/2024-08-14.md",
     "Dashboard/Homepage PTIs.md",
-    "00 Meta/03 PTIs/Installing COMSOL on my device.md",
     "00 Meta/03 PTIs/Software Request.md",
-    "00 Meta/03 PTIs/Password.md",
-    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
-    "20 Projects/Untitled.md",
     "00 Meta/03 PTIs/Sharepoint access denied.md",
     "00 Meta/03 PTIs/How to insert staff pictures into Powerpoint.md",
     "00 Meta/03 PTIs/Creo failing to retrieve license.md",
     "00 Meta/03 PTIs/Printer not working.md",
     "00 Meta/02 Templates/Daily Note Template.md",
     "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
-    "00 Meta/01 Periodics/2024-08-20.md",
-    "00 Meta/03 PTIs/Need to give access to folders.md",
-    "00 Meta/01 Periodics/2024-08-12.md",
-    "20 Projects/DC-TESTHOST.md",
-    "00 Meta/02 Templates/Daily Log Template.md",
-    "00 Meta/03 PTIs/2024 Computer Refreshes - Arlington.md",
-    "00 Meta/03 PTIs/Jabra Engage 55 Stereo headset won't conenct.md",
-    "00 Meta/01 Periodics/2024-08-19.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",
     "vault_repo/Untitled",
