@@ -15,7 +15,7 @@ id: 2024080212362450
 ---
 ### Description
 - User needs to install Xilinx on his device
-	- [ ] User needs to confirm that the installer has been downloaded locally on his machine 
+	- [x] User needs to confirm that the installer has been downloaded locally on his machine 
 
 ---
 ## Daily Log
