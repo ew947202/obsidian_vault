@@ -21,7 +21,7 @@ id: 2024082011430294
 ---
 ## Daily Log
 ### [[2024-08-22]]
-- [ ] User no longer needs a microUSB but still needs an ethernet cord, he will be in FC tmr to pick it up
+- [ ] User no longer needs a microUSB but still needs an ethernet cord, he will be in FC 2024-08-23 to pick it up
 ---
 
 
