@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-21.md",
+                "file": "00 Meta/03 PTIs/Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-21.md",
+                "file": "00 Meta/03 PTIs/Password.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-21.md",
+                "file": "00 Meta/03 PTIs/Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-21.md"
+                "file": "00 Meta/03 PTIs/Password.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-21.md"
+                "file": "00 Meta/03 PTIs/Password.md"
               }
             }
           }
@@ -171,9 +171,11 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-08-22.md",
+    "00 Meta/03 PTIs/Password.md",
+    "00 Meta/01 Periodics/2024-08-21.md",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "20 Projects/Untitled.md",
-    "00 Meta/01 Periodics/2024-08-21.md",
     "00 Meta/03 PTIs/Software Request.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/03 PTIs/Sharepoint access denied.md",
@@ -198,7 +200,6 @@
     "00 Meta/03 PTIs/Access to MDA241-014.md",
     "00 Meta/03 PTIs/Load BI Report Server on my new laptop.md",
     "00 Meta/03 PTIs/Unable to digitally sign PDFs.md",
-    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "vault_repo/Untitled",
     "vault_repo/Installer.ps1",
     "vault_repo/Installer 1.ps1",
