@@ -17,8 +17,16 @@ id: 2024082011430294
 ---
 ## Daily Log
 ### [[2024-08-20]]
-- [ ] Have an ethernet switch to give to the user, but don't think we have a microUSB 
+- [x] Have an ethernet switch to give to the user, but don't think we have a microUSB 
 ---
+## Daily Log
+### [[2024-08-22]]
+- [ ] User no longer needs a microUSB but still needs an ethernet cord, he will be in FC tmr to pick it up
+---
+
+
+
+
 
 
 
