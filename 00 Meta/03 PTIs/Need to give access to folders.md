@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
+status: closed
 closed: 
 user: [[Zandy Williams]]
 group: 
@@ -20,6 +20,14 @@ id: 2024082010313935
 - [x] Added users to *SPG-ReadOnly* security group
 - [x] User [[Serena Brown]] is still not able to access folder, reaching out to her to remote into device and continue to look into issue
 ---
+## Daily Log
+### [[2024-08-22]]
+- [x] Remoted into [[Serena Brown]] device and was able to access the shared folder.
+---
+
+
+
+
 
 
 

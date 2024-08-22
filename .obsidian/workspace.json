@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Documentation/11 Windows/Network Configuration Operators.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/11 Windows/Network Configuration Operators.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/11 Windows/Network Configuration Operators.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/11 Windows/Network Configuration Operators.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/11 Windows/Network Configuration Operators.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
-    "10 Documentation/11 Windows/SHB Configuration.md",
+    "00 Meta/03 PTIs/Need to give access to folders.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "10 Documentation/11 Windows/SHB Configuration.md",
     "10 Documentation/11 Windows/Procurement Training for Requestors.md",
     "10 Documentation/11 Windows/Default Software Script.md",
     "20 Projects/DC-TESTHOST.md",
@@ -197,7 +198,6 @@
     "00 Meta/03 PTIs/Creo failing to retrieve license.md",
     "00 Meta/03 PTIs/Printer not working.md",
     "00 Meta/02 Templates/Daily Note Template.md",
-    "00 Meta/03 PTIs/Stratasys F120 Printer Setup New Office.md",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",
     "vault_repo/Untitled",
