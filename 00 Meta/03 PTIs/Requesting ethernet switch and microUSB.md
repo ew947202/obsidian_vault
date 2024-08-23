@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-23
 user: [[Garrett Clay]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82897
@@ -21,8 +21,15 @@ id: 2024082011430294
 ---
 ## Daily Log
 ### [[2024-08-22]]
-- [ ] User no longer needs a microUSB but still needs an ethernet cord, he will be in FC 2024-08-23 to pick it up
+- [x] User no longer needs a microUSB but still needs an ethernet cord, he will be in FC 2024-08-23 to pick it up
 ---
+## Daily Log
+### [[2024-08-23]]
+- [x] User stopped by and grabbed ethernet cable
+---
+
+
+
 
 
 
