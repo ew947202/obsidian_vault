@@ -21,7 +21,7 @@ id: 2024080516375654
 | dratay-lt      | Ratay      | Douglas    | 1         |
 | ashull-lt      | Shull      | Antonia    | 1         |
 | schu-lt        | Chu        | Samson     | 1         |
-| elindquist-lt  | Lindquist  | Eric       | 0         |
+| elindquist-lt  | Lindquist  | Eric       | 1         |
 | dfuerlinger-lt | Fuerlinger | Daniel     | 1         |
 | rsmith-lt      | Smith      | Ralph      | 1         |
 | wbrooks-lt     | Brooks     | William    | 1         |
@@ -36,13 +36,21 @@ id: 2024080516375654
 ### [[2024-08-05]]
 - [x] Spoke with shotaling and they would prefer not to upgrade their device for the next year or so
 	- Spoke w/ Devon, his current device supports Windows 11 so we can hold off on the upgrade
-- [ ]  Sent out emails to the remaining users to get software list
+- [x]  Sent out emails to the remaining users to get software list
 	- Heard back?
 ---
 ## Daily Log
 ### [[2024-08-15]]
 - [x] Completed mread-lt3 laptop
 ---
+## Daily Log
+### [[2024-08-26]]
+- [x] Finished elindquist-lt device and emailed him to the device is ready to go.
+---
+
+
+
+
 
 
 
