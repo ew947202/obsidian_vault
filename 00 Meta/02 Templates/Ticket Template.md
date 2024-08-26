@@ -2,9 +2,6 @@
 pti: ticket
 status:
 ---
-
-
-``` markdown
 pti: ticket 
 status: open
 closed: yyyy-mm-dd
@@ -20,4 +17,3 @@ id: <% tp.file.creation_date("YYYYMMDDHHmmssSS") %>
 -
 
 ---
-```

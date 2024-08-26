@@ -20,6 +20,14 @@ id: 2024082213111813
 - [x] Reached out to user to see when they are free to install the software
 - [ ] User does not have installer , looked in on ``\\arete\software\corporate\SCCM`` and was able to find a COMSOL folder. Confirming with user what version they need.
 ---
+## Daily Log
+### [[2024-08-23]]
+- [ ] Attempted to install COMSOL from software folder, but was not able to reach licensing server for azlicense004 (Host 1055) let user know we can try again [[2024-08-26]] to see if the licensing server is back up.
+---
+
+
+
+
 
 
 

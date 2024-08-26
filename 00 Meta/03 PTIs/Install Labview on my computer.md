@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-26
 user: [[Colin Brown]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82513&PORTALID=1
@@ -28,6 +28,14 @@ id: 2024080708570887
 ### [[2024-08-16]]
 - [ ] Reached out to user again to find a time to get the software installed, if does not respond closing request 
 ---
+## Daily Log
+### [[2024-08-26]]
+- [x] Closing request no response from user
+---
+
+
+
+
 
 
 

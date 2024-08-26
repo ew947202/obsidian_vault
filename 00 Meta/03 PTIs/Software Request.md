@@ -1,11 +1,11 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 
 pti: #ticket
-status: #onhold 
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-26
 user: [[Caleb Munsill]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82124&PORTALID=1
@@ -33,8 +33,16 @@ id: 2024080212362450
 ---
 ## Daily Log
 ### [[2024-08-21]]
-- [ ] user has finished installer download. I remoted into the device and started the software installation, waiting for confirmation from user before closing ticket
+- [x] user has finished installer download. I remoted into the device and started the software installation, waiting for confirmation from user before closing ticket
 ---
+## Daily Log
+### [[2024-08-26]]
+- [x] Confirmed functionality closing ticket
+---
+
+
+
+
 
 
 

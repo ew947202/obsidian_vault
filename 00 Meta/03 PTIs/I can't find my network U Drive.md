@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: closed
+status: onhold
 ---
 pti: ticket
-status: closed  
-closed: 2024-08-14
+status: onhold  
+closed: 
 user: [[Steven Hotaling]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82439&PORTALID=1
@@ -31,6 +31,16 @@ id: 2024080514514910
 ### [[2024-08-14]]
 - [ ] User was able to get U: drive mapped
 ---
+## Daily Log
+### [[2024-08-26]]
+- [x] User reopened request and has stated the issue is back 
+	- [x] Sent two responses so far with no response 
+		- [ ] Closing on [[2024-08-28]] if user has note responded
+---
+
+
+
+
 
 
 

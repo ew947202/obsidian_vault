@@ -19,6 +19,14 @@ id: 2024082109004721
 ### [[2024-08-21]]
 - [ ] Putting ticket onhold till [[Devon Wiggins]] is back from PTO
 --- 
+## Daily Log
+### [[2024-08-23]]
+- [ ] User provided the information requested, but it seems they are connecting that single port to a switch that is connected to other devices. Waiting until [[Devon Wiggins]] is back from PTO to discuss. [[2024-08-26]]
+---
+
+
+
+
 
 
 
