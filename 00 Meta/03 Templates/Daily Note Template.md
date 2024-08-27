@@ -15,7 +15,7 @@ GROUP by file.link
 - 
 
 ~~~dataview
-TASK  FROM "00 Meta/03 PTIs"
+TASK  FROM "00 Meta/02 PTIs"
 WHERE meta(section).subpath = "<%tp.date.now()%>"
 Group by file.link
 ~~~
