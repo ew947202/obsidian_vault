@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-27
 user: [[George Campe]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82963&PORTALID=1
@@ -26,8 +26,9 @@ id: 2024082213111813
 ---
 ## Daily Log
 ### [[2024-08-27]]
-- [ ] Will attempt to install COMSOL today on users device 
-	- [ ] 
+- [x] Will attempt to install COMSOL today on users device, installed successfully 
+	- [x] In order to install COMSOL you need to use port number 1718 and azlicense004
+	- [x] Spoke with Reyna and found documentation for [COMSOL](https://aretecloud-my.sharepoint.us/:w:/g/personal/rorendain_arete_com/EfCULxH2sVtEiWYaoex_zAYBiuCO-neYjBghmWg_WNuAng?email=ewillingham%40arete.com&wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1724785834968&web=1)
 ---
 
 

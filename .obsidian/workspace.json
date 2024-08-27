@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/Installing COMSOL on my device.md",
+                "file": "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Installing COMSOL on my device.md",
+                "file": "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Installing COMSOL on my device.md",
+                "file": "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Installing COMSOL on my device.md"
+                "file": "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Installing COMSOL on my device.md"
+                "file": "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md"
               }
             }
           }
@@ -171,17 +171,20 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-08-26.md",
     "00 Meta/01 Periodics/2024-08-27.md",
-    "00 Meta/03 Templates/Daily Note Template.md",
-    "00 Meta/03 Templates/Daily Log Template.md",
+    "00 Meta/02 PTIs/Installing COMSOL on my device.md",
+    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "Dashboard/Homepage PTIs.md",
+    "10 Documentation/14 O365/Error Code - 53003.md",
+    "20 Projects/Untitled.md",
+    "00 Meta/01 Periodics/2024-08-26.md",
+    "00 Meta/03 Templates/Daily Note Template.md",
+    "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/02 PTIs/Please remove extra equipment from falls church.md",
     "00 Meta/02 PTIs/Access to project folders.md",
     "00 Meta/01 Periodics/2024-08-09.md",
     "Doug Ratays.md",
-    "00 Meta/02 PTIs/Installing COMSOL on my device.md",
     "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
     "00 Meta/02 PTIs/I can't find my network U Drive.md",
     "00 Meta/02 PTIs/Install Labview on my computer.md",
@@ -194,9 +197,6 @@
     "00 Meta/02 PTIs/Need to give access to folders.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "10 Documentation/11 Windows/SHB Configuration.md",
-    "10 Documentation/11 Windows/Procurement Training for Requestors.md",
-    "10 Documentation/11 Windows/Default Software Script.md",
-    "20 Projects/DC-TESTHOST.md",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",
