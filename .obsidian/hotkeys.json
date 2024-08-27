@@ -38,5 +38,29 @@
       ],
       "key": "L"
     }
+  ],
+  "templater-obsidian:00 Meta/03 Templates/Daily Log Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:00 Meta/03 Templates/Daily Note Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:00 Meta/03 Templates/Ticket Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

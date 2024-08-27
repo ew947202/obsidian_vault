@@ -22,8 +22,17 @@ id: 2024082213111813
 ---
 ## Daily Log
 ### [[2024-08-23]]
-- [ ] Attempted to install COMSOL from software folder, but was not able to reach licensing server for azlicense004 (Host 1055) let user know we can try again [[2024-08-26]] to see if the licensing server is back up.
+- [x] Attempted to install COMSOL from software folder, but was not able to reach licensing server for azlicense004 (Host 1055) let user know we can try again [[2024-08-26]] to see if the licensing server is back up.
 ---
+## Daily Log
+### [[2024-08-27]]
+- [ ] Will attempt to install COMSOL today on users device 
+	- [ ] 
+---
+
+
+
+
 
 
 

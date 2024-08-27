@@ -22,9 +22,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "00 Meta/02 Templates/Daily Note Template.md",
-    "00 Meta/02 Templates/Ticket Template.md",
-    "00 Meta/02 Templates/Daily Log Template.md"
+    "00 Meta/03 Templates/Daily Note Template.md",
+    "00 Meta/03 Templates/Ticket Template.md",
+    "00 Meta/03 Templates/Daily Log Template.md"
   ],
   "startup_templates": [
     ""
