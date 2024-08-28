@@ -17,7 +17,11 @@ id: 2024082810330803
 ---
 ## Daily Log
 ### [[2024-08-28]]
-- [ ] checking to see if user has blender installer downloaded on his device, if so I can remote in and finish both installations. Checking back on 2024-08-30
+- [x] checking to see if user has blender installer downloaded on his device, if so I can remote in and finish both installations. Checking back on 2024-08-30
+	- [x] Installed blender on device\
+- [x] User also needed the Elastic license for Ansys
+	- [x] I was able to find the import file for the license and get it setup on the users device
+	- [ ] location: ``\\arete\software\corporate\sccm\ansys_2022_R2
 ---
 
 
