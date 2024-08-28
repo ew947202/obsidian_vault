@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-28.md",
+                "file": "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-28.md",
+                "file": "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-28.md",
+                "file": "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-28.md"
+                "file": "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-08-28.md"
+                "file": "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md"
               }
             }
           }
@@ -171,9 +171,11 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-08-27.md",
-    "00 Meta/01 Periodics/2024-08-28.md",
     "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
+    "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "00 Meta/01 Periodics/2024-08-28.md",
+    "00 Meta/01 Periodics/2024-08-27.md",
     "00 Meta/02 PTIs/Installing COMSOL on my device.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "Dashboard/Homepage PTIs.md",
@@ -195,8 +197,6 @@
     "00 Meta/02 PTIs/Requesting ethernet switch and microUSB.md",
     "00 Meta/02 PTIs/Missing certificate and digital signature.md",
     "00 Meta/01 Periodics/2024-08-22.md",
-    "00 Meta/02 PTIs/Need to give access to folders.md",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",
