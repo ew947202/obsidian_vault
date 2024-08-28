@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket
-status: onhold  
-closed: 
+status: closed  
+closed: 2024-08-28
 user: [[Steven Hotaling]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82439&PORTALID=1
@@ -35,7 +35,7 @@ id: 2024080514514910
 ### [[2024-08-26]]
 - [x] User reopened request and has stated the issue is back 
 	- [x] Sent two responses so far with no response 
-		- [ ] Closing on [[2024-08-28]] if user has note responded
+		- [x] Closing on [[2024-08-28]] if user has note responded
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-28
 user: [[Peter Hodskins]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83048&fromListView=true&PORTALID=1
@@ -22,6 +22,7 @@ id: 2024082810330803
 - [x] User also needed the Elastic license for Ansys
 	- [x] I was able to find the import file for the license and get it setup on the users device
 	- [ ] location: ``\\arete\software\corporate\sccm\ansys_2022_R2
+- [x] finished installs on users device
 ---
 
 
