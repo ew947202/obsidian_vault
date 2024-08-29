@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-08-29
 user: [[Patrick Stockton]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83170&PORTALID=1
@@ -17,7 +17,8 @@ id: 2024082911081857
 ---
 ## Daily Log
 ### [[2024-08-29]]
-- [ ] Requested to see if the user has the installer already downloaded, if so I can complete the installation.
+- [x] Requested to see if the user has the installer already downloaded, if so I can complete the installation.
+	- [x] software installed
 ---
 
 
