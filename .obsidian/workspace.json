@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
+                "file": "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
+                "file": "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
+                "file": "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md"
+                "file": "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md"
+                "file": "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md"
               }
             }
           }
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "417431a89fa1b446",
+  "active": "9953373a497cbf19",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-08-29.md",
+    "00 Meta/02 PTIs/Install Formlabs Preform software.md",
     "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
+    "00 Meta/01 Periodics/2024-08-29.md",
     "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "Dashboard/Homepage PTIs.md",
@@ -196,7 +198,6 @@
     "00 Meta/02 PTIs/Install Labview on my computer.md",
     "00 Meta/02 PTIs/Software Request.md",
     "00 Meta/03 Templates/Ticket Template.md",
-    "00 Meta/01 Periodics/2024-08-23.md",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",

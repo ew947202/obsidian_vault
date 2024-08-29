@@ -23,6 +23,14 @@ id: 2024082109004721
 ### [[2024-08-23]]
 - [ ] User provided the information requested, but it seems they are connecting that single port to a switch that is connected to other devices. Waiting until [[Devon Wiggins]] is back from PTO to discuss. [[2024-08-26]]
 ---
+## Daily Log
+### [[2024-08-29]]
+- [ ] Spoke with [[Devon Wiggins]] and this will be a next week issue as we are moving Area 1 currently
+---
+
+
+
+
 
 
 
