@@ -19,6 +19,14 @@ id: 2024082910180413
 ### [[2024-08-29]]
 - [ ] Let the user know they will need to download the TAR installer (45GB) and to let me know when the download has been completed.
 ---
+## Daily Log
+### [[2024-08-30]]
+- [ ] User updated me on Teams that they needed v 2022.1 installed. Let them know to download the installer and I will remote in and finish the install.
+---
+
+
+
+
 
 
 
