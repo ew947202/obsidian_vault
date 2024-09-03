@@ -28,6 +28,14 @@ id: 2024080609150100
 ### [[2024-08-15]]
 - [x] Ticket was moved to Cyber 
 ---
+## Daily Log
+### [[2024-09-03]]
+- [ ] Cyber approved Python version, reached out to user to get it installed, will reach back out [[2024-09-10]]
+---
+
+
+
+
 
 
 
