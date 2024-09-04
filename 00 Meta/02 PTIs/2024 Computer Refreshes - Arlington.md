@@ -39,6 +39,14 @@ id: 2024080516225165
     - Spoke with cgrebe, they would like to hold off on receiving new device until they have all software install on current machine
 - [ ] Waiting to hear back from rschroeder regarding software list
 ---
+## Daily Log
+### [[2024-09-04]]
+- [ ] Cameron Grebe has said that he would like to hold off on his refresh 
+---
+
+
+
+
 
 
 
