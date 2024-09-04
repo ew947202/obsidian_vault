@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-09-04
 user: [[Garrett Clay]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83165&PORTALID=1
@@ -23,6 +23,14 @@ id: 2024082910180413
 ### [[2024-08-30]]
 - [ ] User updated me on Teams that they needed v 2022.1 installed. Let them know to download the installer and I will remote in and finish the install.
 ---
+## Daily Log
+### [[2024-09-04]]
+- [ ] User installed the correct version and sent an adminbyrequest in and the installation was completed.
+---
+
+
+
+
 
 
 

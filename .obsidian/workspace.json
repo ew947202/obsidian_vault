@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bbfe055d1dde2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/01 Periodics/2024-09-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "417431a89fa1b446",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-03.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-03.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-03.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -159,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-03.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -182,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bbfe055d1dde2c8",
+  "active": "417431a89fa1b446",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
+    "00 Meta/01 Periodics/2024-09-03.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/Can't install basic python packages.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
@@ -192,9 +183,7 @@
     "00 Meta/02 PTIs/Need new project folder.md",
     "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
-    "00 Meta/01 Periodics/2024-09-03.md",
     "00 Meta/02 PTIs/Untitled.md",
-    "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
     "00 Meta/02 PTIs/Sharepoint access denied.md",
     "00 Meta/01 Periodics/2024-08-30.md",
     "00 Meta/01 Periodics/2024-08-29.md",
