@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           }
@@ -172,8 +172,14 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Access to project folder A23.md",
+    "00 Meta/01 Periodics/2024-08-07.md",
+    "00 Meta/01 Periodics/2024-08-09.md",
+    "00 Meta/01 Periodics/2024-08-06.md",
+    "00 Meta/01 Periodics/2024-08-05.md",
+    "00 Meta/01 Periodics/2024-08-02.md",
+    "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
+    "00 Meta/02 PTIs/Access to project folder A23.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-09-04.md",
     "00 Meta/02 PTIs/Can't install basic python packages.md",
@@ -192,12 +198,6 @@
     "00 Meta/02 PTIs/Untitled.md",
     "00 Meta/02 PTIs/Sharepoint access denied.md",
     "00 Meta/01 Periodics/2024-08-30.md",
-    "00 Meta/01 Periodics/2024-08-29.md",
-    "00 Meta/01 Periodics/2024-08-28.md",
-    "00 Meta/02 PTIs/Install Formlabs Preform software.md",
-    "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
-    "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
-    "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",
