@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/01 Periodics/2024-09-03.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/01 Periodics/2024-09-03.md"
               }
             }
           }
@@ -183,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "417431a89fa1b446",
+  "active": "5bbfe055d1dde2c8",
   "lastOpenFiles": [
+    "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/Can't install basic python packages.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
     "10 Documentation/14 O365/Outlook won't open Word attachments.md",
@@ -203,7 +203,6 @@
     "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
     "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
-    "Dashboard/Homepage PTIs.md",
     "20 Projects/Untitled.md",
     "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
     "00 Meta/02 PTIs/I can't find my network U Drive.md",
