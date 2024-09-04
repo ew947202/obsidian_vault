@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "72ab7a730e8e6c29",
-        "type": "split",
+        "id": "915d6815048dc4a7",
+        "type": "tabs",
         "children": [
           {
-            "id": "c80bcfd6bcd7223f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60c0501959ebec27",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 Meta/01 Periodics/2024-09-04.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "cd0072d2b6176b86",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "07583e36d7301b76",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "5d2a827924cf62c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 380.5
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md"
+                "file": "20 Projects/21 RHCSA/00 Meta/sftp.md"
               }
             }
           },
@@ -172,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md"
+                "file": "20 Projects/21 RHCSA/00 Meta/sftp.md"
               }
             }
           }
@@ -195,11 +164,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07583e36d7301b76",
+  "active": "9953373a497cbf19",
   "lastOpenFiles": [
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Accessing Linux Systems.md",
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Using System Documentation.md",
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Working with Linux Files - Permissions & Links.md",
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Manipulating Text Files in Linux.md",
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Compressing and Decompressing Files in Linux.md",
+    "20 Projects/21 RHCSA/00 Meta/sftp.md",
+    "20 Projects/21 RHCSA/00 Meta/scp.md",
+    "20 Projects/21 RHCSA/00 Meta",
+    "20 Projects/Untitled.md",
+    "20 Projects/21 RHCSA/21.10 Managing Containers",
+    "20 Projects/21 RHCSA/21.09 Managing Security",
+    "20 Projects/21 RHCSA/21.08 Managing Users and Groups",
+    "20 Projects/21 RHCSA/21.07 Managing Basic Networking",
+    "20 Projects/21 RHCSA/21.06 Deploying, Configuring, Maintaining Systems",
+    "20 Projects/21 RHCSA/21.05 Creating and Configuring File Systems",
+    "20 Projects/21 RHCSA/21.04 Configuring Local Storage",
+    "20 Projects/21 RHCSA/21.03 Operating Running Systems",
+    "20 Projects/21 RHCSA/21.02 Creating Simple Shell Scripts",
+    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
+    "00 Meta/01 Periodics/2024-09-04.md",
+    "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
-    "00 Meta/01 Periodics/2024-09-04.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/01 Periodics/2024-08-07.md",
@@ -210,29 +199,9 @@
     "00 Meta/01 Periodics/2024-08-12.md",
     "00 Meta/02 PTIs/Access to project folder A23.md",
     "00 Meta/02 PTIs/Can't install basic python packages.md",
-    "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
     "00 Meta/03 Templates/Daily Log Template.md",
     "10 Documentation/14 O365/Error Code - 53003.md",
     "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
-    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
-    "00 Meta/01 Periodics/2024-09-03.md",
-    "00 Meta/02 PTIs/Adobe Failing.md",
-    "10 Documentation/14 O365/Outlook won't open Word attachments.md",
-    "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
-    "00 Meta/02 PTIs/Need new project folder.md",
-    "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
-    "00 Meta/02 PTIs/Install MathCad on my computer.md",
-    "00 Meta/02 PTIs/Untitled.md",
-    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
-    "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
-    "~$non Secure Print for IT and End User Draft.docx",
-    "vault_repo/Untitled",
-    "vault_repo/Installer.ps1",
-    "vault_repo/Installer 1.ps1",
-    "vault_repo/Canon Secure Print for IT and End User Draft.docx",
-    "vault_repo/20 Projects",
-    "vault_repo/10 Documentation/11 Windows/Printers",
-    "vault_repo/10 Documentation/14 O365",
     "Untitled.canvas"
   ]
 }
