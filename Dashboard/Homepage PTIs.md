@@ -13,3 +13,12 @@ WHERE status = "open" OR status = "onhold"
 ```
 
 
+
+```dataview
+TABLE
+
+FROM "00 Meta/02 PTIs"
+
+WHERE status = "closed"
+```
+

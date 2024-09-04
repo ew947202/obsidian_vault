@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xil",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,10 +172,15 @@
   },
   "active": "417431a89fa1b446",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
-    "00 Meta/01 Periodics/2024-09-03.md",
+    "00 Meta/01 Periodics/2024-09-04.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/Can't install basic python packages.md",
+    "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
+    "00 Meta/03 Templates/Daily Log Template.md",
+    "10 Documentation/14 O365/Error Code - 53003.md",
+    "00 Meta/02 PTIs/Install Xilinx Vitis 2020.2.2.md",
+    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
+    "00 Meta/01 Periodics/2024-09-03.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
     "10 Documentation/14 O365/Outlook won't open Word attachments.md",
     "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
@@ -194,11 +198,6 @@
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "20 Projects/Untitled.md",
     "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
-    "00 Meta/02 PTIs/I can't find my network U Drive.md",
-    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
-    "00 Meta/01 Periodics/2024-08-27.md",
-    "00 Meta/02 PTIs/Installing COMSOL on my device.md",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "3b35bbf4-7d8c-40f7-b6b4-1f7c6e185b75",
     "~$non Secure Print for IT and End User Draft.docx",

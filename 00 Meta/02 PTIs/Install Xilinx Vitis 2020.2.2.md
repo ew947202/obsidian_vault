@@ -25,7 +25,7 @@ id: 2024082910180413
 ---
 ## Daily Log
 ### [[2024-09-04]]
-- [ ] User installed the correct version and sent an adminbyrequest in and the installation was completed.
+- [x] User installed the correct version and sent an adminbyrequest in and the installation was completed.
 ---
 
 
