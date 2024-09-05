@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md",
+                "file": "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md",
+                "file": "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md",
+                "file": "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md"
+                "file": "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md"
+                "file": "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "5d2a827924cf62c4",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Error Message - Restoring Network Connections.md",
     "00 Meta/02 PTIs/Issues accessing links on SP.md",
+    "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md",
+    "00 Meta/02 PTIs/Error Message - Restoring Network Connections.md",
     "00 Meta/01 Periodics/2024-09-05.md",
     "00 Meta/02 PTIs/Access to project folders.md",
     "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
@@ -207,7 +208,6 @@
     "00 Meta/01 Periodics/2024-08-06.md",
     "00 Meta/01 Periodics/2024-08-05.md",
     "00 Meta/01 Periodics/2024-08-02.md",
-    "00 Meta/01 Periodics/2024-08-12.md",
     "Untitled.canvas"
   ]
 }
