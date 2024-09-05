@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "access to project folders",
+                "query": "rata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+                "file": "00 Meta/02 PTIs/Access to project folders.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+                "file": "00 Meta/02 PTIs/Access to project folders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
+                "file": "00 Meta/02 PTIs/Access to project folders.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
+                "file": "00 Meta/02 PTIs/Access to project folders.md"
               }
             }
           }
@@ -170,14 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d2a827924cf62c4",
+  "active": "9953373a497cbf19",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Access to project folder A23.md",
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "00 Meta/02 PTIs/Access to project folders.md",
     "Pasted image 20240905104305.png",
     "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md",
     "00 Meta/02 PTIs/Issues accessing links on SP.md",
     "00 Meta/02 PTIs/Error Message - Restoring Network Connections.md",
     "00 Meta/01 Periodics/2024-09-05.md",
-    "00 Meta/02 PTIs/Access to project folders.md",
     "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
     "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/00 Meta/sftp.md",
@@ -203,7 +205,6 @@
     "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/01 Periodics/2024-08-07.md",
     "00 Meta/01 Periodics/2024-08-09.md",
     "00 Meta/01 Periodics/2024-08-06.md",

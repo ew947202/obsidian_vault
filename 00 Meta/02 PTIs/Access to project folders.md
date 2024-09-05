@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-09-05
 user: [[Doug Ratay]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83028&PORTALID=1
@@ -22,7 +22,8 @@ id: 2024082609072335
 ---
 ## Daily Log
 ### [[2024-09-05]]
-- [ ] Added user to A1 project folder and let him know that Jill is currently still the POC for A23 and we need her permission before we can switch anything over. Following up on [[2024-09-12]]
+- [x] Added user to A1 project folder and let him know that Jill is currently still the POC for A23 and we need her permission before we can switch anything over. Following up on [[2024-09-12]]
+- [x] added user to A23 Project folder
 ---
 
 
