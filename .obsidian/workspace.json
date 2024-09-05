@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce47988c65d31a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/02 PTIs/Access to project folders.md",
+                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Access to project folders.md",
+                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Access to project folders.md",
+                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Access to project folders.md"
+                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md"
               }
             }
           },
@@ -161,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Access to project folders.md"
+                "file": "00 Meta/02 PTIs/Issues accessing links on SP.md"
               }
             }
           }
@@ -184,10 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce47988c65d31a3c",
+  "active": "5d2a827924cf62c4",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
+    "00 Meta/02 PTIs/Error Message - Restoring Network Connections.md",
+    "00 Meta/02 PTIs/Issues accessing links on SP.md",
     "00 Meta/01 Periodics/2024-09-05.md",
+    "00 Meta/02 PTIs/Access to project folders.md",
+    "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
     "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/00 Meta/sftp.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Accessing Linux Systems.md",
@@ -219,9 +208,6 @@
     "00 Meta/01 Periodics/2024-08-05.md",
     "00 Meta/01 Periodics/2024-08-02.md",
     "00 Meta/01 Periodics/2024-08-12.md",
-    "00 Meta/02 PTIs/Access to project folder A23.md",
-    "00 Meta/02 PTIs/Can't install basic python packages.md",
-    "00 Meta/03 Templates/Daily Log Template.md",
     "Untitled.canvas"
   ]
 }
