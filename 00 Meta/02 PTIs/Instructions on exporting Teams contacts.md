@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
 status: onhold
-closed: yyyy-mm-dd
+closed: 2024-09-05
 user: [[Brad Cadle]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83190&PORTALID=1
@@ -21,6 +21,14 @@ id: 2024090308372539
 ### [[2024-09-03]]
 - [ ] Let user know that all contact information is synced between Teams, SharePoint, and Outlook through AD and that IT does not have instructions on how to save these offline.
 ---
+## Daily Log
+### [[2024-09-05]]
+- [ ] User was able to pull csv file from [[Brian Crowell]] instructions.
+---
+
+
+
+
 
 
 

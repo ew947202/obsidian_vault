@@ -11,11 +11,28 @@
             "id": "5d2a827924cf62c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/01 Periodics/2024-09-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce47988c65d31a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/Access to project folders.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "access to project folders",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Meta/02 PTIs/Access to project folders.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Meta/02 PTIs/Access to project folders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 Meta/02 PTIs/Access to project folders.md"
+              }
             }
           },
           {
@@ -138,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "00 Meta/02 PTIs/Access to project folders.md"
+              }
             }
           }
         ],
@@ -160,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d2a827924cf62c4",
+  "active": "ce47988c65d31a3c",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
+    "00 Meta/01 Periodics/2024-09-05.md",
     "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/00 Meta/sftp.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Accessing Linux Systems.md",
@@ -180,7 +206,6 @@
     "20 Projects/21 RHCSA/21.05 Creating and Configuring File Systems",
     "20 Projects/21 RHCSA/21.04 Configuring Local Storage",
     "20 Projects/21 RHCSA/21.03 Operating Running Systems",
-    "20 Projects/21 RHCSA/21.02 Creating Simple Shell Scripts",
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "00 Meta/01 Periodics/2024-09-04.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
@@ -197,7 +222,6 @@
     "00 Meta/02 PTIs/Access to project folder A23.md",
     "00 Meta/02 PTIs/Can't install basic python packages.md",
     "00 Meta/03 Templates/Daily Log Template.md",
-    "10 Documentation/14 O365/Error Code - 53003.md",
     "Untitled.canvas"
   ]
 }
