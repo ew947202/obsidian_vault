@@ -13,7 +13,7 @@ id: 2024090609061986
 
 ---
 ### Description
-- User is requesting a new keyboard since her's no longer has the G key
+- User is requesting a new keyboard since hers no longer has the G key
 -
 
 ---
