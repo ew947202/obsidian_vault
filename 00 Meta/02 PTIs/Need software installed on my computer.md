@@ -19,7 +19,8 @@ id: 2024090609013449
 ---
 ## Daily Log
 ### [[2024-09-06]]
-- [ ] Reached out to user's supervisor to approve this request, reaching back out on [[2024-09-12]]
+- [x] Reached out to user's supervisor to approve this request.
+- [ ] supervisor responded with approval, waiting on user to confirm when they are free to install software.
 ---
 
 

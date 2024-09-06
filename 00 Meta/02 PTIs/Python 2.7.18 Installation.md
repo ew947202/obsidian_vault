@@ -30,8 +30,16 @@ id: 2024080609150100
 ---
 ## Daily Log
 ### [[2024-09-03]]
-- [ ] Cyber approved Python version, reached out to user to get it installed, will reach back out [[2024-09-10]]
+- [x] Cyber approved Python version, reached out to user to get it installed
 ---
+## Daily Log
+### [[2024-09-06]]
+- [x] Installed on users device
+---
+
+
+
+
 
 
 

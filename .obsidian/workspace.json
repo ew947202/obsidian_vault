@@ -6,7 +6,7 @@
       {
         "id": "915d6815048dc4a7",
         "type": "tabs",
-        "dimension": 52.2673031026253,
+        "dimension": 37.88782816229117,
         "children": [
           {
             "id": "5d2a827924cf62c4",
@@ -32,13 +32,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "648c370230733df1",
         "type": "tabs",
-        "dimension": 47.7326968973747,
+        "dimension": 62.11217183770883,
         "children": [
           {
             "id": "cea5d7c48af6d724",
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "persephone",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+                "file": "00 Meta/01 Periodics/2024-09-06.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+                "file": "00 Meta/01 Periodics/2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                "file": "00 Meta/01 Periodics/2024-09-06.md"
               }
             }
           },
@@ -178,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                "file": "00 Meta/01 Periodics/2024-09-06.md"
               }
             }
           }
@@ -201,13 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea5d7c48af6d724",
+  "active": "9953373a497cbf19",
   "lastOpenFiles": [
-    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
-    "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "00 Meta/02 PTIs/New keyboard.md",
+    "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/02 PTIs/Need software installed on my computer.md",
     "00 Meta/01 Periodics/2024-09-06.md",
+    "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
+    "00 Meta/02 PTIs/New keyboard.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/01 Periodics/2024-09-05.md",
     "00 Meta/02 PTIs/Issues accessing links on SP.md",
