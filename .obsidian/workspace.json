@@ -14,54 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea5d7c48af6d724",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cbbd7469fd64eefc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4808477611b9d74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8efac0ea17a4a2e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Untitled.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Untitled.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Untitled.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Untitled.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md"
               }
             }
           },
@@ -189,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Untitled.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md"
               }
             }
           }
@@ -212,18 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8efac0ea17a4a2e2",
+  "active": "5d2a827924cf62c4",
   "lastOpenFiles": [
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Untitled.md",
-    "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+    "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/02 PTIs/New keyboard.md",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/02 PTIs/Need software installed on my computer.md",
@@ -250,7 +208,6 @@
     "20 Projects/21 RHCSA/21.09 Managing Security",
     "20 Projects/21 RHCSA/21.08 Managing Users and Groups",
     "20 Projects/21 RHCSA/21.07 Managing Basic Networking",
-    "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "Untitled.canvas"
   ]
 }

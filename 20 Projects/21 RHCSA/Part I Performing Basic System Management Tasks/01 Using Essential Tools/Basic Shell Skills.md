@@ -38,4 +38,3 @@ pipe - *can be used to catch the output of one command and use that as input for
 >[!example]+ history | grep cat
 >*This will run the history command and the feed those results into a grep command that searches for any commands that contain the text cat.*
 
-### Editing Files with vim
