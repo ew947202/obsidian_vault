@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/Need software installed on my computer.md",
+                "file": "00 Meta/02 PTIs/New keyboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Need software installed on my computer.md",
+                "file": "00 Meta/02 PTIs/New keyboard.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Need software installed on my computer.md",
+                "file": "00 Meta/02 PTIs/New keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Need software installed on my computer.md"
+                "file": "00 Meta/02 PTIs/New keyboard.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Need software installed on my computer.md"
+                "file": "00 Meta/02 PTIs/New keyboard.md"
               }
             }
           }
@@ -185,8 +185,9 @@
   },
   "active": "cea5d7c48af6d724",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/02 PTIs/Need software installed on my computer.md",
+    "00 Meta/02 PTIs/New keyboard.md",
+    "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/01 Periodics/2024-09-05.md",
     "00 Meta/02 PTIs/Issues accessing links on SP.md",
@@ -221,7 +222,6 @@
     "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
-    "00 Meta/01 Periodics/2024-08-07.md",
     "Untitled.canvas"
   ]
 }
