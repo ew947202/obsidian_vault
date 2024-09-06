@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "648c370230733df1",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md",
+                "file": "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md",
+                "file": "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md"
+                "file": "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md"
               }
             }
           },
@@ -177,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md"
+                "file": "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md"
               }
             }
           }
@@ -200,13 +201,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "45a0db9c683e4e2c",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
-    "00 Meta/02 PTIs/Need software installed on my computer.md",
-    "00 Meta/01 Periodics/2024-09-06.md",
     "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
+    "00 Meta/01 Periodics/2024-09-06.md",
+    "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
+    "00 Meta/02 PTIs/Need software installed on my computer.md",
     "00 Meta/02 PTIs/New keyboard.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/01 Periodics/2024-09-05.md",
@@ -238,7 +239,6 @@
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "00 Meta/01 Periodics/2024-09-04.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
-    "Dashboard/Homepage PTIs.md",
     "Untitled.canvas"
   ]
 }
