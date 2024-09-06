@@ -6,6 +6,7 @@
       {
         "id": "915d6815048dc4a7",
         "type": "tabs",
+        "dimension": 52.2673031026253,
         "children": [
           {
             "id": "5d2a827924cf62c4",
@@ -20,12 +21,12 @@
             }
           },
           {
-            "id": "cea5d7c48af6d724",
+            "id": "45a0db9c683e4e2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/New keyboard.md",
+                "file": "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +34,23 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "648c370230733df1",
+        "type": "tabs",
+        "dimension": 47.7326968973747,
+        "children": [
+          {
+            "id": "cea5d7c48af6d724",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 200
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/New keyboard.md",
+                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/New keyboard.md",
+                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/New keyboard.md"
+                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
           },
@@ -160,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/New keyboard.md"
+                "file": "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
           }
@@ -185,8 +203,10 @@
   },
   "active": "cea5d7c48af6d724",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Need software installed on my computer.md",
+    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Basic Shell Skills.md",
+    "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/02 PTIs/New keyboard.md",
+    "00 Meta/02 PTIs/Need software installed on my computer.md",
     "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/01 Periodics/2024-09-05.md",
@@ -198,7 +218,6 @@
     "00 Meta/02 PTIs/Additional Keyboard and  Mouse.md",
     "00 Meta/02 PTIs/Error Message - Restoring Network Connections.md",
     "00 Meta/02 PTIs/Instructions on exporting Teams contacts.md",
-    "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/00 Meta/sftp.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Accessing Linux Systems.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Using System Documentation.md",
@@ -220,8 +239,6 @@
     "00 Meta/01 Periodics/2024-09-04.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
     "Dashboard/Homepage PTIs.md",
-    "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
-    "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
     "Untitled.canvas"
   ]
 }
