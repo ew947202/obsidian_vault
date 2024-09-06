@@ -19,8 +19,16 @@ id: 2024090308253420
 ---
 ## Daily Log
 ### [[2024-09-03]]
-- [ ] Reaching out to user to get the software installed, will reach back out on [[2024-09-06]]
+- [x] Reaching out to user to get the software installed, will reach back out on [[2024-09-06]]
 ---
+## Daily Log
+### [[2024-09-06]]
+- [ ] Reached out to use to get the software installed, again. Will reach back out on [[2024-09-13]]
+---
+
+
+
+
 
 
 
