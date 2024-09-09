@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: clossed
+closed: ----
 user: [[Peter Rusello]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83124&fromListView=true&PORTALID=1
@@ -17,8 +17,16 @@ id: 2024082909335514
 ---
 ## Daily Log
 ### [[2024-08-29]]
-- [ ] Reached out to [[Brian Crowell]] to see which part of the ticket I should handle and where to point them for getting the hard drive ordered.
+- [x] Reached out to [[Brian Crowell]] to see which part of the ticket I should handle and where to point them for getting the hard drive ordered.
 ---
+## Daily Log
+### [[2024-09-09]]
+- [x] Ticket has been moved to IT Managers will close on my end.
+---
+
+
+
+
 
 
 
