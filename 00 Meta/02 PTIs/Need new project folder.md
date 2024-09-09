@@ -19,8 +19,18 @@ id: 2024090309044722
 ---
 ## Daily Log
 ### [[2024-09-03]]
-- [ ] Requesting to see who will be the POC for this folder then will proceed with the creation.
+- [x] Requesting to see who will be the POC for this folder then will proceed with the creation.
 ---
+## Daily Log
+### [[2024-09-09]]
+- [x] User responded with [[Brian Lang]] to be the POC
+- [x] Created the project folder in dcfile004 and added the users requested
+- [ ] Messaged user to ensure they are able to access new project folder, will reach back out on 2024-09-12
+---
+
+
+
+
 
 
 
