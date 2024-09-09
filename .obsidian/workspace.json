@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md",
+                "file": "00 Meta/02 PTIs/Requesting MS Project Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md",
+                "file": "00 Meta/02 PTIs/Requesting MS Project Software.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md",
+                "file": "00 Meta/02 PTIs/Requesting MS Project Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md"
+                "file": "00 Meta/02 PTIs/Requesting MS Project Software.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-06.md"
+                "file": "00 Meta/02 PTIs/Requesting MS Project Software.md"
               }
             }
           }
@@ -172,6 +172,9 @@
   },
   "active": "5d2a827924cf62c4",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-09-09.md",
+    "00 Meta/02 PTIs/Requesting MS Project Software.md",
+    "00 Meta/01 Periodics/2024-09-06.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
@@ -182,7 +185,6 @@
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools",
-    "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/02 PTIs/Need software installed on my computer.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
@@ -203,7 +205,6 @@
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Compressing and Decompressing Files in Linux.md",
     "20 Projects/21 RHCSA/00 Meta/scp.md",
     "20 Projects/21 RHCSA/00 Meta",
-    "20 Projects/Untitled.md",
     "20 Projects/21 RHCSA/21.10 Managing Containers",
     "20 Projects/21 RHCSA/21.09 Managing Security",
     "20 Projects/21 RHCSA/21.08 Managing Users and Groups",
