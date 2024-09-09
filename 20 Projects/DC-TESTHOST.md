@@ -30,6 +30,14 @@ id: 2024081417294219
 - [ ] Spoke with Devon we are going to go with four 4TB 870 EVO drives from [[Falls Church 4TB SSD DC-TESTHOST.pdf|Amazon]]
     - [ ] Waiting for PO training that is scheduled for tomorrow
 ---
+## Daily Log
+### [[2024-09-09]]
+- [x] Sent in PO request for four new SSDs
+---
+
+
+
+
 
 
 
