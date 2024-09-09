@@ -17,3 +17,11 @@ id: 2024090609061986
 -
 
 ---
+## Daily Log
+### [[2024-09-09]]
+- [ ] Let user know that her keyboard has been discontinued and she can search for a similar keyboard
+---
+
+
+
+

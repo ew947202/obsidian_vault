@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "915d6815048dc4a7",
-        "type": "tabs",
+        "id": "1465fee6aaa635fa",
+        "type": "split",
         "children": [
           {
-            "id": "5d2a827924cf62c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/01 Periodics/2024-09-09.md",
-                "mode": "source",
-                "source": false
+            "id": "799ca971143c3188",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d2a827924cf62c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 Meta/02 PTIs/New keyboard.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "915d6815048dc4a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c6e84b46bbec407",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 Meta/01 Periodics/2024-09-09.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zandy",
+                "query": "roman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,18 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d2a827924cf62c4",
+  "active": "5c6e84b46bbec407",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/New keyboard.md",
+    "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
+    "00 Meta/01 Periodics/2024-09-09.md",
     "00 Meta/02 PTIs/Need new project folder.md",
     "00 Meta/02 PTIs/Requesting MS Project Software.md",
-    "00 Meta/01 Periodics/2024-09-09.md",
     "00 Meta/01 Periodics/2024-09-06.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
     "Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "00 Meta/02 PTIs/New keyboard.md",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",
@@ -203,7 +229,6 @@
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Using System Documentation.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Working with Linux Files - Permissions & Links.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Manipulating Text Files in Linux.md",
-    "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Compressing and Decompressing Files in Linux.md",
     "20 Projects/21 RHCSA/00 Meta",
     "20 Projects/21 RHCSA/21.10 Managing Containers",
     "20 Projects/21 RHCSA/21.09 Managing Security",
