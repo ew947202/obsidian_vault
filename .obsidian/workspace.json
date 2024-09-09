@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1465fee6aaa635fa",
-        "type": "split",
+        "id": "799ca971143c3188",
+        "type": "tabs",
         "children": [
           {
-            "id": "799ca971143c3188",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5d2a827924cf62c4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 Meta/02 PTIs/New keyboard.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "5c6e84b46bbec407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/01 Periodics/2024-09-09.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "915d6815048dc4a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5c6e84b46bbec407",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 Meta/01 Periodics/2024-09-09.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "455e6561598dbb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/New keyboard.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +185,8 @@
   "active": "5c6e84b46bbec407",
   "lastOpenFiles": [
     "00 Meta/02 PTIs/New keyboard.md",
-    "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
     "00 Meta/01 Periodics/2024-09-09.md",
+    "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
     "00 Meta/02 PTIs/Need new project folder.md",
     "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/01 Periodics/2024-09-06.md",
