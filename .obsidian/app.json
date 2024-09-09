@@ -2,5 +2,6 @@
   "promptDelete": false,
   "propertiesInDocument": "visible",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "00 Meta/04 Assets"
 }
