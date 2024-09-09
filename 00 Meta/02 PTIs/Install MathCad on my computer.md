@@ -23,8 +23,12 @@ id: 2024090308253420
 ---
 ## Daily Log
 ### [[2024-09-06]]
-- [ ] Reached out to use to get the software installed, again. Will reach back out on [[2024-09-13]]
+- [x] Reached out to use to get the software installed, again. Will reach back out on [[2024-09-13]]
 ---
+## Daily Log
+### [[2024-09-09]]
+- [ ] Followed up with user to see if they still need software installed, will close ticket on [[2024-09-13]] if no response
+
 
 
 

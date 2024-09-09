@@ -19,8 +19,16 @@ id: 2024090313014145
 ---
 ## Daily Log
 ### [[2024-09-03]]
-- [ ] Let user know that they should be able to do a user pip install via Anaconda to install the package they are looking for.
+- [x] Let user know that they should be able to do a user pip install via Anaconda to install the package they are looking for.
 ---
+## Daily Log
+### [[2024-09-09]]
+- [ ] Followed up with user to see if they were able to install the package utilizing anaconda, following up on [[2024-09-13]]
+---
+
+
+
+
 
 
 

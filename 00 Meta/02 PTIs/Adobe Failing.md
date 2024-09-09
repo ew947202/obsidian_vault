@@ -18,8 +18,16 @@ id: 2024090312565452
 ---
 ## Daily Log
 ### [[2024-09-03]]
-- [ ] Reached out to user to see when they are free to remote in and troubleshoot issue, reaching back out [[2024-09-10]]
+- [x] Reached out to user to see when they are free to remote in and troubleshoot issue, reaching back out [[2024-09-10]]
 ---
+## Daily Log
+### [[2024-09-09]]
+- [ ] Followed up with user to see if they are still exercising the issue. [[2024-09-13]]
+---
+
+
+
+
 
 
 
