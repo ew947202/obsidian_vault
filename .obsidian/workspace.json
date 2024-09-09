@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md",
+                "file": "00 Meta/01 Periodics/2024-09-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md",
+                "file": "00 Meta/01 Periodics/2024-09-09.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md",
+                "file": "00 Meta/01 Periodics/2024-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md"
+                "file": "00 Meta/01 Periodics/2024-09-09.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md"
+                "file": "00 Meta/01 Periodics/2024-09-09.md"
               }
             }
           }
@@ -170,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "5d2a827924cf62c4",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Need new project folder.md",
     "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/01 Periodics/2024-09-09.md",
     "00 Meta/01 Periodics/2024-09-06.md",
@@ -203,7 +204,6 @@
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Working with Linux Files - Permissions & Links.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Manipulating Text Files in Linux.md",
     "20 Projects/21 RHCSA/21.01 Understanding and Using Essential Tools/Compressing and Decompressing Files in Linux.md",
-    "20 Projects/21 RHCSA/00 Meta/scp.md",
     "20 Projects/21 RHCSA/00 Meta",
     "20 Projects/21 RHCSA/21.10 Managing Containers",
     "20 Projects/21 RHCSA/21.09 Managing Security",
