@@ -20,7 +20,8 @@ id: 2024090908115416
 ---
 ## Daily Log
 ### [[2024-09-09]]
-- [ ] Questioned if user needed create/edit permissions or just read permissions, will reach back out [[2024-09-16]]
+- [x] Questioned if user needed create/edit permissions or just read permissions, will reach back out [[2024-09-16]]
+- [ ] User confirmed she needed edit access, we requested she put in a ticket via SCCM so it can be approved.
 ---
 
 
