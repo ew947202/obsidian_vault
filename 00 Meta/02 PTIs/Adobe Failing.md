@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-10
 user: [[Charlie Forsyth]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83081&PORTALID=1
@@ -26,7 +26,8 @@ id: 2024090312565452
 ---
 ## Daily Log
 ### [[2024-09-10]]
-- [ ] Confirmed users license is active, recommended user log in and out of their account to remove and cached information, following up on [[2024-09-13]]
+- [x] Confirmed users license is active, recommended user log in and out of their account to remove and cached information, following up on [[2024-09-13]]
+- [x] Logging out and in resolved the issue.
 ---
 
 
