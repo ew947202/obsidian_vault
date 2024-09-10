@@ -6,7 +6,7 @@
       {
         "id": "799ca971143c3188",
         "type": "tabs",
-        "dimension": 35.758706467661696,
+        "dimension": 45.460199004975124,
         "children": [
           {
             "id": "5c6e84b46bbec407",
@@ -19,23 +19,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75f373cdff4ce169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "404065ddd43b9ebd",
         "type": "tabs",
-        "dimension": 64.2412935323383,
+        "dimension": 54.539800995024876,
         "children": [
           {
             "id": "cbc0078a3b6f802d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
-                "mode": "source",
-                "source": false
+                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
           }
@@ -85,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md"
               }
             }
           },
@@ -168,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md"
               }
             }
           }
@@ -191,10 +201,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc0078a3b6f802d",
+  "active": "75f373cdff4ce169",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-09-10.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
+    "00 Meta/01 Periodics/2024-09-10.md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
     "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
@@ -216,15 +229,11 @@
     "00 Meta/02 PTIs/Unable to digitally sign PDFs.md",
     "00 Meta/02 PTIs/83415 Camera Not Working.md",
     "00 Meta/02 PTIs/Need new project folder.md",
-    "20 Projects/DC-TESTHOST.md",
-    "20 Projects/Development Path.md",
-    "00 Meta/02 PTIs/New keyboard.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
     "Pasted image 20240905104305.png",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",
