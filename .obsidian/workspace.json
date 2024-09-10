@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "404065ddd43b9ebd",
@@ -49,8 +48,17 @@
                 "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
+          },
+          {
+            "id": "f35a5c937e2cc334",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hille",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -201,12 +204,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f373cdff4ce169",
+  "active": "f35a5c937e2cc334",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/01 Periodics/2024-09-10.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
@@ -224,7 +229,6 @@
     "00 Meta/02 PTIs/Project Folder.md",
     "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/02 PTIs/Requesting ethernet switch and microUSB.md",
-    "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/02 PTIs/Return Atlantech Equipment.md",
     "00 Meta/02 PTIs/Unable to digitally sign PDFs.md",
     "00 Meta/02 PTIs/83415 Camera Not Working.md",
