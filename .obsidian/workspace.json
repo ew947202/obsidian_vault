@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-10.md",
+                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-10.md",
+                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-10.md",
+                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-10.md"
+                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-10.md"
+                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md"
               }
             }
           }
@@ -215,8 +215,13 @@
   },
   "active": "a35c980de88e7c78",
   "lastOpenFiles": [
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/01 Periodics/2024-09-10.md",
+    "00 Meta/01 Periodics/2024-09-06.md",
+    "00 Meta/01 Periodics/2024-09-05.md",
+    "00 Meta/01 Periodics/2024-08-30.md",
+    "00 Meta/01 Periodics/2024-09-03.md",
+    "00 Meta/01 Periodics/2024-09-04.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/03 Templates/Daily Note Template.md",
     "00 Meta/03 Templates/Ticket Template.md",
@@ -230,7 +235,6 @@
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
     "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
     "00 Meta/01 Periodics/2024-09-09.md",
-    "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
     "00 Meta/02 PTIs/Password.md",
     "00 Meta/02 PTIs/PAX Installation.md",
@@ -238,9 +242,6 @@
     "00 Meta/02 PTIs/Printer not working.md",
     "00 Meta/02 PTIs/Printer Setup.md",
     "00 Meta/02 PTIs/Problem logging onto gov site.md",
-    "00 Meta/02 PTIs/Problem with access to all computer areas.md",
-    "00 Meta/02 PTIs/Project Folder.md",
-    "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",

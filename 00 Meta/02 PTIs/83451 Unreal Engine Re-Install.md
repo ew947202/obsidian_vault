@@ -3,8 +3,8 @@ pti: ticket
 status: onhold
 ---
 pti: ticket 
-status: onhold
-closed: -----
+status: closed
+closed: 2024-09-10
 user: [[Allison Hughes]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83451&PORTALID=1
@@ -20,7 +20,8 @@ id: 2024091013385276
 ---
 ## Daily Log
 ### [[2024-09-10]]
-- [ ] Reached out to user to see when they are free to reinstall software.
+- [x] Reached out to user to see when they are free to reinstall software.
+- [x] reinstalled the software on users device
 ---
 
 
