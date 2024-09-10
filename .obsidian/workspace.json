@@ -6,6 +6,7 @@
       {
         "id": "799ca971143c3188",
         "type": "tabs",
+        "dimension": 35.758706467661696,
         "children": [
           {
             "id": "5c6e84b46bbec407",
@@ -13,19 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md",
+                "file": "00 Meta/01 Periodics/2024-09-10.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "404065ddd43b9ebd",
+        "type": "tabs",
+        "dimension": 64.2412935323383,
+        "children": [
           {
             "id": "cbc0078a3b6f802d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83415 Camera Not Working.md",
+                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "camera",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +85,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 268.5
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md",
+                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md",
+                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md"
+                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md"
               }
             }
           },
@@ -159,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/Need new project folder.md"
+                "file": "00 Meta/02 PTIs/83427 Can't open emails from customer.md"
               }
             }
           }
@@ -182,40 +191,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c6e84b46bbec407",
+  "active": "cbc0078a3b6f802d",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-09-09.md",
-    "20 Projects/DC-TESTHOST.md",
-    "20 Projects/Development Path.md",
-    "00 Meta/02 PTIs/83415 Camera Not Working.md",
-    "00 Meta/02 PTIs/Requesting MS Project Software.md",
-    "00 Meta/02 PTIs/Return Atlantech Equipment.md",
-    "00 Meta/02 PTIs/New keyboard.md",
-    "00 Meta/02 PTIs/Chantilly Fortinet and Core Switch.md",
-    "Dashboard/Homepage PTIs.md",
-    "00 Meta/02 PTIs/Can't install basic python packages.md",
+    "00 Meta/01 Periodics/2024-09-10.md",
+    "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
-    "00 Meta/04 Assets/wmplayerVersion.png",
-    "Pasted image 20240909124105.png",
-    "00 Meta/01 Periodics/2024-08-30.md",
-    "00 Meta/04 Assets",
-    "00 Meta/Untitled.md",
-    "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
-    "Pasted image 20240905104305.png",
-    "00 Meta/02 PTIs/Getting error when trying to open PDF from GOV.md",
-    "00 Meta/02 PTIs/Cannot Open PDF.md",
-    "20 Projects/Untitled.md",
-    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
     "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
-    "00 Meta/02 PTIs/Need new project folder.md",
+    "00 Meta/01 Periodics/2024-09-09.md",
     "00 Meta/01 Periodics/2024-09-06.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+    "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
+    "00 Meta/02 PTIs/Password.md",
+    "00 Meta/02 PTIs/PAX Installation.md",
+    "00 Meta/02 PTIs/Please remove extra equipment from falls church.md",
+    "00 Meta/02 PTIs/Printer not working.md",
+    "00 Meta/02 PTIs/Printer Setup.md",
+    "00 Meta/02 PTIs/Problem logging onto gov site.md",
+    "00 Meta/02 PTIs/Problem with access to all computer areas.md",
+    "00 Meta/02 PTIs/Project Folder.md",
+    "00 Meta/02 PTIs/Python 2.7.18 Installation.md",
+    "00 Meta/02 PTIs/Requesting ethernet switch and microUSB.md",
+    "00 Meta/02 PTIs/Requesting MS Project Software.md",
+    "00 Meta/02 PTIs/Return Atlantech Equipment.md",
+    "00 Meta/02 PTIs/Unable to digitally sign PDFs.md",
+    "00 Meta/02 PTIs/83415 Camera Not Working.md",
+    "00 Meta/02 PTIs/Need new project folder.md",
+    "20 Projects/DC-TESTHOST.md",
+    "20 Projects/Development Path.md",
+    "00 Meta/02 PTIs/New keyboard.md",
+    "00 Meta/04 Assets/wmplayerVersion.png",
+    "Pasted image 20240909124105.png",
+    "00 Meta/04 Assets",
+    "Pasted image 20240905104305.png",
+    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",

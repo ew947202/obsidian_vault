@@ -22,8 +22,16 @@ id: 2024090312565452
 ---
 ## Daily Log
 ### [[2024-09-09]]
-- [ ] Followed up with user to see if they are still exercising the issue. [[2024-09-13]]
+- [x] Followed up with user to see if they are still exercising the issue. [[2024-09-13]]
 ---
+## Daily Log
+### [[2024-09-10]]
+- [ ] Confirmed users license is active, recommended user log in and out of their account to remove and cached information, following up on [[2024-09-13]]
+---
+
+
+
+
 
 
 
