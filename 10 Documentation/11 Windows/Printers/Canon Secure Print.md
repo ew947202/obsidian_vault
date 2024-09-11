@@ -25,3 +25,7 @@ If you are trying to print an image it seems that Cannon and Secure Print block 
 2. Select Photo viewer
 3. Select Paint 
 
+
+### Potential Solution
+Change the Default app for Photo Viewer by updating GPO in AD
+- [link](https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-applicationdefaults)
