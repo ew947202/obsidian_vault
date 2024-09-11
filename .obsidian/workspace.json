@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           }
@@ -185,10 +184,12 @@
   },
   "active": "1615c3e9dc9bc5f2",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "10 Documentation/11 Windows/Default Software Script.md",
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
+    "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/01 Periodics/2024-09-11.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
@@ -200,7 +201,6 @@
     "00 Meta/02 PTIs/Need Ability to edit IP address.md",
     "00 Meta/02 PTIs/Remote Access form.md",
     "00 Meta/02 PTIs/Need new project folder.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
     "00 Meta/01 Periodics/2024-09-10.md",
     "00 Meta/01 Periodics/2024-09-06.md",
@@ -211,7 +211,6 @@
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/03 Templates/Daily Note Template.md",
     "00 Meta/03 Templates/Ticket Template.md",
-    "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
