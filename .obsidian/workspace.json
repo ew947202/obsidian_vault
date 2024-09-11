@@ -6,7 +6,6 @@
       {
         "id": "0aa0515a2a36484d",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "1615c3e9dc9bc5f2",
@@ -29,23 +28,6 @@
                 "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "799ca971143c3188",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "429c9575db444a5c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
           }
@@ -78,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "catia",
+                "query": "robinson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md"
               }
             }
           },
@@ -177,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md"
               }
             }
           }
@@ -200,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "429c9575db444a5c",
+  "active": "1615c3e9dc9bc5f2",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/01 Periodics/2024-09-11.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
     "00 Meta/02 PTIs/Need software installed on my computer.md",
@@ -228,7 +212,6 @@
     "00 Meta/03 Templates/Daily Note Template.md",
     "00 Meta/03 Templates/Ticket Template.md",
     "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
-    "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
