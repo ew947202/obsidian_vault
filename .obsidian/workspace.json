@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           }
@@ -215,18 +215,20 @@
   },
   "active": "a35c980de88e7c78",
   "lastOpenFiles": [
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "00 Meta/01 Periodics/2024-09-11.md",
+    "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
     "00 Meta/01 Periodics/2024-09-10.md",
     "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/01 Periodics/2024-09-05.md",
     "00 Meta/01 Periodics/2024-08-30.md",
     "00 Meta/01 Periodics/2024-09-03.md",
     "00 Meta/01 Periodics/2024-09-04.md",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/03 Templates/Daily Note Template.md",
     "00 Meta/03 Templates/Ticket Template.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
-    "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
     "00 Meta/02 PTIs/Stratasys F120 Printer Setup New Office.md",
     "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/02 PTIs/Adobe Failing.md",
@@ -239,9 +241,6 @@
     "00 Meta/02 PTIs/Password.md",
     "00 Meta/02 PTIs/PAX Installation.md",
     "00 Meta/02 PTIs/Please remove extra equipment from falls church.md",
-    "00 Meta/02 PTIs/Printer not working.md",
-    "00 Meta/02 PTIs/Printer Setup.md",
-    "00 Meta/02 PTIs/Problem logging onto gov site.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
