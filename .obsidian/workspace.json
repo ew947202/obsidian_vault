@@ -6,57 +6,27 @@
       {
         "id": "799ca971143c3188",
         "type": "tabs",
-        "dimension": 45.460199004975124,
+        "dimension": 99.99999999999999,
         "children": [
-          {
-            "id": "75f373cdff4ce169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "a35c980de88e7c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+                "file": "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "404065ddd43b9ebd",
-        "type": "tabs",
-        "dimension": 54.539800995024876,
-        "children": [
-          {
-            "id": "cbc0078a3b6f802d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
-              }
-            }
           },
           {
-            "id": "f35a5c937e2cc334",
+            "id": "87dd2b195e8bc419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
+                "file": "00 Meta/02 PTIs/card reader.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hille",
+                "query": "config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+                "file": "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+                "file": "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
+                "file": "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md"
               }
             }
           },
@@ -190,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
+                "file": "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md"
               }
             }
           }
@@ -215,8 +185,15 @@
   },
   "active": "a35c980de88e7c78",
   "lastOpenFiles": [
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "00 Meta/02 PTIs/83490 Allow Ability to Change IP Address.md",
+    "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "00 Meta/02 PTIs/Need Ability to edit IP address.md",
+    "00 Meta/02 PTIs/Remote Access form.md",
+    "00 Meta/02 PTIs/card reader.md",
+    "00 Meta/02 PTIs/Need new project folder.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/01 Periodics/2024-09-11.md",
     "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
     "00 Meta/01 Periodics/2024-09-10.md",
@@ -235,12 +212,6 @@
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
-    "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
-    "00 Meta/01 Periodics/2024-09-09.md",
-    "00 Meta/02 PTIs/New Laptop Ansys Config and Blender Install.md",
-    "00 Meta/02 PTIs/Password.md",
-    "00 Meta/02 PTIs/PAX Installation.md",
-    "00 Meta/02 PTIs/Please remove extra equipment from falls church.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",

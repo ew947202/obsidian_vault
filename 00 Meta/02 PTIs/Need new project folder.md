@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-09-11
 user: [[Zandy Williams]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83224&PORTALID=1
@@ -25,7 +25,7 @@ id: 2024090309044722
 ### [[2024-09-09]]
 - [x] User responded with [[Brian Lang]] to be the POC
 - [x] Created the project folder in dcfile004 and added the users requested
-- [ ] Messaged user to ensure they are able to access new project folder, will reach back out on [[2024-09-12]]
+- [x] Messaged user to ensure they are able to access new project folder, will reach back out on [[2024-09-12]]
 ---
 
 
