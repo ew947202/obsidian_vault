@@ -18,6 +18,10 @@ Settings/Registration : Function Settings : Printer > Restrict Printer Jobs
 ## Secure Print breaks if you are printing an image from the photos app
 
 If you are trying to print an image it seems that Cannon and Secure Print block any jobs coming from the default Windows Photo app. A current workaround is changing the default app for photo viewer to Paint. Looking into a solution to allow the print jobs coming from the Windows Photo app to be passed through the windows print server.
+- [Article1](https://community.spiceworks.com/t/edge-and-photos-print-issues/682148/4)
+	- Potentially disabling SSR(Server Side Rendering) resolved it for this user
+- [Article2](https://www.reddit.com/r/sysadmin/comments/byytxs/printing_from_win_10_apps_causes_hanging_print/)
+	- Reddit article where the user is having the same issue and seems to be using PaperCut as well.
 
 ### Current Workaround
 *Switching the default app to Paint*

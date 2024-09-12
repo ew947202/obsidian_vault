@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83538 Computer consistently overheats.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83538 Computer consistently overheats.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "1615c3e9dc9bc5f2",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Work from home access.md",
     "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
+    "00 Meta/02 PTIs/Work from home access.md",
     "20 Projects/Untitled.md",
     "00 Meta/01 Periodics/2024-09-12.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
