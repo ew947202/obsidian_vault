@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-12.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-12.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-12.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-12.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-12.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -185,8 +184,10 @@
   },
   "active": "1615c3e9dc9bc5f2",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Work from home access.md",
+    "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
+    "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-09-12.md",
+    "00 Meta/02 PTIs/Work from home access.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "20 Projects/Untitled.md",
     "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
@@ -209,9 +210,7 @@
     "00 Meta/02 PTIs/Need Ability to edit IP address.md",
     "00 Meta/02 PTIs/Remote Access form.md",
     "00 Meta/02 PTIs/Need new project folder.md",
-    "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
     "00 Meta/01 Periodics/2024-09-10.md",
-    "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
