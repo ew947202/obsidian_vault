@@ -22,6 +22,8 @@ If you are trying to print an image it seems that Cannon and Secure Print block 
 	- Potentially disabling SSR(Server Side Rendering) resolved it for this user
 - [Article2](https://www.reddit.com/r/sysadmin/comments/byytxs/printing_from_win_10_apps_causes_hanging_print/)
 	- Reddit article where the user is having the same issue and seems to be using PaperCut as well.
+- [Article 3](https://community.spiceworks.com/t/canon-ir-adv-and-windows-10-photo-app-microsoft-edge/528852/4)
+	- User was able to find a solution by turning off Driver Isolation in the driver object on the print server. They then needed to turn on/off client side rendering for each printer
 
 ### Current Workaround
 *Switching the default app to Paint*
