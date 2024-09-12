@@ -15,3 +15,11 @@ id: 2024091114121677
 -
 
 ---
+## Daily Log
+### [[2024-09-12]]
+- [ ] Working on building out machine and install baseline. Still waiting on software list from user, will reach out [[2024-09-17]]
+---
+
+
+
+
