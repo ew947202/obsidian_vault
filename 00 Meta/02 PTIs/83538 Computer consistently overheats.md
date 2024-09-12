@@ -16,7 +16,8 @@ id: 2024091208460610
 ---
 ## Daily Log
 ### [[2024-09-12]]
-- [ ] Reached out to user to see when I can remote in to troubleshoot. Will reach back out [[2024-09-17]]
+- [x] Reached out to user to see when I can remote in to troubleshoot. 
+- [ ] [[2024-09-16]] we will meet to troubleshoot this.
 ---
 
 
