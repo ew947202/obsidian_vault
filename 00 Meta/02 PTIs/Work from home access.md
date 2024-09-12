@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-12
 user: [[Lucinda Benitez]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83523&PORTALID=1
 relates: 
@@ -17,7 +17,9 @@ id: 2024091208310316
 ## Daily Log
 ### [[2024-09-12]]
 - [x] Requested more information from the user to see if this was a one time thing or long term. Will follow up on [[2024-09-17]]
-- [ ] User confirmed it would be short term, reached out to manager to get approval.
+- [x] User confirmed it would be short term, reached out to manager to get approval.
+	- Manager approved [[Stephen Montgomery]]
+- [x] added user to Remote Access VPN AD group
 ---
 
 
