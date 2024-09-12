@@ -16,7 +16,8 @@ id: 2024091208310316
 ---
 ## Daily Log
 ### [[2024-09-12]]
-- [ ] Requested more information from the user to see if this was a one time thing or long term. Will follow up on [[2024-09-17]]
+- [x] Requested more information from the user to see if this was a one time thing or long term. Will follow up on [[2024-09-17]]
+- [ ] User confirmed it would be short term, reached out to manager to get approval.
 ---
 
 
