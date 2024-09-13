@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
+                "file": "00 Meta/02 PTIs/83622 Activate Microphone.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
+                "file": "00 Meta/02 PTIs/83622 Activate Microphone.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
+                "file": "00 Meta/02 PTIs/83622 Activate Microphone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83590 Access to PILLS Folder.md"
+                "file": "00 Meta/02 PTIs/83622 Activate Microphone.md"
               }
             }
           },
@@ -161,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83590 Access to PILLS Folder.md"
+                "file": "00 Meta/02 PTIs/83622 Activate Microphone.md"
               }
             }
           }
@@ -184,23 +182,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fa5f4b35593d6df",
+  "active": "752516f2509f85d9",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Access to Project PILLS.md",
-    "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
     "00 Meta/01 Periodics/2024-09-13.md",
+    "00 Meta/02 PTIs/83622 Activate Microphone.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
+    "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
+    "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
+    "00 Meta/02 PTIs/Access to Project PILLS.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
     "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/02 PTIs/83602 File Explorer resets on computer going to sleep.md",
     "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
-    "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
     "00 Meta/01 Periodics/2024-09-12.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "Dashboard/Homepage PTIs.md",
@@ -212,7 +211,6 @@
     "00 Meta/02 PTIs/New keyboard.md",
     "00 Meta/02 PTIs/Requesting MS Project Software.md",
     "00 Meta/02 PTIs/New Machine Setup.md",
-    "00 Meta/01 Periodics/2024-09-11.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
