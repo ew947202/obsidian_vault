@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md"
               }
             }
           }
@@ -188,10 +188,10 @@
   },
   "active": "752516f2509f85d9",
   "lastOpenFiles": [
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/01 Periodics/2024-09-13.md",
     "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
     "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",

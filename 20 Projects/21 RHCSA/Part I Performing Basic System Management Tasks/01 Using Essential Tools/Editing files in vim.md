@@ -1,4 +1,5 @@
 
+
 | vim Command       | Explanation                                                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Esc               | Switches from input mode to command mode.<br>Press this key before typing any command                                                             |
