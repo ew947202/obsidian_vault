@@ -17,7 +17,7 @@ id: 2024091311011201
 ---
 ## Daily Log
 ### [[2024-09-13]]
-- [ ] Got WiFi setup and changed out Yubikey in admin panel for Duo
+- [x] Got WiFi setup and changed out Yubikey in admin panel for Duo
 ---
 
 

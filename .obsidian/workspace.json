@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
+                "file": "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lucin",
+                "query": "data transfer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
+                "file": "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
+                "file": "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md"
+                "file": "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md"
+                "file": "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md"
               }
             }
           }
@@ -184,7 +184,10 @@
   },
   "active": "1615c3e9dc9bc5f2",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
+    "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
     "00 Meta/01 Periodics/2024-09-13.md",
+    "00 Meta/02 PTIs/83602 File Explorer resets on computer going to sleep.md",
     "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
     "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
@@ -208,9 +211,6 @@
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/02 PTIs/CATIA Magic Cyber System Engineer 2021x.md",
     "00 Meta/02 PTIs/Need software installed on my computer.md",
-    "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
-    "00 Meta/02 PTIs/83490 Allow Ability to Change IP Address.md",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
