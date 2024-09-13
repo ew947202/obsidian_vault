@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-13.md",
+                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-13.md",
+                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-13.md",
+                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-13.md"
+                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-13.md"
+                "file": "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md"
               }
             }
           }
@@ -184,8 +184,9 @@
   },
   "active": "1615c3e9dc9bc5f2",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/01 Periodics/2024-09-13.md",
+    "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
+    "00 Meta/02 PTIs/Install MathCad on my computer.md",
     "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
     "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
     "00 Meta/01 Periodics/2024-09-12.md",
@@ -210,7 +211,6 @@
     "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
     "00 Meta/02 PTIs/83490 Allow Ability to Change IP Address.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
-    "00 Meta/02 PTIs/card reader.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
