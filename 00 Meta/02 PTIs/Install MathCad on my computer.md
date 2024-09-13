@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-status: onhold
-closed: yyyy-mm-dd
+status: closed
+closed: 2024-09-13
 user: [[Dave Miller]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82687&PORTALID=1
@@ -27,7 +27,16 @@ id: 2024090308253420
 ---
 ## Daily Log
 ### [[2024-09-09]]
-- [ ] Followed up with user to see if they still need software installed, will close ticket on [[2024-09-13]] if no response
+- [x] Followed up with user to see if they still need software installed, will close ticket on [[2024-09-13]] if no response
+---
+## Daily Log
+### [[2024-09-13]]
+- [x] Closed ticket no response from user.
+---
+
+
+
+
 
 
 
