@@ -10,3 +10,6 @@ The most important part of the man page in general are at the bottom of the man 
 
 ### Finding the Right man Page
 To find information in man pages, you can search the mandb database by using *apropos* or *man -k*.
+
+### Using info
+Apart from the information that you'll find in man pages, another system provides help about command usage. This is the *info* system. Most commands are documented in man pages, but some command have their main documentation in the info system and only show a short usage summary in the man page. 
