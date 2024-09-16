@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
+                "file": "00 Meta/02 PTIs/83648 Installer.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
+                "file": "00 Meta/02 PTIs/83648 Installer.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
+                "file": "00 Meta/02 PTIs/83648 Installer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md"
+                "file": "00 Meta/02 PTIs/83648 Installer.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md"
+                "file": "00 Meta/02 PTIs/83648 Installer.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   "active": "752516f2509f85d9",
   "lastOpenFiles": [
     "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
+    "00 Meta/02 PTIs/83648 Installer.md",
     "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
     "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
@@ -209,7 +210,6 @@
     "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
     "00 Meta/02 PTIs/Access to Project PILLS.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
-    "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
