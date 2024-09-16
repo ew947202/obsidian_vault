@@ -19,6 +19,14 @@ id: 2024091114121677
 - [ ] Device has been built out and put in the proper OU
 	- Device Name: DC-WHSPR
 ---
+## Daily Log
+### [[2024-09-16]]
+- [ ] Reached out to user to get a software list and where the device is going to be stored.
+---
+
+
+
+
 
 
 
