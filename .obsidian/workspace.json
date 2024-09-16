@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-16.md",
+                "file": "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
+                "file": "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "whspr",
+                "query": "pers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-16.md",
+                "file": "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-16.md",
+                "file": "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-16.md"
+                "file": "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-16.md"
+                "file": "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md"
               }
             }
           }
@@ -184,8 +184,14 @@
   },
   "active": "9953373a497cbf19",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
+    "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
+    "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
+    "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
+    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
+    "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
+    "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
     "00 Meta/01 Periodics/2024-09-16.md",
+    "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
     "00 Meta/01 Periodics/2024-09-13.md",
     "00 Meta/01 Periodics/2024-09-12.md",
     "00 Meta/01 Periodics/2024-09-11.md",
@@ -200,17 +206,11 @@
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Basic Shell Skills.md",
     "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
-    "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
     "00 Meta/02 PTIs/Access to Project PILLS.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/Hard Drive Purchase for data transfer.md",
     "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "00 Meta/02 PTIs/83602 File Explorer resets on computer going to sleep.md",
-    "00 Meta/02 PTIs/83610 WiFi and change Yubikey.md",
-    "00 Meta/02 PTIs/Install MathCad on my computer.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",

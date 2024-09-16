@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-16
 user: [[Kelly Roman]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83538&PORTALID=1
 relates: 
@@ -19,6 +19,14 @@ id: 2024091208460610
 - [x] Reached out to user to see when I can remote in to troubleshoot. 
 - [ ] [[2024-09-16]] we will meet to troubleshoot this.
 ---
+## Daily Log
+### [[2024-09-16]]
+- [x] Downloaded Dell Power Manager software
+---
+
+
+
+
 
 
 
