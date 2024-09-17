@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0469a7376cbf1370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/VPN Access for User.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Antonia",
+                "query": "arria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+                "file": "00 Meta/02 PTIs/VPN Access for User.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+                "file": "00 Meta/02 PTIs/VPN Access for User.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md"
+                "file": "00 Meta/02 PTIs/VPN Access for User.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md"
+                "file": "00 Meta/02 PTIs/VPN Access for User.md"
               }
             }
           }
@@ -170,10 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "752516f2509f85d9",
+  "active": "0469a7376cbf1370",
   "lastOpenFiles": [
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "00 Meta/02 PTIs/HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
+    "00 Meta/02 PTIs/VPN Access for User.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
+    "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "Dashboard/Homepage PTIs.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "20 Projects/Untitled.md",
@@ -181,7 +198,6 @@
     "00 Meta/01 Periodics/2024-09-17.md",
     "00 Meta/02 PTIs/83655 Network Drive Access.md",
     "00 Meta/02 PTIs/83667 Network Folders Empty.md",
-    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
     "00 Meta/02 PTIs/83648 Installer.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/Untitled.md",
@@ -197,8 +213,6 @@
     "00 Meta/01 Periodics/2024-09-12.md",
     "00 Meta/01 Periodics/2024-09-11.md",
     "00 Meta/01 Periodics/2024-09-10.md",
-    "00 Meta/01 Periodics/2024-09-09.md",
-    "00 Meta/01 Periodics/2024-09-06.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",

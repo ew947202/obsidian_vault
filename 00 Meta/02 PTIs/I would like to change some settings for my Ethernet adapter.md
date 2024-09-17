@@ -20,6 +20,14 @@ id: 2024091310075304
 	- [x] Will need to reach out to Brian to see if he approves the request as well
 - [x] Reached out to both manager and [[Brian Crowell]] to get approval
 ---
+## Daily Log
+### [[2024-09-17]]
+- [x] Spoke w/ [[Brian Crowell]] and he approved making the changes that the user linked in the original ticket.
+---
+
+
+
+
 
 
 

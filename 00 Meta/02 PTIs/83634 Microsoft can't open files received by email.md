@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-17
 user: [[Pauline Arriaga]]
 source: https://ticket.contoso.com/1492
 relates: 
@@ -17,7 +17,8 @@ id: 2024091614483883
 ---
 ## Daily Log
 ### [[2024-09-16]]
-- [ ] Reached out to user to see if this is only happening with old attachments as this seems to be the same issue that was happening with [[Antonia Shull]] and new Outlook.
+- [x] Reached out to user to see if this is only happening with old attachments as this seems to be the same issue that was happening with [[Antonia Shull]] and new Outlook.
+- [x] Showed user the workaround until Microsoft comes out with an official update.
 ---
 
 
