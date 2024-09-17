@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa0515a2a36484d",
+        "id": "62954f6cb55f8bcc",
         "type": "tabs",
         "children": [
           {
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0469a7376cbf1370",
+            "id": "0bc4faafe325c0b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HDP",
+                "query": "jed wi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -161,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -170,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,22 +182,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0469a7376cbf1370",
+  "active": "0bc4faafe325c0b8",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-09-17.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "00 Meta/02 PTIs/83694 Driver for space mouse.md",
+    "00 Meta/02 PTIs/83686 GrabCad and Eiger.md",
+    "00 Meta/02 PTIs/83678 VPN Access for User.md",
+    "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
     "00 Meta/02 PTIs/83667 Network Folders Empty.md",
     "00 Meta/02 PTIs/Vivado 2023.1 Update.md",
     "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
-    "00 Meta/02 PTIs/VPN Access for User.md",
-    "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
     "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
     "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "Dashboard/Homepage PTIs.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "20 Projects/Untitled.md",
     "20 Projects/Development Path.md",
-    "00 Meta/01 Periodics/2024-09-17.md",
     "00 Meta/02 PTIs/83655 Network Drive Access.md",
     "00 Meta/02 PTIs/83648 Installer.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
@@ -211,9 +211,6 @@
     "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
     "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
     "00 Meta/01 Periodics/2024-09-16.md",
-    "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
-    "00 Meta/01 Periodics/2024-09-13.md",
-    "00 Meta/01 Periodics/2024-09-12.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
