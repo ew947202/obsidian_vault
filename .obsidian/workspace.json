@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arria",
+                "query": "antonia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md"
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md"
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
               }
             }
           }
@@ -185,8 +186,9 @@
   },
   "active": "0469a7376cbf1370",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/VPN Access for User.md",
+    "00 Meta/02 PTIs/Vivado 2023.1 Update.md",
     "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
+    "00 Meta/02 PTIs/VPN Access for User.md",
     "00 Meta/02 PTIs/HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
     "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
@@ -212,7 +214,6 @@
     "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
     "00 Meta/01 Periodics/2024-09-13.md",
     "00 Meta/01 Periodics/2024-09-12.md",
-    "00 Meta/01 Periodics/2024-09-11.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",

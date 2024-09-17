@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-17
 user: [[Antonia Shull]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83667&PORTALID=1
 relates: 
@@ -16,7 +16,7 @@ id: 2024091709192712
 ---
 ## Daily Log
 ### [[2024-09-17]]
-- [ ] Reached out to user to see when they are free for me to remote into the device and check the power settings.
+- [x] Reached out to user to see when they are free for me to remote into the device and check the power settings.
 ---
 
 
