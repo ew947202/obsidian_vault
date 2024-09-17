@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-17
 user: [[Austin Kriznar]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83677&PORTALID=1
 relates: 
@@ -16,7 +16,8 @@ id: 2024091712234377
 ---
 ## Daily Log
 ### [[2024-09-17]]
-- [ ] Reached out to both POCs for approval
+- [x] Reached out to both POCs for approval
+- [x] approved and added user to project-Next
 ---
 
 

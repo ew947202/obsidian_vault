@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antonia",
+                "query": "HDP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
+                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
+                "file": "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md"
               }
             }
           }
@@ -186,10 +186,11 @@
   },
   "active": "0469a7376cbf1370",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/83667 Network Folders Empty.md",
     "00 Meta/02 PTIs/Vivado 2023.1 Update.md",
     "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
     "00 Meta/02 PTIs/VPN Access for User.md",
-    "00 Meta/02 PTIs/HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
+    "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
     "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
     "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
@@ -200,7 +201,6 @@
     "20 Projects/Development Path.md",
     "00 Meta/01 Periodics/2024-09-17.md",
     "00 Meta/02 PTIs/83655 Network Drive Access.md",
-    "00 Meta/02 PTIs/83667 Network Folders Empty.md",
     "00 Meta/02 PTIs/83648 Installer.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/Untitled.md",
