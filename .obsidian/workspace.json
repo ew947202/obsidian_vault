@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83648 Installer.md",
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "83648",
+                "query": "Antonia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83648 Installer.md",
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83648 Installer.md",
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83648 Installer.md"
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83648 Installer.md"
+                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
               }
             }
           }
@@ -198,16 +198,17 @@
   },
   "active": "f1105bb0be2d30aa",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
+    "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+    "00 Meta/02 PTIs/83648 Installer.md",
     "00 Meta/01 Periodics/2024-09-17.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/83655 Network Drive Access.md",
     "00 Meta/02 PTIs/Untitled.md",
-    "00 Meta/02 PTIs/83648 Installer.md",
     "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
     "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
     "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
-    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
     "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
     "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
     "00 Meta/01 Periodics/2024-09-16.md",
@@ -223,7 +224,6 @@
     "00 Meta/02 PTIs/83622 Activate Microphone.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Understanding the Shell Environment.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",

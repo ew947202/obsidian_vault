@@ -17,7 +17,7 @@ id: 2024091614483883
 ---
 ## Daily Log
 ### [[2024-09-16]]
-- [ ] Reached out to user to see if this is only happening with old attachments as this seems to be the same issue that was happening with [[[Antonia Shull]] and new Outlook.
+- [ ] Reached out to user to see if this is only happening with old attachments as this seems to be the same issue that was happening with [[Antonia Shull]] and new Outlook.
 ---
 
 
