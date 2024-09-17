@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1105bb0be2d30aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c369cfdb6c4ef55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/02 PTIs/83655 Network Drive Access.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 223.5
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md"
               }
             }
           },
@@ -173,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83667 Network Folders Empty.md"
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md"
               }
             }
           }
@@ -196,14 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1105bb0be2d30aa",
+  "active": "752516f2509f85d9",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
-    "00 Meta/02 PTIs/83667 Network Folders Empty.md",
-    "00 Meta/02 PTIs/83648 Installer.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+    "Dashboard/Homepage PTIs.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
+    "20 Projects/Untitled.md",
+    "20 Projects/Development Path.md",
     "00 Meta/01 Periodics/2024-09-17.md",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/83655 Network Drive Access.md",
+    "00 Meta/02 PTIs/83667 Network Folders Empty.md",
+    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
+    "00 Meta/02 PTIs/83648 Installer.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/Untitled.md",
     "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
     "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
@@ -219,12 +199,6 @@
     "00 Meta/01 Periodics/2024-09-10.md",
     "00 Meta/01 Periodics/2024-09-09.md",
     "00 Meta/01 Periodics/2024-09-06.md",
-    "00 Meta/01 Periodics/2024-09-05.md",
-    "00 Meta/02 PTIs/Vivado 2023.1 Update.md",
-    "00 Meta/02 PTIs/83622 Activate Microphone.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Editing files in vim.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools/Finding Help.md",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
@@ -233,10 +207,9 @@
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/01 Using Essential Tools",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools",
     "20 Projects/21 RHCSA/00 Meta",
     "20 Projects/21 RHCSA/21.10 Managing Containers",
-    "20 Projects/21 RHCSA/21.09 Managing Security",
     "Untitled.canvas"
   ]
 }
