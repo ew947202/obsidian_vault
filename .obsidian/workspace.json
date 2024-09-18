@@ -4,9 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62954f6cb55f8bcc",
+        "id": "07fdf43d4fdc6ee1",
         "type": "tabs",
         "children": [
+          {
+            "id": "0bc4faafe325c0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/01 Periodics/2024-09-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "752516f2509f85d9",
             "type": "leaf",
@@ -20,19 +32,19 @@
             }
           },
           {
-            "id": "0bc4faafe325c0b8",
+            "id": "b85f6bf747fa8aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-17.md",
+                "file": "00 Meta/02 PTIs/83710 Request for access to analytic machines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-17.md",
+                "file": "00 Meta/02 PTIs/83710 Request for access to analytic machines.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-17.md",
+                "file": "00 Meta/02 PTIs/83710 Request for access to analytic machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-17.md"
+                "file": "00 Meta/02 PTIs/83710 Request for access to analytic machines.md"
               }
             }
           },
@@ -160,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-17.md"
+                "file": "00 Meta/02 PTIs/83710 Request for access to analytic machines.md"
               }
             }
           }
@@ -169,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bc4faafe325c0b8",
+  "active": "b85f6bf747fa8aea",
   "lastOpenFiles": [
-    "Dashboard/Homepage PTIs.md",
-    "00 Meta/01 Periodics/2024-09-17.md",
+    "00 Meta/02 PTIs/83708 USB-to-serial driver install.md",
+    "00 Meta/02 PTIs/83710 Request for access to analytic machines.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+    "00 Meta/01 Periodics/2024-09-18.md",
+    "00 Meta/01 Periodics/2024-09-17.md",
+    "Dashboard/Homepage PTIs.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/02 PTIs/83694 Driver for space mouse.md",
     "00 Meta/02 PTIs/83686 GrabCad and Eiger.md",
@@ -209,8 +225,6 @@
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
     "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
     "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
-    "00 Meta/02 PTIs/83538 Computer consistently overheats.md",
-    "00 Meta/01 Periodics/2024-09-16.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
