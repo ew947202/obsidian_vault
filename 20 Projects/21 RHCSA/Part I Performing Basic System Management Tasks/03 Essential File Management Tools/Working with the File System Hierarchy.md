@@ -12,5 +12,11 @@ File system Hierarchy Standard (FHS) is described in ``man 7 file-hierarchy``
 |     /etc      | Contains configuration files that are used by programs<br>and services on your server. This directory is essential<br>during boot. |
 |     /home     | Used for local user home directories.                                                                                              |
 | /media, /mnt  | Contain directories that are used for mount                                                                                        |
-|     /opt      |                                                                                                                                    |
-|               |                                                                                                                                    |
+|     /opt      | Used for optional packages that may be installed <br>on your server                                                                |
+|     /proc     | Used by the proc file system. This is a file system <br>structure that gives access to kernel information                          |
+|     /root     | Specifies the home directory of the root user                                                                                      |
+|     /srv      | May be used fir data by services like NFS, FTO, and HTTP                                                                           |
+|     /sys      | Used as an interface to different hardware devices<br>that are managed by the Linux kernel and associated<br>processes             |
+|     /tmp      | Contains temporary files that may be deleted without <br>any warning during boot                                                   |
+|     /usr      | Contains subdirectories with program files, libraries, for <br>these program files, and documentation about them.                  |
+|     /var      | Contains files that may change in size dynamically, such <br>as log files, mail boxes, and spool files.                            |
