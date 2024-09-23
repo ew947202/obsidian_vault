@@ -19,8 +19,16 @@ id: 2024091707493787
 ---
 ## Daily Log
 ### [[2024-09-17]]
-- [ ] Sent request for approvals to both POCs. Will reach back out on [[2024-09-23]]
+- [x] Sent request for approvals to both POCs. Will reach back out on [[2024-09-23]]
 ---
+## Daily Log
+### [[2024-09-23]]
+- [ ] Received approval from [[Jill Cochran]] for TAS still waiting on approval for CM. Will follow up on [[2024-09-30]]
+---
+
+
+
+
 
 
 

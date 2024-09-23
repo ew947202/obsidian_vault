@@ -23,6 +23,14 @@ id: 2024091616100156
 - [ ] User responded with software name and it has been previously installed, MetaVision.
 - [ ] Will remote into users device and install software, reaching back out on [[2024-09-23]]
 ---
+## Daily Log
+### [[2024-09-23]]
+- [ ] Followup email sent, reopen open[[2024-09-30]]
+---
+
+
+
+
 
 
 

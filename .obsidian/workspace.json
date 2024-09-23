@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+                "file": "00 Meta/01 Periodics/2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bc4faafe325c0b8",
+            "id": "2a6964737695cbb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-18.md",
+                "file": "00 Meta/02 PTIs/83767 Cobra Jira Access.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jed wi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+                "file": "00 Meta/02 PTIs/83767 Cobra Jira Access.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
+                "file": "00 Meta/02 PTIs/83767 Cobra Jira Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md"
+                "file": "00 Meta/02 PTIs/83767 Cobra Jira Access.md"
               }
             }
           },
@@ -159,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md"
+                "file": "00 Meta/02 PTIs/83767 Cobra Jira Access.md"
               }
             }
           }
@@ -182,12 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "752516f2509f85d9",
+  "active": "2a6964737695cbb8",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-09-23.md",
+    "00 Meta/02 PTIs/83767 Cobra Jira Access.md",
+    "00 Meta/02 PTIs/83655 Network Drive Access.md",
+    "00 Meta/02 PTIs/83648 Installer.md",
+    "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
     "20 Projects/Untitled.md",
     "00 Meta/02 PTIs/83710 Request for access to analytic machines.md",
     "00 Meta/02 PTIs/83708 USB-to-serial driver install.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/Working with the File System Hierarchy.md",
     "00 Meta/01 Periodics/2024-09-18.md",
     "00 Meta/01 Periodics/2024-09-17.md",
     "Dashboard/Homepage PTIs.md",
@@ -203,15 +209,10 @@
     "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "20 Projects/Development Path.md",
-    "00 Meta/02 PTIs/83655 Network Drive Access.md",
-    "00 Meta/02 PTIs/83648 Installer.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/Untitled.md",
-    "00 Meta/02 PTIs/83632 Ongoing Issues with Windows Media Player.md",
     "00 Meta/02 PTIs/83635 Project Folder (WHSPR).md",
     "00 Meta/02 PTIs/Recording & Windows Media Player issues.md",
-    "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
-    "00 Meta/02 PTIs/83427 Can't open emails from customer.md",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
