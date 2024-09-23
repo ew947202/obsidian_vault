@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-23
 user: [[Bryan Levy]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83655&PORTALID=1
 relates: 
@@ -23,8 +23,16 @@ id: 2024091707493787
 ---
 ## Daily Log
 ### [[2024-09-23]]
-- [ ] Received approval from [[Jill Cochran]] for TAS still waiting on approval for CM. Will follow up on [[2024-09-30]]
+- [x] Received approval from [[Jill Cochran]] for TAS still waiting on approval for CM. Will follow up on [[2024-09-30]]
 ---
+## Daily Log
+### [[2024-09-23]]
+- [x] added user to both security groups after receiving approval from both POCs
+---
+
+
+
+
 
 
 
