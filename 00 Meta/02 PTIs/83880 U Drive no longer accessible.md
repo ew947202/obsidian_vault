@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: [[2024-09-24]]
 user: [[Elizabeth McIntyre]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83880&PORTALID=1
 relates: 
@@ -16,7 +16,8 @@ id: 2024092410533829
 ---
 ## Daily Log
 ### [[2024-09-24]]
-- [ ] Reached out to user to see when they are free
+- [x] Reached out to user to see when they are free
+- [x] remapped drive
 ---
 
 

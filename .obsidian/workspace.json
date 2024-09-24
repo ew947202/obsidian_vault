@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-24.md",
+                "file": "00 Meta/02 PTIs/83880 U Drive no longer accessible.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83887 Login request for every task in MS365.md",
+                "file": "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unrea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83887 Login request for every task in MS365.md",
+                "file": "00 Meta/02 PTIs/83880 U Drive no longer accessible.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83887 Login request for every task in MS365.md",
+                "file": "00 Meta/02 PTIs/83880 U Drive no longer accessible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83887 Login request for every task in MS365.md"
+                "file": "00 Meta/02 PTIs/83880 U Drive no longer accessible.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83887 Login request for every task in MS365.md"
+                "file": "00 Meta/02 PTIs/83880 U Drive no longer accessible.md"
               }
             }
           }
@@ -183,13 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c8291a68dd3804c",
+  "active": "2a6964737695cbb8",
   "lastOpenFiles": [
     "00 Meta/01 Periodics/2024-09-24.md",
+    "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
+    "00 Meta/02 PTIs/Admin Password needed to copy a file.md",
+    "00 Meta/02 PTIs/83451 Unreal Engine Re-Install.md",
+    "00 Meta/02 PTIs/83887 Login request for every task in MS365.md",
     "00 Meta/02 PTIs/83856 Requesting Access to Cobra BitBucket Repo.md",
     "00 Meta/02 PTIs/83857 Folder Permissions - delete desktop icons.md",
     "00 Meta/02 PTIs/83880 U Drive no longer accessible.md",
-    "00 Meta/02 PTIs/83887 Login request for every task in MS365.md",
     "00 Meta/01 Periodics/2024-09-23.md",
     "00 Meta/02 PTIs/83767 Cobra Jira Access.md",
     "00 Meta/02 PTIs/83655 Network Drive Access.md",
@@ -209,9 +212,6 @@
     "00 Meta/02 PTIs/83677 HDP MLM Effort ME NEXT Folder Permissions - Jones.md",
     "00 Meta/02 PTIs/83667 Network Folders Empty.md",
     "00 Meta/02 PTIs/Vivado 2023.1 Update.md",
-    "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
-    "00 Meta/02 PTIs/83634 Microsoft can't open files received by email.md",
-    "00 Meta/02 PTIs/I would like to change some settings for my Ethernet adapter.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "Pasted image 20240909124105.png",
