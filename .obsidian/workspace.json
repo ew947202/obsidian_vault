@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-25.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,17 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fb22537ad284132",
+  "active": "2a6964737695cbb8",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
+    "00 Meta/02 PTIs/83678 VPN Access for User.md",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/01 Periodics/2024-09-25.md",
+    "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
     "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
     "00 Meta/02 PTIs/83602 File Explorer resets on computer going to sleep.md",
     "00 Meta/02 PTIs/83590 Access to PILLS Folder.md",
     "00 Meta/02 PTIs/83694 Driver for space mouse.md",
     "00 Meta/02 PTIs/83686 GrabCad and Eiger.md",
     "00 Meta/02 PTIs/83708 USB-to-serial driver install.md",
-    "00 Meta/01 Periodics/2024-09-25.md",
     "00 Meta/02 PTIs/card reader.md",
     "00 Meta/02 PTIs/Cannot Open PDF.md",
     "00 Meta/02 PTIs/Getting error when trying to open PDF from GOV.md",
@@ -210,7 +210,6 @@
     "00 Meta/02 PTIs/83856 Requesting Access to Cobra BitBucket Repo.md",
     "00 Meta/01 Periodics/2024-09-23.md",
     "00 Meta/02 PTIs/83767 Cobra Jira Access.md",
-    "00 Meta/02 PTIs/83655 Network Drive Access.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "00 Meta/04 Assets/wmplayerVersion.png",
