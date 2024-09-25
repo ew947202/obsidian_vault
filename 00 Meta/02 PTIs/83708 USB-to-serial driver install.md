@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-25
 user: [[Peter Rusello]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83708&PORTALID=1
 relates: 

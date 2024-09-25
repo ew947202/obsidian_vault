@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
 status: onhold
-closed: yyyy-mm-dd
+closed: 2024-09-25
 user: [[Jed Withers]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82271&PORTALID=1

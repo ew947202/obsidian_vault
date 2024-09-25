@@ -1,10 +1,10 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
 status: onhold
-closed: yyyy-mm-dd
+closed: 2024-09-25
 user: [[Cassie Vollmer]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82268&PORTALID=1
