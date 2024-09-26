@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-25
 user: [[Brian Lang]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83526&PORTALID=1
 relates: 
@@ -21,8 +21,16 @@ id: 2024091114121677
 ---
 ## Daily Log
 ### [[2024-09-16]]
-- [ ] Reached out to user to get a software list and where the device is going to be stored.
+- [x] Reached out to user to get a software list and where the device is going to be stored.
 ---
+## Daily Log
+### [[2024-09-25]]
+- [x] Device was setup in room 535 
+---
+
+
+
+
 
 
 

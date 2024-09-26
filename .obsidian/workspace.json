@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "2a6964737695cbb8",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/83678 VPN Access for User.md",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/02 PTIs/83678 VPN Access for User.md",
     "00 Meta/01 Periodics/2024-09-25.md",
     "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
     "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
