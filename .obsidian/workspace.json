@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
+                "file": "20 Projects/DC-TESTHOST.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
+                "file": "20 Projects/DC-TESTHOST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
+                "file": "20 Projects/DC-TESTHOST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md"
+                "file": "20 Projects/DC-TESTHOST.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md"
+                "file": "20 Projects/DC-TESTHOST.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "45e2ffbed7200265",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-09-26.md",
     "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
+    "00 Meta/01 Periodics/2024-09-26.md",
     "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
     "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
     "Dashboard/Homepage PTIs.md",

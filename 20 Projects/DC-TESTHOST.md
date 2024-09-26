@@ -34,6 +34,17 @@ id: 2024081417294219
 ### [[2024-09-09]]
 - [x] Sent in PO request for four new SSDs
 ---
+## Daily Log
+### [[2024-09-26]]
+- [ ] Hooked up DCTESTHOST to KVM and set IP address
+	- IP: 192.168.145.10
+	- Subnet Mask: 255.255.255.0
+	- Default Gateway: 192.168.145.03
+---
+
+
+
+
 
 
 
