@@ -22,13 +22,13 @@ id: 2024081417294219
 ---
 ## Daily Log
 ### [[2024-08-14]]
-- [ ] Worked with Devon to discuss how we would deploy the drives in the test server
-	- [ ] Discussed the 7.68TB drives in RAID 10. I would suggest getting the non OM drives as they are half the price
+- [x] Worked with Devon to discuss how we would deploy the drives in the test server
+	- [x] Discussed the 7.68TB drives in RAID 10. I would suggest getting the non OM drives as they are half the price
 ---
 ## Daily Log
 ### [[2024-08-19]]
-- [ ] Spoke with Devon we are going to go with four 4TB 870 EVO drives from [[Falls Church 4TB SSD DC-TESTHOST.pdf|Amazon]]
-    - [ ] Waiting for PO training that is scheduled for tomorrow
+- [x] Spoke with Devon we are going to go with four 4TB 870 EVO drives from [[Falls Church 4TB SSD DC-TESTHOST.pdf|Amazon]]
+    - [x] Waiting for PO training that is scheduled for tomorrow
 ---
 ## Daily Log
 ### [[2024-09-09]]
