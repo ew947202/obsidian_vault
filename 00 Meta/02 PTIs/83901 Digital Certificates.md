@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-09-26
 user: [[Mike Mastroianni]]
 source: https://ticket.contoso.com/1492
 relates: 
@@ -16,8 +16,16 @@ id: 2024092509243259
 ---
 ## Daily Log
 ### [[2024-09-25]]
-- [ ] Need to know if the user still has their pickup password, if so we can begin bringing the cert over to new device.
+- [x] Need to know if the user still has their pickup password, if so we can begin bringing the cert over to new device.
 ---
+## Daily Log
+### [[2024-09-26]]
+- [x] Imported cert from old device 
+---
+
+
+
+
 
 
 
