@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
+                "file": "00 Meta/01 Periodics/2024-09-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unrea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
+                "file": "00 Meta/01 Periodics/2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
+                "file": "00 Meta/01 Periodics/2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md"
+                "file": "00 Meta/01 Periodics/2024-09-27.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md"
+                "file": "00 Meta/01 Periodics/2024-09-27.md"
               }
             }
           }
@@ -173,6 +173,16 @@
   },
   "active": "2a6964737695cbb8",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-09-04.md",
+    "00 Meta/01 Periodics/2024-09-09.md",
+    "00 Meta/01 Periodics/2024-09-10.md",
+    "00 Meta/01 Periodics/2024-09-11.md",
+    "00 Meta/01 Periodics/2024-09-12.md",
+    "00 Meta/01 Periodics/2024-09-13.md",
+    "00 Meta/01 Periodics/2024-09-16.md",
+    "00 Meta/01 Periodics/2024-09-17.md",
+    "00 Meta/01 Periodics/2024-08-27.md",
+    "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
     "Dashboard/Homepage PTIs.md",
     "10 Documentation/14 O365/Outlook won't open Word attachments.md",
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
@@ -191,16 +201,6 @@
     "00 Meta/01 Periodics/2024-09-26.md",
     "00 Meta/02 PTIs/Mount Wireless APs in Falls Church.md",
     "00 Meta/02 PTIs/83901 Digital Certificates.md",
-    "00 Meta/02 PTIs/Add users to PNGS user group.md",
-    "20 Projects/DC-TESTHOST.md",
-    "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
-    "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
-    "00 Meta/02 PTIs/83526 New Machine Setup (WHSPR).md",
-    "00 Meta/02 PTIs/83678 VPN Access for User.md",
-    "00 Meta/01 Periodics/2024-09-25.md",
-    "00 Meta/02 PTIs/83486 Data transfer to a University Partner.md",
-    "00 Meta/02 PTIs/83502 Visual Studio missing toolchains.md",
-    "00 Meta/02 PTIs/83602 File Explorer resets on computer going to sleep.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "Pasted image 20240909124105.png",
