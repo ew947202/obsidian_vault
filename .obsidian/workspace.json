@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-26.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-26.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-26.md",
+                "file": "Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-26.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-26.md"
+                "file": "Dashboard/Homepage PTIs.md"
               }
             }
           }
@@ -170,12 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "2a6964737695cbb8",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-09-27.md",
+    "00 Meta/01 Periodics/2024-09-26.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/Mount Wireless APs in Falls Church.md",
     "00 Meta/02 PTIs/83901 Digital Certificates.md",
-    "00 Meta/01 Periodics/2024-09-26.md",
     "00 Meta/02 PTIs/Add users to PNGS user group.md",
     "20 Projects/DC-TESTHOST.md",
     "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
@@ -197,7 +198,6 @@
     "00 Meta/02 PTIs/Need a USB-C hub.md",
     "00 Meta/02 PTIs/83854 Software Request - MagicDraw.md",
     "00 Meta/01 Periodics/2024-09-24.md",
-    "00 Meta/02 PTIs/83857 Folder Permissions - delete desktop icons.md",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "00 Meta/04 Assets/wmplayerVersion.png",
