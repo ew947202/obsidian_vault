@@ -1,6 +1,6 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
 closed: yyyy-mm-dd
@@ -17,8 +17,16 @@ id: 2024092608402587
 ---
 ## Daily Log
 ### [[2024-09-26]]
-- [ ] Reached out to user to see when they are free
+- [x] Reached out to user to see when they are free
 ---
+## Daily Log
+### [[2024-09-27]]
+- [x] Monitor works after the dock was updated
+---
+
+
+
+
 
 
 
