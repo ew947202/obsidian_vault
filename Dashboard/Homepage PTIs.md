@@ -1,4 +1,4 @@
-
+## Tickets 
 ```dataview
 
 TABLE WITHOUT ID
@@ -9,16 +9,8 @@ filter(file.tasks, (t) => t.status = " ").text AS Notes
 
 FROM "00 Meta/02 PTIs"
 
-WHERE status = "open" OR status = "onhold"
+WHERE status = "open" OR status = "onhold" AND pti = "ticket"
 ```
 
 
-
-```dataview
-TABLE
-
-FROM "00 Meta/02 PTIs"
-
-WHERE status = "closed"
-```
 
