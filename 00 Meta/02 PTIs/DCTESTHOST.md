@@ -48,7 +48,7 @@ id: 2024092716533600
 - [x] Reinstalled OS via UEFI.
 - [x] Reinstalled the Hyper-V host 
 - [x] Set the IP address
-- Talked to [[Hunter Kimbrough]] you can use the command ``get-SecureBootUefi`` to check if the OS is installed in UEFI or BIOS mode. If it returns anything other than *True* it is not in UEFI
+- Talked to [[Hunter Kimbrough]] you can use the command ``confirm-SecureBootUEFI`` to check if the OS is installed in UEFI or BIOS mode. If it returns anything other than *True* it is not in UEFI
 	- Server is currently not returning true.... continuing to troubleshoot
 ---
 
