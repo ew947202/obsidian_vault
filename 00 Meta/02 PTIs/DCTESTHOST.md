@@ -43,6 +43,15 @@ id: 2024092716533600
 ### [[2024-09-27]]
 - [ ] Worked with [[Devon Wiggins]] and we are running into issues where it seems the OS was booted from BIOS rather than UEFI. Will work with him on [[2024-09-30]] to get the OS reinstalled and proceed with installing HyperV
 ---
+## Daily Log
+### [[2024-09-30]]
+- [x] Reinstalled OS via UEFI.
+- [ ] 
+---
+
+
+
+
 
 
 
