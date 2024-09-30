@@ -46,7 +46,7 @@ id: 2024092716533600
 ## Daily Log
 ### [[2024-09-30]]
 - [x] Reinstalled OS via UEFI.
-- [ ] 
+- [x] Reinstalled the Hyper-V host 
 ---
 
 
