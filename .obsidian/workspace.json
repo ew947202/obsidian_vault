@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comsol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md"
+                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md"
+                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md"
               }
             }
           }
@@ -198,8 +198,13 @@
   },
   "active": "244218afadc91702",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-10-01.md",
+    "10 Documentation/11 Windows/Default Software Script.md",
+    "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+    "10 Documentation/11 Windows/Software Installs",
+    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+    "00 Meta/01 Periodics/2024-10-01.md",
     "00 Meta/02 PTIs/Installing COMSOL on my device.md",
     "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
     "Dashboard/Homepage PTIs.md",
@@ -222,10 +227,6 @@
     "00 Meta/02 PTIs/Untitled 2.md",
     "00 Meta/02 PTIs/Untitled 1.md",
     "00 Meta/01 Periodics/2024-09-04.md",
-    "00 Meta/01 Periodics/2024-09-09.md",
-    "00 Meta/01 Periodics/2024-09-10.md",
-    "00 Meta/01 Periodics/2024-09-11.md",
-    "00 Meta/01 Periodics/2024-09-12.md",
     "Dashboard/Untitled",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
@@ -237,7 +238,6 @@
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "20 Projects/21 RHCSA/Part II Operating Running Systems",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools",
     "Untitled.canvas"
   ]
 }
