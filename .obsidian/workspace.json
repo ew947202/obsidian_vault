@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "a2fdc2b96e65c6de",
+            "id": "fba1b569c4f629fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
+                "file": "20 RHCSA/00 Meta/01 Definitions/root directory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abf069f4a9ab3c21",
+            "id": "b16eae33d587f34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
+                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
+                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md"
+                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md"
+                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
               }
             }
           }
@@ -207,14 +207,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf069f4a9ab3c21",
+  "floating": {
+    "id": "a286fcbb1a68431f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a07e4e9ca356b9c0",
+        "type": "window",
+        "children": [
+          {
+            "id": "975759b9e8a4f8a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f1802778d38e384d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2818,
+        "y": 5,
+        "width": 1490,
+        "height": 1010,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f1802778d38e384d",
   "lastOpenFiles": [
-    "Dashboard/Homepage PTIs.md",
-    "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
-    "20 RHCSA/00 Meta/01 Definitions/mount.md",
-    "00 Meta/01 Periodics/2024-10-01.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+    "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "20 RHCSA/00 Meta/01 Definitions/root directory.md",
+    "20 RHCSA/00 Meta/01 Definitions/mount.md",
+    "Dashboard/Homepage PTIs.md",
+    "00 Meta/01 Periodics/2024-10-01.md",
     "20 Projects/Development Path.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "20 Projects/Untitled.md",
@@ -244,8 +280,6 @@
     "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/02 PTIs/84047 Print to PDF is failing.md",
-    "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
-    "00 Meta/02 PTIs/83854 Software Request - MagicDraw.md",
     "00 Meta/04 Assets/30356.png",
     "~$non Secure Print for IT and End User Draft.docx",
     "Dashboard/Untitled",

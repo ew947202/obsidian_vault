@@ -5,7 +5,7 @@
   "folder_tag_pattern": [
     {
       "folder": "20 RHCSA/00 Meta/01 Definitions",
-      "tag": "#definition",
+      "tag": "#term",
       "pattern": ""
     }
   ],
