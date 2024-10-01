@@ -1,12 +1,15 @@
 ```dataview
 TABLE WITHOUT ID
-file.name as Term,
+
+file.link as Term,
 file.lists.text as Definition,
 file.inlinks as Relations
 
 FROM #term 
 
-SORT ASC
+FLATTEN file.lists.text as Definition
+
+SORT file.name ASC
 ```
 
 
