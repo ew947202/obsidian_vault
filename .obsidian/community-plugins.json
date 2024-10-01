@@ -3,7 +3,5 @@
   "templater-obsidian",
   "obsidian-minimal-settings",
   "obsidian-git",
-  "obsidian-kanban",
-  "better-export-pdf",
-  "note-definitions"
+  "better-export-pdf"
 ]
