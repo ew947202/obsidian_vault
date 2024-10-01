@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-30.md",
+                "file": "00 Meta/01 Periodics/2024-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-30.md",
+                "file": "00 Meta/01 Periodics/2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-30.md",
+                "file": "00 Meta/01 Periodics/2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-30.md"
+                "file": "00 Meta/01 Periodics/2024-10-01.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-09-30.md"
+                "file": "00 Meta/01 Periodics/2024-10-01.md"
               }
             }
           }
@@ -185,8 +185,9 @@
   },
   "active": "2a6964737695cbb8",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/01 Periodics/2024-09-30.md",
+    "00 Meta/01 Periodics/2024-10-01.md",
+    "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/01 Periodics/2024-09-27.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "~$non Secure Print for IT and End User Draft.docx",
@@ -211,7 +212,6 @@
     "10 Documentation/14 O365/Installing Planning Analytics Plugin in Excel.md",
     "10 Documentation/14 O365/Error Code - 53003.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
-    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
     "Dashboard/Untitled",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
