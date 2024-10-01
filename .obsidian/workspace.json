@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e657f19b0a91cd2",
+            "id": "a2fdc2b96e65c6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions List.md",
+                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions List.md",
+                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions List.md",
+                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions List.md"
+                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions List.md"
+                "file": "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md"
               }
             }
           }
@@ -195,11 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "a2fdc2b96e65c6de",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-10-01.md",
+    "20 RHCSA/00 Meta/01 Definitions/mount.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+    "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
+    "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "20 Projects/Development Path.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+    "20 Projects/Untitled.md",
+    "20 Projects/DC-TESTHOST.md",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions/root directory.md",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions List.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "10 Documentation/11 Windows/Software Installs/COMSOL.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools/02.02 Editing files in vim.md",
     "Dashboard/Homepage PTIs.md",
@@ -220,20 +228,13 @@
     "10 Documentation/11 Windows/Software Installs",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
-    "00 Meta/01 Periodics/2024-10-01.md",
     "00 Meta/02 PTIs/Installing COMSOL on my device.md",
     "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/02 PTIs/84047 Print to PDF is failing.md",
     "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
     "00 Meta/02 PTIs/83854 Software Request - MagicDraw.md",
-    "00 Meta/02 PTIs/83648 Installer.md",
-    "00 Meta/02 PTIs/84104 Installing MatLab.md",
-    "00 Meta/03 Templates/Daily Note Template.md",
-    "2024-W40.md",
     "00 Meta/04 Assets/30356.png",
-    "00 Meta/01 Periodics/2024-09-30.md",
-    "00 Meta/01 Periodics/2024-09-27.md",
     "~$non Secure Print for IT and End User Draft.docx",
     "Dashboard/Untitled",
     "00 Meta/04 Assets/wmplayerVersion.png",
@@ -242,7 +243,6 @@
     "00 Meta/04 Assets",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
-    "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
     "Untitled.canvas"
   ]
 }

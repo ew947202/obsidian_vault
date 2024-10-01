@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-minimal-settings",
   "obsidian-git",
-  "better-export-pdf"
+  "better-export-pdf",
+  "auto-note-mover"
 ]
