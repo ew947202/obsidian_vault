@@ -51,8 +51,16 @@ id: 2024092716533600
 - Talked to [[Hunter Kimbrough]] you can use the command ``confirm-SecureBootUEFI`` to check if the OS is installed in UEFI or BIOS mode. If it returns anything other than *True* it is not in UEFI
 	- Server is currently not returning true.... continuing to troubleshoot
 - [x] Confirmed in *System Information* that the server is booting from UEFI mode, but *Secure Boot* is not supported.
-- [ ] Ran Windows Updates, completed all updates, left one running will check tomorrow morning [[2024-10-01]]
+- [x] Ran Windows Updates, completed all updates, left one running will check tomorrow morning [[2024-10-01]]
 ---
+## Daily Log
+### [[2024-10-01]]
+- Will now start working on building out a DC (Domain Controller)
+---
+
+
+
+
 
 
 
