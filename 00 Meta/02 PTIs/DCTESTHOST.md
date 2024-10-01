@@ -1,6 +1,6 @@
 ---
 pti: project
-status:
+status: open
 ---
 pti: ticket 
 closed: yyyy-mm-dd

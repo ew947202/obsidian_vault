@@ -8,8 +8,6 @@ TASK FROM ""
 WHERE contains(text, "<%tp.date.now()%>")
 GROUP by file.link
 ~~~
-![[{{date:YYYY-[W]W}}#Plans]]
-
 ---
 ## Notes
 - 

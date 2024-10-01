@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-10-01
 user: [[David Daigle]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84047&PORTALID=1 
 relates: 
@@ -16,8 +16,16 @@ id: 2024092715543152
 ---
 ## Daily Log
 ### [[2024-09-27]]
-- [ ] Reached out to user to see when they are free for me to remote in and troubleshoot this behavior.
+- [x] Reached out to user to see when they are free for me to remote in and troubleshoot this behavior.
 ---
+## Daily Log
+### [[2024-10-01]]
+- [x] Adobe Print to PDF currently does not work, but Microsoft Print to PDF does
+---
+
+
+
+
 
 
 

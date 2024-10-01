@@ -1,6 +1,6 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
 closed: yyyy-mm-dd
@@ -17,8 +17,16 @@ id: 2024092513105063
 ---
 ## Daily Log
 ### [[2024-09-25]]
-- [ ] Reached out to user to see if the installer has been downloaded and when i can remote in.
+- [x] Reached out to user to see if the installer has been downloaded and when i can remote in.
 ---
+## Daily Log
+### [[2024-10-01]]
+- [x] Another tech was able to install it locally at their site
+---
+
+
+
+
 
 
 
