@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "fba1b569c4f629fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 RHCSA/00 Meta/01 Definitions/root directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b16eae33d587f34d",
             "type": "leaf",
             "state": {
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,9 +127,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md"
               }
             }
           },
@@ -184,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md"
               }
             }
           }
@@ -237,18 +225,19 @@
         "y": 5,
         "width": 1490,
         "height": 1010,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "f1802778d38e384d",
+  "active": "244218afadc91702",
   "lastOpenFiles": [
+    "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
-    "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "20 RHCSA/00 Meta/01 Definitions/root directory.md",
     "20 RHCSA/00 Meta/01 Definitions/mount.md",
+    "00 Meta/04 Assets/sampleMountOutput.png",
+    "20 RHCSA/00 Meta/01 Definitions/root directory.md",
     "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-10-01.md",
     "20 Projects/Development Path.md",
@@ -285,7 +274,6 @@
     "Dashboard/Untitled",
     "00 Meta/04 Assets/wmplayerVersion.png",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
-    "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
