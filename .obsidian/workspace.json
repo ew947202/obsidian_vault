@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ba7c02031ffb57a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools/02.02 Editing files in vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e657f19b0a91cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7a038673f019c8f",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 385.5
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions Test.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md"
+                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions Test.md"
               }
             }
           },
@@ -172,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md"
+                "file": "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions Test.md"
               }
             }
           }
@@ -196,8 +220,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "244218afadc91702",
+  "active": "2e657f19b0a91cd2",
   "lastOpenFiles": [
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+    "20 Projects/21 RHCSA/00 Meta/01 Definitions/Definitions Test.md",
+    "20 Projects/21 RHCSA/00 Meta/01 Definitions",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools/02.04 Finding Help.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools/02.03 Understanding the Shell Environment.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools/02.02 Editing files in vim.md",
+    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/02 Using Essential Tools/02.01 Basic Shell Skills.md",
+    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "10 Documentation/11 Windows/Software Installs/COMSOL.md",
     "00 Meta/04 Assets/Pasted image 20241001120843.png",
     "00 Meta/04 Assets/Pasted image 20241001120758.png",
     "00 Meta/04 Assets/Pasted image 20241001120555.png",
@@ -206,7 +239,6 @@
     "00 Meta/04 Assets/Pasted image 20241001115723.png",
     "00 Meta/04 Assets/Pasted image 20241001115513.png",
     "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
-    "10 Documentation/11 Windows/Software Installs/COMSOL.md",
     "10 Documentation/11 Windows/Default Software Script.md",
     "10 Documentation/11 Windows/Software Installs",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
@@ -228,22 +260,14 @@
     "00 Meta/01 Periodics/2024-09-27.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "~$non Secure Print for IT and End User Draft.docx",
-    "00 Meta/02 PTIs/84003 Unclass machine in A1 will not boot.md",
-    "20 Projects/DC-TESTHOST.md",
-    "20 Projects/Development Path.md",
-    "00 Meta/02 PTIs/Untitled 2.md",
-    "00 Meta/02 PTIs/Untitled 1.md",
     "Dashboard/Untitled",
     "00 Meta/04 Assets/wmplayerVersion.png",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "Pasted image 20240909124105.png",
     "00 Meta/04 Assets",
-    "Pasted image 20240905104305.png",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
     "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "20 Projects/21 RHCSA/Part III Performing Advanced System Administration Tasks",
-    "20 Projects/21 RHCSA/Part II Operating Running Systems",
     "Untitled.canvas"
   ]
 }
