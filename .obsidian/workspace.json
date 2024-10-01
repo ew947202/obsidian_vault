@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md"
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md"
+                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md"
               }
             }
           }
@@ -207,21 +207,28 @@
           }
         ],
         "direction": "vertical",
-        "x": 2818,
-        "y": 5,
+        "x": 1681,
+        "y": 304,
         "width": 1490,
         "height": 1010,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "244218afadc91702",
   "lastOpenFiles": [
+    "20 RHCSA/00 Meta/01 Definitions/absolute filename.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
+    "20 RHCSA/00 Meta/01 Definitions/relative filename.md",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
+    "00 Meta/04 Assets/Pasted image 20241001163115.png",
+    "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
+    "20 RHCSA/00 Meta/01 Definitions/directories.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.04 Working with Archives and Compressed Files.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.03 Using Links.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "Dashboard/Homepage PTIs.md",
-    "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
     "20 RHCSA/00 Meta/01 Definitions/mount.md",
     "00 Meta/02 PTIs/84104 Installing MatLab.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
@@ -248,17 +255,10 @@
     "00 Meta/04 Assets/Pasted image 20241001120152.png",
     "00 Meta/04 Assets/Pasted image 20241001115723.png",
     "00 Meta/04 Assets/Pasted image 20241001115513.png",
-    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
-    "10 Documentation/11 Windows/Default Software Script.md",
     "10 Documentation/11 Windows/Software Installs",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
-    "00 Meta/02 PTIs/84098 Request for COMSOL.md",
-    "00 Meta/02 PTIs/Installing COMSOL on my device.md",
-    "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
     "00 Meta/04 Assets/30356.png",
     "~$non Secure Print for IT and End User Draft.docx",
     "Dashboard/Untitled",
-    "00 Meta/04 Assets/wmplayerVersion.png",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "00 Meta/04 Assets",
     "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
