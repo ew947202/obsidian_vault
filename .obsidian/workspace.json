@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "244218afadc91702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a731b510a1a35b96",
+  "active": "e9cf3efafb4e88bb",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-10-01.md",
-    "00 Meta/01 Periodics/2024-10-02.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
+    "00 Meta/01 Periodics/2024-10-02.md",
+    "00 Meta/01 Periodics/2024-10-01.md",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 RHCSA/00 Meta/01 Definitions/absolute filename.md",
     "20 RHCSA/00 Meta/01 Definitions/relative filename.md",
