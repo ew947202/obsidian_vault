@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-01.md",
+                "file": "00 Meta/01 Periodics/2024-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:definition",
+                "query": "matlab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-01.md",
+                "file": "00 Meta/01 Periodics/2024-10-02.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-01.md",
+                "file": "00 Meta/01 Periodics/2024-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-01.md"
+                "file": "00 Meta/01 Periodics/2024-10-02.md"
               }
             }
           },
@@ -159,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-01.md"
+                "file": "00 Meta/01 Periodics/2024-10-02.md"
               }
             }
           }
@@ -167,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,43 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "a286fcbb1a68431f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a07e4e9ca356b9c0",
-        "type": "window",
-        "children": [
-          {
-            "id": "975759b9e8a4f8a5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1802778d38e384d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1681,
-        "y": 304,
-        "width": 1490,
-        "height": 1010,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e9cf3efafb4e88bb",
+  "active": "a731b510a1a35b96",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-10-01.md",
+    "00 Meta/01 Periodics/2024-10-02.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "20 RHCSA/00 Meta/01 Definitions/absolute filename.md",
@@ -233,7 +201,6 @@
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/04 Assets/sampleMountOutput.png",
     "20 RHCSA/00 Meta/01 Definitions/root directory.md",
-    "00 Meta/01 Periodics/2024-10-01.md",
     "20 Projects/Development Path.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "20 Projects/Untitled.md",
