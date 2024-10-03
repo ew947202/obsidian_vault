@@ -15,8 +15,17 @@ id: 2024100110135009
 ---
 ## Daily Log
 ### [[2024-10-01]]
-- [ ] Reached out to supervisor to see if it is approved, awaiting approval
+- [x] Reached out to supervisor to see if it is approved, awaiting approval
+- [x] Approved by supervisor [[Seth Zuckerman]]
 ---
+## Daily Log
+### [[2024-10-03]]
+- [ ] Reached out to see if the installer finished downloading locally on machine.
+---
+
+
+
+
 
 
 
