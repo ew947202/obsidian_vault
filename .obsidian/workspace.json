@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61a7f48207b759ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/84152 Need company phone setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-03.md",
+                "file": "00 Meta/02 PTIs/84152 Need company phone setup.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-03.md",
+                "file": "00 Meta/02 PTIs/84152 Need company phone setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-03.md"
+                "file": "00 Meta/02 PTIs/84152 Need company phone setup.md"
               }
             }
           },
@@ -160,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-03.md"
+                "file": "00 Meta/02 PTIs/84152 Need company phone setup.md"
               }
             }
           }
@@ -181,11 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a53a2ede7895a93",
+  "active": "61a7f48207b759ec",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-10-03.md",
+    "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",
-    "00 Meta/01 Periodics/2024-10-03.md",
     "00 Meta/02 PTIs/84198 Microsoft office issue.md",
     "00 Meta/02 PTIs/84104 Installing MatLab.md",
     "Dashboard/Homepage PTIs.md",
@@ -211,7 +224,6 @@
     "20 Projects/Development Path.md",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "20 Projects/Untitled.md",
-    "20 Projects/DC-TESTHOST.md",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/Pasted image 20241001120843.png",
