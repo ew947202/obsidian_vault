@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-10-04
 user: [[George Campe]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84104&PORTALID=1
 relates: 
@@ -20,9 +20,12 @@ id: 2024100110135009
 ---
 ## Daily Log
 ### [[2024-10-03]]
-- [ ] Reached out to see if the installer finished downloading locally on machine.
+- [x] Reached out to see if the installer finished downloading locally on machine.
 ---
-
+## Daily Log
+### [[2024-10-04]]
+- [x] Confirmed with [[Brian Crowell]] that user has license. License needed to be removed and then the user was able to access the software.
+---
 
 
 

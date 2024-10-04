@@ -41,7 +41,7 @@ id: 2024092716533600
 ---
 ## Daily Log
 ### [[2024-09-27]]
-- [ ] Worked with [[Devon Wiggins]] and we are running into issues where it seems the OS was booted from BIOS rather than UEFI. Will work with him on [[2024-09-30]] to get the OS reinstalled and proceed with installing HyperV
+- [x] Worked with [[Devon Wiggins]] and we are running into issues where it seems the OS was booted from BIOS rather than UEFI. Will work with him on [[2024-09-30]] to get the OS reinstalled and proceed with installing HyperV
 ---
 ## Daily Log
 ### [[2024-09-30]]
@@ -51,7 +51,7 @@ id: 2024092716533600
 - Talked to [[Hunter Kimbrough]] you can use the command ``confirm-SecureBootUEFI`` to check if the OS is installed in UEFI or BIOS mode. If it returns anything other than *True* it is not in UEFI
 	- Server is currently not returning true.... continuing to troubleshoot
 - [x] Confirmed in *System Information* that the server is booting from UEFI mode, but *Secure Boot* is not supported.
-- [x] Ran Windows Updates, completed all updates, left one running will check tomorrow morning [[2024-10-01]]
+- [ ] Ran Windows Updates, completed all updates, left one running will check tomorrow morning [[2024-10-01]]
 ---
 ## Daily Log
 ### [[2024-10-01]]

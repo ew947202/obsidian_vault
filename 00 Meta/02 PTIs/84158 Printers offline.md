@@ -1,6 +1,6 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
 closed: yyyy-mm-dd
