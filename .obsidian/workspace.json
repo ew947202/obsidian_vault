@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a53a2ede7895a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "10 Documentation/14 O365/Error Code - 53003.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "10 Documentation/14 O365/Error Code - 53003.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "10 Documentation/14 O365/Error Code - 53003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "10 Documentation/14 O365/Error Code - 53003.md"
               }
             }
           },
@@ -160,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "10 Documentation/14 O365/Error Code - 53003.md"
               }
             }
           }
@@ -181,10 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a53a2ede7895a93",
+  "active": "e9cf3efafb4e88bb",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84104 Installing MatLab.md",
+    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "~$non Secure Print for IT and End User Draft v4.docx",
     "Dashboard/Homepage PTIs.md",
+    "Canon Secure Print for IT and End User Draft.docx.md",
+    "Canon Secure Print for IT and End User Draft v4.docx",
+    "00 Meta/02 PTIs/84104 Installing MatLab.md",
     "00 Meta/02 PTIs/84158 Printers offline.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/01 Periodics/2024-10-04.md",
@@ -207,11 +200,7 @@
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.04 Working with Archives and Compressed Files.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.03 Using Links.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
-    "20 RHCSA/00 Meta/01 Definitions/mount.md",
     "00 Meta/04 Assets/sampleMountOutput.png",
-    "20 RHCSA/00 Meta/01 Definitions/root directory.md",
-    "20 Projects/Development Path.md",
-    "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/Pasted image 20241001120843.png",
@@ -227,8 +216,6 @@
     "Dashboard/Untitled",
     "20 Projects/21 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools",
     "00 Meta/04 Assets",
-    "20 Projects/Falls Church 4TB SSD DC-TESTHOST.pdf",
-    "20 Projects/21 RHCSA/Part IV Managing Network Services",
     "Untitled.canvas"
   ]
 }

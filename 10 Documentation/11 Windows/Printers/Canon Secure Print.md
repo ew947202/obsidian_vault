@@ -3,17 +3,6 @@
 
 ![[Pasted image 20240905104305.png]]
 
-Settings/Registration > Security Settings > Security Policy Settings > Job
-
----
-Settings/Registration : Function Settings : Printer > Restrict Printer Jobs
-- Can potentially limit the print jobs from the print drivers
-	- [link](https://oip.manual.canon/USRMA-0122-zz-CS-enGB/contents/1T0001481808.html)
-
-
-
-
-
 ---
 ## Secure Print breaks if you are printing an image from the photos app
 
@@ -35,3 +24,12 @@ If you are trying to print an image it seems that Cannon and Secure Print block 
 ### Potential Solution
 Change the Default app for Photo Viewer by updating GPO in AD
 - [link](https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-applicationdefaults)
+
+
+
+
+
+
+
+## Printer Server Configuration
+Navigate to the printer server and open Print Management Settings --> 
