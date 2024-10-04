@@ -32,4 +32,3 @@ Change the Default app for Photo Viewer by updating GPO in AD
 
 
 ## Printer Server Configuration
-Navigate to the printer server and open Print Management Settings --> 

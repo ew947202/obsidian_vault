@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md",
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md"
+                "file": "10 Documentation/11 Windows/Printers/Canon Secure Print.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "e9cf3efafb4e88bb",
   "lastOpenFiles": [
-    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
+    "10 Documentation/14 O365/Error Code - 53003.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "~$non Secure Print for IT and End User Draft v4.docx",
     "Dashboard/Homepage PTIs.md",
@@ -199,7 +200,6 @@
     "20 RHCSA/00 Meta/01 Definitions/directories.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.04 Working with Archives and Compressed Files.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.03 Using Links.md",
-    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.01 Working with the File System Hierarchy.md",
     "00 Meta/04 Assets/sampleMountOutput.png",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
