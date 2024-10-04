@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md",
-                "mode": "preview",
+                "file": "00 Meta/01 Periodics/2024-10-04.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md",
+                "file": "00 Meta/01 Periodics/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md",
+                "file": "00 Meta/01 Periodics/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md"
+                "file": "00 Meta/01 Periodics/2024-10-04.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/14 O365/Error Code - 53003.md"
+                "file": "00 Meta/01 Periodics/2024-10-04.md"
               }
             }
           }
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,20 +170,25 @@
   },
   "active": "e9cf3efafb4e88bb",
   "lastOpenFiles": [
+    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
+    "00 Meta/01 Periodics/2024-10-04.md",
+    "00 Meta/02 PTIs/84039 Data copy.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.03 Using Links.md",
+    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.04 Working with Archives and Compressed Files.md",
+    "00 Meta/01 Periodics/2024-09-09.md",
     "10 Documentation/11 Windows/Network Configuration Operators.md",
+    "10 Documentation/14 O365/Error Code - 53003.md",
     "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
     "10 Documentation/11 Windows/Default Software Script.md",
     "10 Documentation/11 Windows/Software Installs/COMSOL.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "~$non Secure Print for IT and End User Draft v4.docx",
-    "10 Documentation/14 O365/Error Code - 53003.md",
     "Dashboard/Homepage PTIs.md",
     "Canon Secure Print for IT and End User Draft.docx.md",
     "Canon Secure Print for IT and End User Draft v4.docx",
     "00 Meta/02 PTIs/84104 Installing MatLab.md",
     "00 Meta/02 PTIs/84158 Printers offline.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
-    "00 Meta/01 Periodics/2024-10-04.md",
     "00 Meta/01 Periodics/2024-10-03.md",
     "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "00 Meta/03 Templates/Daily Log Template.md",
@@ -192,14 +197,9 @@
     "00 Meta/02 PTIs/84139 Mic on webcam is garbled.md",
     "00 Meta/02 PTIs/84014 Himax Evaluation Board.md",
     "00 Meta/01 Periodics/2024-10-02.md",
-    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
     "00 Meta/01 Periodics/2024-10-01.md",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "20 RHCSA/00 Meta/01 Definitions/absolute filename.md",
-    "20 RHCSA/00 Meta/01 Definitions/relative filename.md",
     "00 Meta/04 Assets/Pasted image 20241001163115.png",
-    "20 RHCSA/00 Meta/01 Definitions/00 Glossary.md",
-    "20 RHCSA/00 Meta/01 Definitions/directories.md",
     "00 Meta/04 Assets/sampleMountOutput.png",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
