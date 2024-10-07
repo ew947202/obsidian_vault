@@ -19,3 +19,8 @@ id: 2024100416411881
 	- [x] Data transfer has been completed on the first drive
 - [ ] Waiting for second drive before handing data over to [[Devon Wiggins]] to mount on dcams, following up [[2024-10-07]]
 ---
+## Daily Log
+### [[2024-10-07]]
+- [ ] User replied that he has not received the second drive yet
+	- He also mentioned where to send each of the drives back to once the data has finished copying
+---
