@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "01de329128c5ca40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/DCTESTHOST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "50cd7a000333627b",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/PO.md",
+                "file": "00 Meta/02 PTIs/DCTESTHOST.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/PO.md",
+                "file": "00 Meta/02 PTIs/DCTESTHOST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/PO.md"
+                "file": "00 Meta/02 PTIs/DCTESTHOST.md"
               }
             }
           },
@@ -172,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/PO.md"
+                "file": "00 Meta/02 PTIs/DCTESTHOST.md"
               }
             }
           }
@@ -194,11 +206,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e41b58d834ba107",
+  "active": "01de329128c5ca40",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84152 Need company phone setup.md",
-    "00 Meta/02 PTIs/PO.md",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/02 PTIs/PO.md",
+    "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/01 Periodics/2024-10-07.md",
     "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",

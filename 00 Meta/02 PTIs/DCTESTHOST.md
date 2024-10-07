@@ -57,7 +57,10 @@ id: 2024092716533600
 ### [[2024-10-01]]
 - Will now start working on building out a DC (Domain Controller)
 ---
-
+## Daily Log
+### [[2024-10-07]]
+- [ ] Spoke w/ [[Devon Wiggins]] will need to build out a VM on Hyper-V with windows server 2022.
+---
 
 
 
