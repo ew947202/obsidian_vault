@@ -23,4 +23,5 @@ id: 2024100416411881
 ### [[2024-10-07]]
 - [ ] User replied that he has not received the second drive yet
 	- He also mentioned where to send each of the drives back to once the data has finished copying
+- Spoke w/ [[Devon Wiggins]] regarding this ticket in todays meeting. He sent a response to get more information as to why we are copying the data on both coasts and to let ‘[[Clayton Chinn]] know that he can ship the drives out himself.
 ---
