@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-10-04
 user: [[Thomas Lombardo]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84003&fromListView=true&PORTALID=1
 relates: 
@@ -18,7 +18,10 @@ id: 2024091707485990
 ### [[2024-09-27]]
 - [x] Computer has been built out with standard Windows 10 build guide.
 ---
-
+## Daily Log
+### [[2024-10-04]]
+- [x] [[Hunter Kimbrough]] took desktop into area for user
+---
 
 
 
