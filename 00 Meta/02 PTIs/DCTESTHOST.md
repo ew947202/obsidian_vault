@@ -59,7 +59,9 @@ id: 2024092716533600
 ---
 ## Daily Log
 ### [[2024-10-07]]
-- [ ] Spoke w/ [[Devon Wiggins]] will need to build out a VM on Hyper-V with windows server 2022.
+- [x] Spoke w/ [[Devon Wiggins]] will need to build out a VM on Hyper-V with windows server 2022.
+	- Worked w/ [[Devon Wiggins]] after building on the VM for Server 2022 regarding setting up NAT for the VM. We will have to change the IP from 192 to 172 and will hold off on that till next week.
+	- [ ] Setting a follow-up for next week [[2024-10-15]]
 ---
 
 
