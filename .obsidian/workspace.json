@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-10-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/01 Periodics/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/01 Periodics/2024-10-07.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/01 Periodics/2024-10-07.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "8221f76ade577509",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/01 Periodics/2024-10-07.md",
+    "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",
     "00 Meta/02 PTIs/84003 Unclass machine in A1 will not boot.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/01 Periodics/2024-10-04.md",
@@ -198,7 +199,6 @@
     "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/02 PTIs/84198 Microsoft office issue.md",
-    "00 Meta/02 PTIs/84139 Mic on webcam is garbled.md",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/Pasted image 20241001163115.png",
     "00 Meta/04 Assets/sampleMountOutput.png",
