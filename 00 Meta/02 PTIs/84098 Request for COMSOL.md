@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: 2024-10-08
 user: [[Natacha Ramioulle]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84098&PORTALID=1
 relates: 
@@ -22,7 +22,8 @@ id: 2024100110363860
 ## Daily Log
 ### [[2024-10-08]]
 - [x] [[Ben Bennett]] replied to the ticket confirming that the new license has been added to AZLICENSE004 and should be good to install
-- [ ] Reaching out to [[Natacha Ramioulle]] to setup a time to get the installation started.
+- [x] Reaching out to [[Natacha Ramioulle]] to setup a time to get the installation started.
+	- [x] Completed installation and confirmed functionality
 ---
 
 
