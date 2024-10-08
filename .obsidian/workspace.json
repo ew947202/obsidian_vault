@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bf7564f79cc902f",
+            "id": "980205e8f65a050a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+                "file": "00 Meta/01 Periodics/2024-10-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64d9bbd6bc6c9edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/84039 Data copy.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+                "file": "00 Meta/02 PTIs/84039 Data copy.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md",
+                "file": "00 Meta/02 PTIs/84039 Data copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md"
+                "file": "00 Meta/02 PTIs/84039 Data copy.md"
               }
             }
           },
@@ -159,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/84098 Request for COMSOL.md"
+                "file": "00 Meta/02 PTIs/84039 Data copy.md"
               }
             }
           },
@@ -190,8 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9953373a497cbf19",
+  "active": "64d9bbd6bc6c9edc",
   "lastOpenFiles": [
+    "00 Meta/01 Periodics/2024-10-08.md",
+    "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "Recipes/Cookbook.md",
     "Recipes/Honey Sriracha Chicken and Broccoli.md",
     "Recipes/Pumpkin Feta Pasta.md",
@@ -207,11 +222,9 @@
     "00 Meta/04 Assets/30356.png",
     "00 Meta/04 Assets/sampleMountOutput.png",
     "00 Meta/04 Assets/Honey Sriracha Chicken and Broccoli.jpg",
-    "00 Meta/01 Periodics/2024-10-08.md",
     "Recipes",
     "New plan.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
-    "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "00 Meta/01 Periodics/2024-10-07.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "Study Notes.md",
