@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Honey Sriracha Chicken and Broccoli.md",
+                "file": "Recipes/Cookbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matlab",
+                "query": "tag:Vegetarian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Honey Sriracha Chicken and Broccoli.md",
+                "file": "Recipes/Cookbook.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Honey Sriracha Chicken and Broccoli.md",
+                "file": "Recipes/Cookbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Honey Sriracha Chicken and Broccoli.md"
+                "file": "Recipes/Cookbook.md"
               }
             }
           },
@@ -159,11 +159,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Recipes/Honey Sriracha Chicken and Broccoli.md"
+                "file": "Recipes/Cookbook.md"
               }
             }
+          },
+          {
+            "id": "3c11912516fa0b06",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -183,13 +192,25 @@
   },
   "active": "2bf7564f79cc902f",
   "lastOpenFiles": [
-    "Recipes/Untitled.md",
     "Recipes/Honey Sriracha Chicken and Broccoli.md",
+    "Recipes/Cookbook.md",
+    "Recipes/Pumpkin Feta Pasta.md",
+    "00 Meta/04 Assets/Pasted image 20241008131839.png",
+    "00 Meta/04 Assets/Pasted image 20241008131059.png",
+    "00 Meta/04 Assets/Pumpkin-Feta-Pasta-6.jpg",
+    "00 Meta/03 Templates/Recipe Template.md",
+    "Recipes/Greek Shrimp Bowls.md",
+    "00 Meta/04 Assets/ShrimpGrainBowl_UPDATE_Square-300x300 1.webp",
+    "00 Meta/04 Assets/ShrimpGrainBowl_UPDATE_Square-300x300.webp",
+    "Dashboard/Homepage PTIs.md",
+    "00 Meta/04 Assets/food_template.jpg",
+    "00 Meta/04 Assets/30356.png",
+    "00 Meta/04 Assets/sampleMountOutput.png",
+    "00 Meta/04 Assets/Honey Sriracha Chicken and Broccoli.jpg",
     "00 Meta/01 Periodics/2024-10-08.md",
     "Recipes",
     "New plan.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "00 Meta/01 Periodics/2024-10-07.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
@@ -208,26 +229,13 @@
     "00 Meta/02 PTIs/84210 Arete Wifi Connection.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
-    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.03 Using Links.md",
-    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.04 Working with Archives and Compressed Files.md",
-    "00 Meta/01 Periodics/2024-09-09.md",
-    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "~$non Secure Print for IT and End User Draft v4.docx",
     "Canon Secure Print for IT and End User Draft v4.docx",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "00 Meta/04 Assets/Pasted image 20241001163115.png",
-    "00 Meta/04 Assets/sampleMountOutput.png",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "00 Meta/04 Assets/Pasted image 20241001120843.png",
-    "00 Meta/04 Assets/Pasted image 20241001120758.png",
-    "00 Meta/04 Assets/Pasted image 20241001120555.png",
-    "00 Meta/04 Assets/Pasted image 20241001120338.png",
-    "00 Meta/04 Assets/Pasted image 20241001120152.png",
-    "00 Meta/04 Assets/Pasted image 20241001115723.png",
-    "00 Meta/04 Assets/Pasted image 20241001115513.png",
     "10 Documentation/11 Windows/Software Installs",
-    "00 Meta/04 Assets/30356.png",
     "~$non Secure Print for IT and End User Draft.docx",
     "Untitled.canvas"
   ]
