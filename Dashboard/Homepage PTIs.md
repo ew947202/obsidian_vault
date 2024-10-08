@@ -1,4 +1,4 @@
-## Tickets 
+ ## Tickets 
 ```dataview
 
 TABLE WITHOUT ID
