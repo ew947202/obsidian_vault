@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 Meta/02 PTIs/84039 Data copy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/84039 Data copy.md",
+                "file": "00 Meta/01 Periodics/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/84039 Data copy.md",
+                "file": "00 Meta/01 Periodics/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/84039 Data copy.md"
+                "file": "00 Meta/01 Periodics/2024-10-08.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/84039 Data copy.md"
+                "file": "00 Meta/01 Periodics/2024-10-08.md"
               }
             }
           },
@@ -203,8 +202,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d9bbd6bc6c9edc",
+  "active": "980205e8f65a050a",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/01 Periodics/2024-10-08.md",
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "Recipes/Cookbook.md",
@@ -224,7 +224,6 @@
     "00 Meta/04 Assets/Honey Sriracha Chicken and Broccoli.jpg",
     "Recipes",
     "New plan.md",
-    "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/01 Periodics/2024-10-07.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "Study Notes.md",
