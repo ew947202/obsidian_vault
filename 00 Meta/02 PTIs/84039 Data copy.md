@@ -29,7 +29,7 @@ id: 2024100416411881
 ### [[2024-10-08]]
 - Had a phone call with [[Clayton Chinn]], he requested that we send the first drive out today since he is not in the office. I will send it out and attached the tracking number. Also second drive will be in today around 11:30 eastern, we will start the data transfer and it should be completed by tomorrow afternoon. Let [[Clayton Chinn]] know that I will message him this evening before I leave with an estimated time of completion.
 - [x] Sending out drive and will attached tracking number when shipped.
-	- [ ] Tracking Number : 7790 8995 4193
+	- [x] Tracking Number : 7790 8995 4193
 - [x] Received second drive and started data transfer
 	- [ ] Send estimate completion date to [[Clayton Chinn]] before leaving today
 ---
