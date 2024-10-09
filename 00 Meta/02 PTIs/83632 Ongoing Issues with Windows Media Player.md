@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-23
+closed: [[2024-09-23]]
 user: [[Persephone Robinson]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83632&PORTALID=1
 relates: [[Recording & Windows Media Player issues]]

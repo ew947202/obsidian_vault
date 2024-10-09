@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-24
+closed: [[2024-09-24]]
 user: [[Kevin Dann]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83857&PORTALID=1
 relates: 

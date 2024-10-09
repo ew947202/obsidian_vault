@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-23
+closed: [[2024-09-23]]
 user: [[Christian Trejo]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83767&PORTALID=1
 relates: 

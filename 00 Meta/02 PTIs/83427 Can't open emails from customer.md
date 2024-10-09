@@ -4,7 +4,7 @@ status: closed
 ---
 pti: ticket 
 status: closed
-closed: 2024-09-10
+closed: [[2024-09-10]]
 user: [[Seth Zuckerman]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83427&PORTALID=1

@@ -4,7 +4,7 @@ status: closed
 ---
 pti: ticket 
 status: closed
-closed: 2024-09-09
+closed: [[2024-09-09]]
 user: [[Bob DiMarco]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83415&PORTALID=1

@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-16
+closed: [[2024-09-16]]
 user: [[Kelly Roman]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83538&PORTALID=1
 relates: 

@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-10-04
+closed: [[2024-10-04]]
 user: [[Richard Gueler]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84268&fromListView=true&PORTALID=1
 relates: 

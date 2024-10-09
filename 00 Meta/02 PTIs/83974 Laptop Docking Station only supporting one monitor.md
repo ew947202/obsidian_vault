@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: [[2024-09-27]]
 user: [[Matthew Nicholson]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83974&PORTALID=1
 relates: 

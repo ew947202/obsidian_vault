@@ -4,7 +4,7 @@ status: closed
 ---
 pti: ticket 
 status: closed
-closed: 2024-09-10
+closed: [[2024-09-10]]
 user: [[Allison Hughes]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83451&PORTALID=1

@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-10-08
+closed: [[2024-10-08]]
 user: [[Natacha Ramioulle]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84098&PORTALID=1
 relates: 

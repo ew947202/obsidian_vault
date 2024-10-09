@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-10-01
+closed: [[2024-10-01]]
 user: [[Peter Hodskins]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83984&PORTALID=1
 relates: 

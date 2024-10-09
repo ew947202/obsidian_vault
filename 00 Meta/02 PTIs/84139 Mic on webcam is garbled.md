@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-10-02
+closed: [[2024-10-02]]
 user: [[Mike Morsey]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84158&PORTALID=1 
 relates: 

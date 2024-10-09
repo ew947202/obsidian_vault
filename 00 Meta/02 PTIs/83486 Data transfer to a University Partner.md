@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-25
+closed: [[2024-09-25]]
 user: [[Peter Rusello]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83486&PORTALID=1
 relates: 

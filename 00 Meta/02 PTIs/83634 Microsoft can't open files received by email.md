@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-17
+closed: [[2024-09-17]]
 user: [[Pauline Arriaga]]
 source: https://ticket.contoso.com/1492
 relates: 

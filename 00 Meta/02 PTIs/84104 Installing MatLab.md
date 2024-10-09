@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-10-04
+closed: [[2024-10-04]]
 user: [[George Campe]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84104&PORTALID=1
 relates: 

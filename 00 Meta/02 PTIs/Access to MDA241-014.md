@@ -4,7 +4,7 @@ status: closed
 ---
 pti: ticket 
 status: closed
-closed: 2024-08-19
+closed: [[2024-08-19]]
 user: [[Veronica Rodriguez]]
 group: 
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=82847&PORTALID=1#details

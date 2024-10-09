@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-26
+closed: [[2024-09-26]]
 user: [[Mike Mastroianni]]
 source: https://ticket.contoso.com/1492
 relates: 

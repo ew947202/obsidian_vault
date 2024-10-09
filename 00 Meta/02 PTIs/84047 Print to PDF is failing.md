@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-10-01
+closed: [[2024-10-01]]
 user: [[David Daigle]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84047&PORTALID=1 
 relates: 

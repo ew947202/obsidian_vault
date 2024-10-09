@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: [[2024-10-01]]
 user: [[Samuel Barbour]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83648&PORTALID=1
 relates: 

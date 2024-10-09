@@ -27,4 +27,3 @@ WHERE status = "open" OR status = "onhold" AND pti = "project"
 ```
 
 
-

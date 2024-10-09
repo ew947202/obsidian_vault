@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-17
+closed: [[2024-09-17]]
 user: [[Antonia Shull]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83667&PORTALID=1
 relates: 

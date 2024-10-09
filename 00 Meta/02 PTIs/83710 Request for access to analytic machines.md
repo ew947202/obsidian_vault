@@ -3,7 +3,7 @@ pti: ticket
 status: closed
 ---
 pti: ticket 
-closed: 2024-09-18
+closed: [[2024-09-18]]
 user: [[Bob DiMarco]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=83710&PORTALID=1
 relates: 
