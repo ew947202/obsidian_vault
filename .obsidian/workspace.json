@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "26806ed678c71a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0a979fbbf1958268",
             "type": "leaf",
             "state": {
@@ -25,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-08.md",
+                "file": "Study Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-08.md",
+                "file": "00 Meta/01 Periodics/2024-10-09.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-08.md",
+                "file": "00 Meta/01 Periodics/2024-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-08.md"
+                "file": "00 Meta/01 Periodics/2024-10-09.md"
               }
             }
           },
@@ -160,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-08.md"
+                "file": "00 Meta/01 Periodics/2024-10-09.md"
               }
             }
           },
@@ -191,13 +202,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243151f074eac777",
+  "active": "26806ed678c71a94",
   "lastOpenFiles": [
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/01 Periodics/2024-10-09.md",
     "Study Notes.md",
+    "00 Meta/01 Periodics/2024-10-08.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/02 PTIs/84373 Luno Project Folder.md",
-    "00 Meta/01 Periodics/2024-10-08.md",
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "Recipes/Cookbook.md",
     "Recipes/Honey Sriracha Chicken and Broccoli.md",
@@ -230,7 +242,6 @@
     "00 Meta/02 PTIs/84268 Install WinMerge on my Computer.md",
     "00 Meta/02 PTIs/84210 Arete Wifi Connection.md",
     "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
-    "20 RHCSA/Part I Performing Basic System Management Tasks/03 Essential File Management Tools/03.02 Managing Files.md",
     "~$non Secure Print for IT and End User Draft v4.docx",
     "Canon Secure Print for IT and End User Draft v4.docx",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
