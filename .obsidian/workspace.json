@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/03 Templates/Button Testing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/03 Templates/Button Testing.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Dashboard/Homepage PTIs.md",
+                "file": "00 Meta/03 Templates/Button Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/03 Templates/Button Testing.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "30 Dashboard/Homepage PTIs.md"
+                "file": "00 Meta/03 Templates/Button Testing.md"
               }
             }
           },
@@ -172,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -189,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f750386463a25c2f",
+  "active": "0a979fbbf1958268",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/DCTESTHOST.md",
     "30 Dashboard/Homepage PTIs.md",
+    "00 Meta/03 Templates/Button Testing.md",
+    "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
     "00 Meta/04 Assets/RECR2.0 Sonarqube License.pdf",
     "00 Meta/04 Assets/Pasted image 20241008131839.png",
@@ -236,7 +239,6 @@
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "00 Meta/02 PTIs/84047 Print to PDF is failing.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
-    "00 Meta/02 PTIs/84014 Himax Evaluation Board.md",
     "Untitled.canvas"
   ]
 }
