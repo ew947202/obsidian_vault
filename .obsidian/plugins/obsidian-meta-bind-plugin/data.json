@@ -1,0 +1,46 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Ticket",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Ticket",
+      "style": "primary",
+      "actions": []
+    },
+    {
+      "label": "New Organization",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Organization",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:a7b9a9e0-2272-4d4e-9902-dfe7be88a319"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}
