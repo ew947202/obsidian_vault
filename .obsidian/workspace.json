@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "91d0c19ff5c6773f",
+        "id": "db793bbf4d568ded",
         "type": "tabs",
         "children": [
           {
@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "083111c795a393a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f36373eefc077178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -51,6 +33,7 @@
       {
         "id": "6ef8f1ed5e9dabbc",
         "type": "tabs",
+        "dimension": 79.93981945837513,
         "children": [
           {
             "id": "9953373a497cbf19",
@@ -68,28 +51,39 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comsol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e0cf9dcad16a2eb9",
+        "type": "tabs",
+        "dimension": 20.060180541624874,
+        "children": [
           {
-            "id": "21a26b2619334fe8",
+            "id": "0a979fbbf1958268",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/03 Templates/Button.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227.5
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -99,20 +93,6 @@
         "id": "402fd998431b9732",
         "type": "tabs",
         "children": [
-          {
-            "id": "0a979fbbf1958268",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Meta/03 Templates/Button.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "f750386463a25c2f",
             "type": "leaf",
@@ -197,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +194,15 @@
   },
   "active": "5691673c37f8fcb5",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
+    "00 Meta/02 PTIs/84391 Install COMSOL on laptop.md",
     "00 Meta/01 Periodics/2024-10-09.md",
+    "00 Meta/02 PTIs/84402 Condo Error.md",
+    "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
+    "00 Meta/02 PTIs/DCTESTHOST.md",
     "30 Dashboard/Homepage PTIs.md",
     "00 Meta/03 Templates/Button.md",
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/02 PTIs/00 Testing Ticket.md",
-    "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
     "00 Meta/04 Assets/RECR2.0 Sonarqube License.pdf",
     "00 Meta/04 Assets/Pasted image 20241008131839.png",
@@ -257,8 +240,6 @@
     "00 Meta/02 PTIs/84210 Arete Wifi Connection.md",
     "00 Meta/02 PTIs/84198 Microsoft office issue.md",
     "00 Meta/02 PTIs/84158 Printers offline.md",
-    "00 Meta/02 PTIs/84139 Mic on webcam is garbled.md",
-    "00 Meta/02 PTIs/84104 Installing MatLab.md",
     "Untitled.canvas"
   ]
 }

@@ -63,7 +63,10 @@ id: 2024092716533600
 	- Worked w/ [[Devon Wiggins]] after building on the VM for Server 2022 regarding setting up NAT for the VM. We will have to change the IP from 192 to 172 and will hold off on that till next week.
 	- [ ] Setting a follow-up for next week [[2024-10-15]]
 ---
-
+## Daily Log
+### [[2024-10-09]]
+- [x] Worked with [[Hunter Kimbrough]] to rerun 50ft cables to both the KVM and DCTESTHOST
+---
 
 
 

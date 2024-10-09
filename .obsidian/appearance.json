@@ -1,5 +1,6 @@
 {
   "cssTheme": "PLN",
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 14
 }
