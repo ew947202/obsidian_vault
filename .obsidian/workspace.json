@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+                "file": "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+                "file": "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+                "file": "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md"
+                "file": "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10 Documentation/11 Windows/Software Installs/COMSOL.md"
+                "file": "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md"
               }
             }
           },
@@ -193,9 +192,15 @@
   },
   "active": "ef4d89f55f5337e7",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-10-09.md",
+    "10 Documentation/15 Coding/PowerShell Scripts/Default Software Script.md",
+    "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md",
+    "10 Documentation/11 Windows/Fix Trust relationship Failed without Domain Rejoining.md",
+    "10 Documentation/11 Windows/Network Configuration Operators.md",
     "10 Documentation/11 Windows/Software Installs/COMSOL.md",
+    "10 Documentation/15 Coding/PowerShell Scripts",
+    "10 Documentation/15 Coding",
     "Dashboard/Homepage PTIs.md",
+    "00 Meta/01 Periodics/2024-10-09.md",
     "00 Meta/02 PTIs/Install COMSOL on laptop.md",
     "Study Notes.md",
     "00 Meta/02 PTIs/Installing COMSOL on my device.md",
@@ -225,11 +230,7 @@
     "00 Meta/01 Periodics/2024-10-07.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/02 PTIs/84295 WSL.md",
-    "Clayton Chinn.md",
-    "00 Meta/02 PTIs/RQ-0045407.md",
     "00 Meta/04 Assets/RECR2.0 Sonarqube License.pdf",
-    "00 Meta/02 PTIs/RQ-0045406.md",
-    "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "00 Meta/04 Assets/Falls Church Lobby and Training Room Equipment.pdf",
     "~$non Secure Print for IT and End User Draft v4.docx",
     "Canon Secure Print for IT and End User Draft v4.docx",
@@ -237,8 +238,6 @@
     "00 Meta/04 Assets/Pasted image 20241001163115.png",
     "20 Projects/21 RHCSA/00 Meta/01 Definitions",
     "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "10 Documentation/11 Windows/Software Installs",
-    "~$non Secure Print for IT and End User Draft.docx",
     "Untitled.canvas"
   ]
 }
