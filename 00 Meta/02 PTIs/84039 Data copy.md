@@ -31,5 +31,12 @@ id: 2024100416411881
 - [x] Sending out drive and will attached tracking number when shipped.
 	- [x] Tracking Number : 7790 8995 4193
 - [x] Received second drive and started data transfer
-	- [ ] Send estimate completion date to [[Clayton Chinn]] before leaving today
+	- [x] Send estimate completion date to [[Clayton Chinn]] before leaving today
+---
+## Daily Log
+### [[2024-10-09]]
+- [x] Second drive has completed it’s transfer, working on creating both shipping labels for 2nd drive and the original one to be sent out. 
+	- Original drive tracking number: 7791 3725 8817
+	- Second drive tracking number: 7791 3733 2095
+- [x] All three drives have been sent out and updated the user with the tracking information.
 ---
