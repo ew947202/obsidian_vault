@@ -47,7 +47,10 @@ id: 2024080516375654
 ### [[2024-08-26]]
 - [x] Finished elindquist-lt device and emailed him to the device is ready to go.
 ---
-
+## Daily Log
+### [[2024-10-09]]
+- [ ] Waiting on [[Devon Wiggins]] to get the software list for [[Cameron Bridgeman]] new device.
+---
 
 
 

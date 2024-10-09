@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes.md",
+                "file": "00 Meta/01 Periodics/2024-10-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "30 Dashboard/Homepage PTIs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes.md",
+                "file": "30 Dashboard/Homepage PTIs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes.md",
+                "file": "30 Dashboard/Homepage PTIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes.md"
+                "file": "30 Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -159,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Study Notes.md"
+                "file": "30 Dashboard/Homepage PTIs.md"
               }
             }
           },
@@ -171,12 +172,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 557.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,54 +189,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "992e7f5cc89afe1b",
+  "active": "f750386463a25c2f",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/DCTESTHOST.md",
+    "30 Dashboard/Homepage PTIs.md",
+    "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
+    "00 Meta/04 Assets/RECR2.0 Sonarqube License.pdf",
+    "00 Meta/04 Assets/Pasted image 20241008131839.png",
+    "00 Meta/04 Assets/30356.png",
+    "00 Meta/04 Assets/sampleMountOutput.png",
+    "00 Meta/04 Assets/Pumpkin-Feta-Pasta-6.jpg",
+    "00 Meta/04 Assets/ShrimpGrainBowl_UPDATE_Square-300x300 1.webp",
+    "00 Meta/04 Assets/ShrimpGrainBowl_UPDATE_Square-300x300.webp",
+    "00 Meta/04 Assets/Pasted image 20241001115513.png",
+    "00 Meta/04 Assets/RE Laptop Refresh.txt",
+    "00 Meta/04 Assets/~WRD0004.tmp",
+    "00 Meta/04 Assets/Pasted image 20241008131059.png",
+    "00 Meta/04 Assets/Pasted image 20241001163115.png",
+    "00 Meta/04 Assets/Pasted image 20241001120843.png",
+    "00 Meta/04 Assets/Falls Church Lobby and Training Room Equipment.pdf",
+    "00 Meta/01 Periodics/2024-10-09.md",
+    "00 Meta/04 Assets/RE Laptop Refresh.msg",
+    "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
+    "00 Meta/04 Assets/RE Laptop Refresh_files/filelist.xml",
+    "00 Meta/04 Assets/RE Laptop Refresh_files/colorschememapping.xml",
+    "00 Meta/04 Assets/RE Laptop Refresh_files/themedata.thmx",
+    "00 Meta/04 Assets/RE Laptop Refresh_files",
+    "00 Meta/04 Assets/RE Laptop Refresh.htm",
+    "Study Notes.md",
+    "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
+    "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",
+    "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "10 Documentation/15 Coding/PowerShell Scripts/Default Software Script.md",
     "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md",
-    "30 Dashboard/Homepage PTIs.md",
     "30 Dashboard/Untitled.md",
     "00 Meta/02 PTIs/Access to MDA241-014.md",
     "00 Meta/02 PTIs/84392 Access to AM LAAM07 and 08.md",
     "00 Meta/02 PTIs/84373 Luno Project Folder.md",
     "00 Meta/02 PTIs/84295 WSL.md",
     "00 Meta/02 PTIs/84268 Install WinMerge on my Computer.md",
-    "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",
     "00 Meta/02 PTIs/84210 Arete Wifi Connection.md",
     "00 Meta/02 PTIs/84198 Microsoft office issue.md",
     "00 Meta/02 PTIs/84158 Printers offline.md",
-    "00 Meta/02 PTIs/84152 Need company phone setup.md",
     "00 Meta/02 PTIs/84139 Mic on webcam is garbled.md",
-    "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
     "00 Meta/02 PTIs/84104 Installing MatLab.md",
     "00 Meta/02 PTIs/84098 Request for COMSOL.md",
     "00 Meta/02 PTIs/84047 Print to PDF is failing.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/02 PTIs/84014 Himax Evaluation Board.md",
-    "00 Meta/02 PTIs/84003 Unclass machine in A1 will not boot.md",
-    "00 Meta/02 PTIs/83984 CUDA Install Admin Permission.md",
-    "00 Meta/02 PTIs/83974 Laptop Docking Station only supporting one monitor.md",
-    "00 Meta/02 PTIs/83901 Digital Certificates.md",
-    "00 Meta/02 PTIs/83887 Login request for every task in MS365.md",
-    "10 Documentation/15 Coding/PowerShell Scripts",
-    "10 Documentation/15 Coding",
-    "00 Meta/04 Assets/Pasted image 20241008131839.png",
-    "00 Meta/04 Assets/Pasted image 20241008131059.png",
-    "00 Meta/04 Assets/Pumpkin-Feta-Pasta-6.jpg",
-    "00 Meta/04 Assets/ShrimpGrainBowl_UPDATE_Square-300x300 1.webp",
-    "00 Meta/04 Assets/ShrimpGrainBowl_UPDATE_Square-300x300.webp",
-    "00 Meta/04 Assets/food_template.jpg",
-    "00 Meta/04 Assets/30356.png",
-    "00 Meta/04 Assets/sampleMountOutput.png",
-    "00 Meta/04 Assets/Honey Sriracha Chicken and Broccoli.jpg",
-    "Recipes",
-    "00 Meta/04 Assets/RECR2.0 Sonarqube License.pdf",
-    "00 Meta/04 Assets/Falls Church Lobby and Training Room Equipment.pdf",
-    "~$non Secure Print for IT and End User Draft v4.docx",
-    "Canon Secure Print for IT and End User Draft v4.docx",
-    "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
-    "00 Meta/04 Assets/Pasted image 20241001163115.png",
-    "20 Projects/21 RHCSA/00 Meta/01 Definitions",
-    "20 Projects/21 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
     "Untitled.canvas"
   ]
 }

@@ -16,5 +16,5 @@ id: 2024100910160141
 ## Daily Log
 ### [[2024-10-09]]
 - [x] User will bring over device today so I can get the installation complete.
-- [x] installed on users device.
+- [ ] installed on users device.
 ---

@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: [[2024-10-09]]
 user: [[Jim Encinas]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84211&PORTALID=1
 relates: 
@@ -15,9 +15,12 @@ id: 2024100310490369
 ---
 ## Daily Log
 ### [[2024-10-03]]
-- [ ] Asked user if it was same or old number, from there we can send activation link.
+- [x] Asked user if it was same or old number, from there we can send activation link.
 ---
-
+## Daily Log
+### [[2024-10-09]]
+- [x] User confirmed that the number was the same and I resent the activation instructions via DUO admin panel.
+---
 
 
 
