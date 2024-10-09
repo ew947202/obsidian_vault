@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natac",
+                "query": "83682",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md"
+                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md"
+                "file": "00 Meta/02 PTIs/83682 Email Assistance Requested.md"
               }
             }
           },
@@ -204,8 +205,9 @@
   },
   "active": "26806ed678c71a94",
   "lastOpenFiles": [
-    "Dashboard/Homepage PTIs.md",
     "00 Meta/01 Periodics/2024-10-09.md",
+    "00 Meta/02 PTIs/Untitled.md",
+    "Dashboard/Homepage PTIs.md",
     "Study Notes.md",
     "00 Meta/01 Periodics/2024-10-08.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
@@ -241,7 +243,6 @@
     "00 Meta/01 Periodics/2024-10-04.md",
     "00 Meta/02 PTIs/84268 Install WinMerge on my Computer.md",
     "00 Meta/02 PTIs/84210 Arete Wifi Connection.md",
-    "10 Documentation/11 Windows/Printers/Canon Secure Print.md",
     "~$non Secure Print for IT and End User Draft v4.docx",
     "Canon Secure Print for IT and End User Draft v4.docx",
     "20 RHCSA/Red Hat RHCSA 9 Cert Guide - Sander van Vugt.pdf",
