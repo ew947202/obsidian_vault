@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "083111c795a393a7",
+        "id": "91d0c19ff5c6773f",
         "type": "tabs",
         "children": [
           {
-            "id": "992e7f5cc89afe1b",
+            "id": "5691673c37f8fcb5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "00 Meta/01 Periodics/2024-10-09.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "083111c795a393a7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0a979fbbf1958268",
+            "id": "f36373eefc077178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/03 Templates/Button Testing.md",
+                "file": "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,12 +100,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0a979fbbf1958268",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/03 Templates/Button.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "f750386463a25c2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/03 Templates/Button Testing.md",
+                "file": "00 Meta/01 Periodics/2024-10-09.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/03 Templates/Button Testing.md",
+                "file": "00 Meta/01 Periodics/2024-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/03 Templates/Button Testing.md"
+                "file": "00 Meta/01 Periodics/2024-10-09.md"
               }
             }
           },
@@ -160,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/03 Templates/Button Testing.md"
+                "file": "00 Meta/01 Periodics/2024-10-09.md"
               }
             }
           },
@@ -172,12 +193,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 557.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +211,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a979fbbf1958268",
+  "active": "5691673c37f8fcb5",
   "lastOpenFiles": [
+    "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
+    "00 Meta/01 Periodics/2024-10-09.md",
     "30 Dashboard/Homepage PTIs.md",
-    "00 Meta/03 Templates/Button Testing.md",
+    "00 Meta/03 Templates/Button.md",
+    "00 Meta/03 Templates/Daily Log Template.md",
+    "00 Meta/02 PTIs/00 Testing Ticket.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
     "00 Meta/04 Assets/RECR2.0 Sonarqube License.pdf",
@@ -211,7 +235,6 @@
     "00 Meta/04 Assets/Pasted image 20241001163115.png",
     "00 Meta/04 Assets/Pasted image 20241001120843.png",
     "00 Meta/04 Assets/Falls Church Lobby and Training Room Equipment.pdf",
-    "00 Meta/01 Periodics/2024-10-09.md",
     "00 Meta/04 Assets/RE Laptop Refresh.msg",
     "00 Meta/02 PTIs/84113 Microsoft Word Issues.md",
     "00 Meta/04 Assets/RE Laptop Refresh_files/filelist.xml",
@@ -236,9 +259,6 @@
     "00 Meta/02 PTIs/84158 Printers offline.md",
     "00 Meta/02 PTIs/84139 Mic on webcam is garbled.md",
     "00 Meta/02 PTIs/84104 Installing MatLab.md",
-    "00 Meta/02 PTIs/84098 Request for COMSOL.md",
-    "00 Meta/02 PTIs/84047 Print to PDF is failing.md",
-    "00 Meta/02 PTIs/84039 Data copy.md",
     "Untitled.canvas"
   ]
 }
