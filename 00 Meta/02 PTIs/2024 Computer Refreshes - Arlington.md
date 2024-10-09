@@ -41,9 +41,12 @@ id: 2024080516225165
 ---
 ## Daily Log
 ### [[2024-09-04]]
-- [ ] Cameron Grebe has said that he would like to hold off on his refresh 
+- [ ] [[Cameron Grebe]] has said that he would like to hold off on his refresh 
 ---
-
+## Daily Log
+### [[2024-10-09]]
+- [x] Sent an email to [[Cameron Grebe]] regarding his laptop being ready to go and we will setup a time later this week to get the transfer started
+---
 
 
 
