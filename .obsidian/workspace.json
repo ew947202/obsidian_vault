@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8446ec515246bcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/84457 Installation never works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md",
+                "file": "00 Meta/02 PTIs/84457 Installation never works.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md",
+                "file": "00 Meta/02 PTIs/84457 Installation never works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md"
+                "file": "00 Meta/02 PTIs/84457 Installation never works.md"
               }
             }
           },
@@ -161,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md"
+                "file": "00 Meta/02 PTIs/84457 Installation never works.md"
               }
             }
           },
@@ -192,11 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ed5b0dc5017d762",
+  "active": "8446ec515246bcbb",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84454 New Monitors.md",
     "00 Meta/03 Templates/Button.md",
+    "00 Meta/02 PTIs/84457 Installation never works.md",
     "00 Meta/01 Periodics/2024-10-10.md",
+    "00 Meta/02 PTIs/84454 New Monitors.md",
     "00 Meta/01 Periodics/2024-10-09.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/02 PTIs/84391 Install COMSOL on laptop.md",
@@ -239,7 +253,6 @@
     "00 Meta/02 PTIs/84392 Access to AM LAAM07 and 08.md",
     "00 Meta/02 PTIs/84373 Luno Project Folder.md",
     "00 Meta/02 PTIs/84295 WSL.md",
-    "00 Meta/02 PTIs/84268 Install WinMerge on my Computer.md",
     "Untitled.canvas"
   ]
 }
