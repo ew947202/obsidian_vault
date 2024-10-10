@@ -17,4 +17,5 @@ id: 2024101011274691
 ### [[2024-10-10]]
 - [x] Reaching out to [[Brian Crowell]] to see if he approves.
 	- [x] approved, added user to AD group and maintenance log. 
+- [x] User was unable to install software via SCCM, will manually install software.
 ---

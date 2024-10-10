@@ -22,19 +22,18 @@
             }
           },
           {
-            "id": "e1dfe7c9bc20f976",
+            "id": "0a061393628f231d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/02 PTIs/84466 New Application Request.md",
+                "file": "Study Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hornber",
+                "query": "horn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "right": {
     "id": "abeb69ee217405f1",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/02 PTIs/84466 New Application Request.md",
+                "file": "00 Meta/01 Periodics/2024-10-10.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/02 PTIs/84466 New Application Request.md",
+                "file": "00 Meta/01 Periodics/2024-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/02 PTIs/84466 New Application Request.md"
+                "file": "00 Meta/01 Periodics/2024-10-10.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/02 PTIs/84466 New Application Request.md"
+                "file": "00 Meta/01 Periodics/2024-10-10.md"
               }
             }
           },
@@ -205,17 +204,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1dfe7c9bc20f976",
+  "active": "9ed5b0dc5017d762",
   "lastOpenFiles": [
-    "00 Meta/01 Periodics/2024-10-10.md",
     "Study Notes.md",
+    "00 Meta/02 PTIs/84466 New Application Request.md",
+    "00 Meta/01 Periodics/2024-10-10.md",
+    "00 Meta/02 PTIs/84391 Install COMSOL on laptop.md",
     "00 Meta/02 PTIs/84462 PD-MESA - new program set up.md",
     "00 Meta/03 Templates/Button.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
     "30 Dashboard/Homepage PTIs.md",
     "00 Meta/02 PTIs/84447 Add user.md",
     "00 Meta/02 PTIs/84471 New Application Request.md",
-    "00 Meta/02 PTIs/84466 New Application Request.md",
     "00 Meta/02 PTIs/83678 VPN Access for User.md",
     "Chris Hornberg.md",
     "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
@@ -226,7 +226,6 @@
     "00 Meta/02 PTIs/84454 New Monitors.md",
     "00 Meta/01 Periodics/2024-10-09.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
-    "00 Meta/02 PTIs/84391 Install COMSOL on laptop.md",
     "00 Meta/02 PTIs/84402 Condo Error.md",
     "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
     "00 Meta/03 Templates/Daily Log Template.md",
