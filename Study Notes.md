@@ -19,4 +19,11 @@ Dynamic Host Configuration Protocol (DHCP)
 	- DHCP Lease: Length of time a device is allowed to use the assigned IP address before it must renew the lease.
 	- Reservations: DHCP can reserve a specific IP address for a specific device based on its MAC address. This ensures that the device always receives the same IP
 Group Policy Objects (GPOs)
-- 
+
+
+
+#### NAT (Network Address Translation)
+A technique used in networks to map private IP addresses used within a local network to a single public IP address (or a pool of public IP addresses) when devices in that local network need to communicate with the internet. 
+- NAT hides the internal IP addresses of devices in your local network from the outside world, adding a layer of security. 
+- There aren’t enough public IP addresses for every device to have its own, so NAT allows man y devices on a private network (like your home or office network) to share a single public IP address.
+
