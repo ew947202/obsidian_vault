@@ -1,9 +1,9 @@
 ---
 pti: ticket
-status: onhold
+status: closed
 ---
 pti: ticket 
-closed: yyyy-mm-dd
+closed: [[2024-10-10]]
 user: [[Chris Hornberg]]
 source: https://sd.corp.arete.com/WorkOrder.do?woMode=viewWO&woID=84466&PORTALID=1
 relates: 
@@ -15,5 +15,6 @@ id: 2024101011274691
 ---
 ## Daily Log
 ### [[2024-10-10]]
-- [ ] Reaching out to [[Brian Crowell]] to see if he approves.
+- [x] Reaching out to [[Brian Crowell]] to see if he approves.
+	- [x] approved, added user to AD group and maintenance log. 
 ---
