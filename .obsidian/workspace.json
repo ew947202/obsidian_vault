@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5691673c37f8fcb5",
+            "id": "9ed5b0dc5017d762",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "file": "00 Meta/01 Periodics/2024-10-10.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "file": "00 Meta/01 Periodics/2024-10-10.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md",
+                "file": "00 Meta/01 Periodics/2024-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md"
+                "file": "00 Meta/01 Periodics/2024-10-10.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-09.md"
+                "file": "00 Meta/01 Periodics/2024-10-10.md"
               }
             }
           },
@@ -192,10 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5691673c37f8fcb5",
+  "active": "9ed5b0dc5017d762",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/01 Periodics/2024-10-09.md",
+    "00 Meta/01 Periodics/2024-10-10.md",
+    "00 Meta/02 PTIs/84039 Data copy.md",
     "00 Meta/02 PTIs/84391 Install COMSOL on laptop.md",
     "00 Meta/02 PTIs/84402 Condo Error.md",
     "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
@@ -239,7 +240,6 @@
     "00 Meta/02 PTIs/84295 WSL.md",
     "00 Meta/02 PTIs/84268 Install WinMerge on my Computer.md",
     "00 Meta/02 PTIs/84210 Arete Wifi Connection.md",
-    "00 Meta/02 PTIs/84198 Microsoft office issue.md",
     "Untitled.canvas"
   ]
 }
