@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0dbd3e1c635b59b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/02 PTIs/84447 Add user.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clayton",
+                "query": "photonsleuth ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e0cf9dcad16a2eb9",
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md",
+                "file": "00 Meta/02 PTIs/84447 Add user.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md",
+                "file": "00 Meta/02 PTIs/84447 Add user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md"
+                "file": "00 Meta/02 PTIs/84447 Add user.md"
               }
             }
           },
@@ -161,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Meta/01 Periodics/2024-10-10.md"
+                "file": "00 Meta/02 PTIs/84447 Add user.md"
               }
             }
           },
@@ -192,12 +206,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ed5b0dc5017d762",
+  "active": "0dbd3e1c635b59b6",
   "lastOpenFiles": [
-    "00 Meta/02 PTIs/84431 New Application Request.md",
-    "00 Meta/03 Templates/Button.md",
-    "00 Meta/02 PTIs/84457 Installation never works.md",
     "00 Meta/01 Periodics/2024-10-10.md",
+    "00 Meta/02 PTIs/83682 Email Assistance Requested.md",
+    "00 Meta/02 PTIs/84447 Add user.md",
+    "00 Meta/03 Templates/Button.md",
+    "00 Meta/02 PTIs/84428 Pyramid/ILSI Jira and Bitbucket user additions.md",
+    "00 Meta/02 PTIs/84428 Pyramid",
+    "30 Dashboard/Homepage PTIs.md",
+    "00 Meta/02 PTIs/84431 New Application Request.md",
+    "00 Meta/02 PTIs/84457 Installation never works.md",
     "00 Meta/02 PTIs/84454 New Monitors.md",
     "00 Meta/01 Periodics/2024-10-09.md",
     "00 Meta/02 PTIs/84039 Data copy.md",
@@ -205,7 +224,6 @@
     "00 Meta/02 PTIs/84402 Condo Error.md",
     "00 Meta/02 PTIs/84432 Security Key for Aqua.md",
     "00 Meta/02 PTIs/DCTESTHOST.md",
-    "30 Dashboard/Homepage PTIs.md",
     "00 Meta/03 Templates/Daily Log Template.md",
     "00 Meta/02 PTIs/00 Testing Ticket.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Arlington.md",
@@ -229,7 +247,6 @@
     "00 Meta/04 Assets/RE Laptop Refresh_files/colorschememapping.xml",
     "00 Meta/04 Assets/RE Laptop Refresh_files/themedata.thmx",
     "00 Meta/04 Assets/RE Laptop Refresh_files",
-    "00 Meta/04 Assets/RE Laptop Refresh.htm",
     "Study Notes.md",
     "00 Meta/02 PTIs/2024 Computer Refreshes - Chantilly.md",
     "00 Meta/02 PTIs/84211 Got a new phone - need help setting up DUO.md",
@@ -237,9 +254,6 @@
     "10 Documentation/15 Coding/PowerShell Scripts/Default Software Script.md",
     "10 Documentation/15 Coding/PowerShell Scripts/Copying users in AD Groups.md",
     "30 Dashboard/Untitled.md",
-    "00 Meta/02 PTIs/Access to MDA241-014.md",
-    "00 Meta/02 PTIs/84392 Access to AM LAAM07 and 08.md",
-    "00 Meta/02 PTIs/84373 Luno Project Folder.md",
     "Untitled.canvas"
   ]
 }
